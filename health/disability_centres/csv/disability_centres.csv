@@ -1,0 +1,143 @@
+ID,Organizati,Office_Pho,E_Mail,Website,ADDRESS_OR,GC_WARD,GC_LONGITU,GC_LATITUD,GC_X,GC_Y,Type
+1,Adventure Place Child and Family Centre,416-744-7650,intake@adventureplace.ca,www.adventureplace.ca,40 Orchard View Blvd,Eglinton-Lawrence (16),-79.358084,43.798982,316204.125,4850789.674,Developmental
+2,"Addus, Orchard View Location",416-544-8847 ext 28,,www.addus.org,2901 Dufferin St,Eglinton-Lawrence (15),-79.400067,43.708278,312838.109,4840707.192,Developmental
+3,"Cota, Main Office",Reception 416-785-9230,info@cotainspires.ca,www.cotainspires.ca,160 Springhurst Ave,Parkdale-High Park (14),-79.453112,43.70852,308563.156,4840730.11,Developmental
+5,CORE,416-340-7929,core.centre@bellnet.ca,www.core-toronto.ca,581 Trethewey Dr,York South-Weston (12),-79.437078,43.636829,309861.33,4832766.519,Developmental
+6,"Corbrook, West Campus",416-245-5565,info@corbrook.com,www.corbrook.com,401 Champagne Dr,York West (8),-79.492235,43.696444,305410.372,4839387.6,Developmental
+7,Meta Centre,416-736-0199,,www.metacentre.ca,65 Hartsdale Dr,Etobicoke Centre (4),-79.474206,43.764228,306861.446,4846918.343,Developmental
+8,Etobicoke Children's Centre,416-240-1111,ecc@etobicokechildren.com,www.etobicokechildren.com,112 Merton St,St. Paul's (22),-79.545231,43.683237,301137.678,4837921.459,Developmental
+9,Geneva Centre for Autism,416-322-7877,info@autism.net,www.autism.net,1124 Finch Ave W,York West (8),-79.392809,43.69707,313424.367,4839463.582,Developmental
+10,Griffin Centre,416-222-1153,contact@griffincentre.org,www.griffincentre.org,219 Dufferin St,Parkdale-High Park (14),-79.476262,43.7692,306695.486,4847471.584,Developmental
+11,"Kerry's Place Autism Services, Toronto Region",416-537-2000,joe.persaud@kerrysplace.org,www.kerrysplace.org,20 Spadina Rd,Trinity-Spadina (20),-79.426218,43.636746,310737.634,4832757.896,Developmental
+12,"Community Living Toronto, Central Region",416-968-0650,abradley@cltoronto.ca,www.communitylivingtoronto.ca,1630 Lawrence Ave W,York South-Weston (12),-79.405043,43.668555,312442.074,4836293.467,Developmental
+13,Ontario Federation for Cerebral Palsy,416-244-9686,info@ofcp.ca,www.ofcp.ca,1179 King St W,Parkdale-High Park (14),-79.491425,43.706167,305475.573,4840467.787,Developmental
+14,"Autism Ontario, Provincial Office",416-246-9592,mail@autismontario.com,www.autismontario.com,325 Milner Ave,Scarborough-Rouge River (42),-79.425194,43.639119,310820.04,4833021.665,Developmental
+15,Aisling Discoveries Child and Family Centre,416-321-5464,email@aislingdiscoveries.on.ca,www.aislingdiscoveries.on.ca,2 Surrey Pl,Toronto Centre-Rosedale (27),-79.233348,43.789958,326244.849,4849810.778,Developmental
+16,Surrey Place Centre,416-925-5141,info@surreyplace.on.ca,www.surreyplace.on.ca,825 Coxwell Ave,Beaches-East York (31),-79.388744,43.661151,313757.599,4835472.59,Developmental
+17,Toronto East General Hospital,Switchboard 416-461-8272 ; Patient Directory Line 416-469-6487,community@tegh.on.ca,www.tegh.on.ca,3701 Danforth Ave,Scarborough Southwest (36),-79.324954,43.689832,318895.789,4838667.766,Developmental
+18,Variety Village,416-699-7167,info@varietyvillage.on.ca,www.varietyvillage.ca,4301 Weston Rd,York West (7),-79.257226,43.698594,324352.8,4839654.886,Developmental
+19,VITA Community Living Services,416-749-6234,klenahan@vitacls.org,www.vitacls.org,815 Danforth Ave,Toronto-Danforth (30),-79.545908,43.769567,301088.363,4847513.16,Developmental
+20,"WoodGreen Community Services, Danforth Avenue Main Office, Housing and Community Supports",416-645-6000,,www.woodgreen.org,40 Samor Rd,Eglinton-Lawrence (15),-79.340974,43.679448,317606.516,4837511.481,Developmental
+21,"Aptus Treatment Centre, Adult Day Program",416-633-5775,info@aptustc.com,www.aptustc.com,931 Progress Ave,Scarborough Centre (38),-79.458648,43.718377,308116.521,4841824.935,Developmental
+22,"Corbrook, East Campus",416-431-9000,info@corbrook.com,www.corbrook.com,295 The West Mall,Etobicoke Centre (3),-79.230432,43.783736,326481.749,4849120.33,Developmental
+23,"Community Living Toronto, Etobicoke/York Region",416-236-7621,,www.communitylivingtoronto.ca,1122 Finch Ave W,York West (8),-79.5613,43.635319,299838.212,4832598.683,Developmental
+24,"Community Living Toronto, North York Region",416-225-7166,,www.communitylivingtoronto.ca,1712 Ellesmere Rd,Scarborough Centre (38),-79.475437,43.7694,306761.867,4847493.843,Developmental
+25,"Community Living Toronto, Scarborough Region",416-438-6099,,www.communitylivingtoronto.ca,184 Galloway Rd,Scarborough East (43),-79.248169,43.77347,325057.371,4847976.328,Developmental
+26,"East Metro Youth Services, Galloway Road Site, Developmental Services",416-724-7444,emys@emys.on.ca,www.emys.on.ca,61 Queen St E,Toronto Centre-Rosedale (28),-79.196127,43.764278,329250.833,4846968.15,Developmental
+27,"St Michael's Hospital, Pediatric Ambulatory Clinic",416-867-3655,,www.stmichaelshospital.com,40 Wynford Dr,Don Valley West (26),-79.376288,43.652826,314763.622,4834549.145,Developmental
+28,Surex Community Services,416-469-4109,colin.hamilton@surexcs.com,www.surexcs.com,225 Queen St E,Toronto Centre-Rosedale (28),-79.335756,43.724297,318017.413,4842494.938,Developmental
+29,"Anishnawbe Health Toronto, Queen Street Site",416-360-0486,info@aht.ca,www.aht.ca,111 Anthony Rd,York Centre (9),-79.369822,43.654265,315284.976,4834709.769,Developmental
+30,"Aptus Treatment Centre, Toronto Children's Day Program",416-633-3971,info@aptustc.com,www.aptustc.com,38 Regent St,Toronto Centre-Rosedale (28),-79.467946,43.72791,307366.916,4842883.738,Developmental
+31,"Regent Park Community Health Centre, Parents for Better Beginnings",416-362-0805 ext 222,pfbb.info@regentparkchc.org,www.regentparkchc.org/infant-child-development,63 Mack Ave,Scarborough Southwest (35),-79.364272,43.658595,315731.545,4835192.534,Developmental
+32,"Warden Woods Community Centre, Mack Avenue Office, Health and Seniors Services",416-694-1138 ext 138,,www.wardenwoods.com,840 Coxwell Ave,Toronto-Danforth (29),-79.269944,43.700211,323327.2,4839831.541,Developmental
+33,"Woodgreen Community Services, Adult Day Program, Community Care and Wellness for Seniors",416-572-3575,ccwscentralintake@woodgreen.org,www.woodgreen.org,931 Kingston Rd,Beaches-East York (32),-79.326763,43.690159,318749.589,4838704.784,Developmental
+34,Pegasus Community Project for Adults with Special Needs,416-691-5651 * Thrift Store 416-913-2544,info@pegasustoronto.ca,www.pegasustoronto.ca,240 Duncan Mill Rd,Don Valley East (34),-79.288491,43.680168,321837.964,4837600.955,Developmental
+35,Community Living Ontario,416-447-4348,info@communitylivingontario.ca,www.communitylivingontario.ca,40 Orchard View Blvd,Eglinton-Lawrence (16),-79.351456,43.762229,316744.969,4846706.53,Developmental
+36,"Addus, Head Office Location",416-544-8847,,www.addus.org,360 Windermere Ave,Parkdale-High Park (13),-79.400067,43.708278,312838.109,4840707.192,Developmental
+37,"Addus, Windermere Location",416-604-2449,,www.addus.org,1464 Midland Ave,Scarborough Centre (37),-79.480825,43.649628,306331.212,4834186.702,Developmental
+38,"Operation Springboard, Seeking Opportunities Accessing Resources",416-913-1301,info@springboardservices.ca,www.springboardservices.ca,200 Eglinton Ave W,Eglinton-Lawrence (16),-79.265636,43.75242,323658.032,4845632.747,Developmental
+39,"Addus, Eglinton Location",416-481-9930,,www.addus.org,2395 Bayview Ave,Don Valley West (25),-79.404623,43.706106,312470.973,4840466.317,Developmental
+40,"Bob Rumball Centre for the Deaf, Day Program",416-449-9651 ext 127,info@bobrumball.org,www.bobrumball.org,150 Railside Rd,Don Valley East (34),-79.380526,43.73475,314408.646,4843650.065,Developmental
+41,"Salvation Army, Broadview Village, Enrichment Program",416-285-4373,,www.salvationarmy.ca,112 Merton St,St. Paul's (22),-79.326025,43.737573,318798.361,4843971.441,Developmental
+42,"Geneva Centre for Autism, Adult Services",416-322-7877 * Intake 1-855-372-3858 (1-855-DS-ADULT),info@autism.net,www.autism.net,3615 Danforth Ave,Scarborough Southwest (36),-79.392809,43.69707,313424.367,4839463.582,Developmental
+43,Hellenic Hope Centre for Persons with Special Needs,416-850-4673 ; 416-850-HOPE,,,2700 Dufferin St,Eglinton-Lawrence (15),-79.268389,43.695198,323454.046,4839275.019,Developmental
+44,"JVS Toronto, Al Green Resource Centre",416-782-3976,algreen@jvstoronto.org,www.jvstoronto.org,4130 Lawrence Ave E,Scarborough East (43),-79.453993,43.701713,308492.598,4839973.954,Developmental
+45,Pines Adult Day Centre,416-284-7397,info@pinesadultdaycentre.com,www.pinesadultdaycentre.com,2295 St Clair Ave W,York South-Weston (11),-79.192698,43.768637,329525.059,4847453.376,Developmental
+46,Luso Canadian Charitable Society,416-761-9761,m.santos@lusoccs.org,www.lusoccs.org,551 Kennedy Rd,Scarborough Southwest (35),-79.478209,43.670006,306541.592,4836450.644,Developmental
+47,Moeen Centre For Physically Disabled and Developmentally Challenged Young Adults,Administration 416-424-4026 ; Programs and intake 416-264-5809,moeencentre@hotmail.com,www.moeencentre.org,,,-79.262995,43.721332,323880.552,4842179.614,Developmental
+1,Hearing Clinic (The),416-266-8300,info@thehearingclinic.ca,www.thehearingclinic.ca,2636 Eglinton Ave E,Scarborough Centre (37),-79.251176,43.73644,324827.839,4843860.817,Physical
+2,Helix Hearing Care Centre,416-298-4575,,,4040 Finch Ave E,Scarborough-Agincourt (39),-79.293752,43.802434,321380.169,4851183.139,Physical
+3,"ListenUP! Canada, Scarborough Centenary",416-283-1940,info@listenupcanada.com,www.listenupcanada.com,2863 Ellesmere Rd,Scarborough East (43),-79.205983,43.781113,328450.423,4848836.584,Physical
+4,West Hill Physio and Rehab,416-724-6075,westhillphysio@gmail.com,www.westhillphysio.com,4410 Kingston Rd,Scarborough East (43),-79.190342,43.768232,329714.95,4847409.112,Physical
+5,HPU Rehab,416-739-1267,info@hpurehab.com,www.hpurehab.com,220 Wildcat Rd,York West (8),-79.489347,43.778293,305642.09,4848480.566,Physical
+6,John's Orthopedic Specialties - Toronto,416-247-7104,rbogad@johnsorthopedic.com,,2540 Weston Rd,York South-Weston (11),-79.534666,43.709066,301990.798,4840790.501,Physical
+7,"MEDIChair - Toronto (North York), MEDIChair  - Toronto (North York)",416-222-5281,torontonorth@medichair.ca,torontonorth.medichair.com/,5841 Yonge St,Willowdale (24),-79.416429,43.786418,311510.597,4849387.558,Physical
+8,Motion Specialties - Toronto,416-751-0400,toronto@motionspecialties.com,www.motionspecialties.com,72 Carnforth Rd,Don Valley East (34),-79.318848,43.737456,319376.51,4843959.595,Physical
+9,Nu-Life Home Health Care,416-633-3457,nulifehealth@gmail.com,www.nulifehealth.ca,2801 Keele St,York Centre (9),-79.482396,43.729215,306202.708,4843028.414,Physical
+10,SureFit Surgical Supply - Orthotics,416-225-0880,,,301 Finch Ave W,Willowdale (23),-79.442304,43.77373,309429.25,4847975.192,Physical
+11,HealthOne Medical Centre,416-223-6666,info@healthonemedicalcentre.com,healthonemedicalcentre.com,5292 Yonge St,Willowdale (23),-79.414043,43.772414,311704.256,4847831.926,Physical
+12,"Baycrest, Baycrest Hospital, Ben and Hilda Katz Building",416-785-2500,dforseniors@baycrest.org,www.baycrest.org,3560 Bathurst St,Eglinton-Lawrence (15),-79.434147,43.730064,310089.764,4843124.674,Physical
+13,Bell Canada Accessibility Services Centre,,accessible@bell.ca,www.bell.ca/accessibility,2395 Bayview Ave,Don Valley West (25),-79.380526,43.73475,314408.646,4843650.065,Physical
+14,Bob Rumball Centre for the Deaf,416-449-9651,info@bobrumball.org,www.bobrumball.org,271 Spadina Rd,St. Paul's (22),-79.407672,43.677194,312229.036,4837253.001,Physical
+15,"Canadian Hearing Society, Toronto Regional Office",Reception 416-928-2504 ; Phone Menu 416-928-2500,info@chs.ca,www.chs.ca,1929 Bayview Ave,Don Valley West (26),-79.377527,43.71734,314653.112,4841716.225,Physical
+16,"CNIB, Toronto Region",416-486-2500,info@cnib.ca,www.cnib.ca,40 Holly St,St. Paul's (22),-79.39667,43.705446,313112.318,4840392.818,Physical
+17,Easter Seals Canada,416-932-8382,info@easterseals.ca,www.easterseals.ca,2867 Ellesmere Rd,Scarborough East (43),-79.204964,43.78009,328533.077,4848722.275,Physical
+18,"Rouge Valley Health System, Rouge Valley Centenary",416-284-8131,patientrelations@rougevalley.ca,www.rougevalley.ca,130 Dunn Ave,Parkdale-High Park (14),-79.433086,43.635008,310183.58,4832564.445,Physical
+19,"University Health Network, Toronto Rehabilitation Institute, EW Bickle Centre for Complex Continuing Care",416-597-3422 ext 2000 ; 416-59-REHAB ext 2000,,www.uhn.ca/torontorehab,479 Dundas St W,Trinity-Spadina (20),-79.397185,43.652927,313077.658,4834558.965,Physical
+20,"Carefirst Seniors and Community Services Association, South Toronto Office/Helena Lam Community Services Centre",416-585-2013; 416-502-2323,sto@carefirstseniors.com,www.carefirstseniors.com,497 Wilson Ave,York Centre (10),-79.445446,43.734762,309179.101,4843645.874,Physical
+21,Lumacare Services,416-398-5510 * Customer Service 416-398-5511,info@lumacare.ca,www.lumacare.ca,1 Concorde Gate,Don Valley West (26),-79.329277,43.728846,318538.395,4843001.383,Physical
+22,"Easter Seals Ontario, Head Office",416-421-8377,info@easterseals.org,www.easterseals.org,51 Dockside Dr,Toronto Centre-Rosedale (28),-79.36547,43.643939,315637.625,4833564.141,Physical
+23,"George Brown College, WAVE Clinic",416-415-4547,chsclientservices@georgebrown.ca,www.georgebrown.ca/clinic,555 University Ave,Toronto Centre-Rosedale (27),-79.387437,43.657372,313863.588,4835052.944,Physical
+24,Hospital for Sick Children,Switchboard 416-813-1500 ; Patient Inquiry 416-813-6621,,www.sickkids.ca,20 Adelaide St E,Toronto Centre-Rosedale (28),-79.37766,43.650869,314653.011,4834332.508,Physical
+25,"Ontario Association of Optometrists, Eye See, Eye Learn",905-826-3522,esel@optom.on.ca,www.optom.on.ca,1235 Wilson Ave,York Centre (9),-79.489216,43.724258,305653.118,4842478.556,Physical
+26,Humber River Hospital,416-242-1000,,www.hrh.ca,520 Sutherland Dr,Don Valley West (26),-79.369712,43.718489,315282.663,4841844.904,Physical
+27,"University Health Network, Toronto Rehabilitation Institute, Lyndhurst Centre",416-597-3422 ext 6000 ; 416-59-REHAB ext 6000,,www.uhn.ca/torontorehab,600 University Ave,Trinity-Spadina (20),-79.390445,43.657536,313620.955,4835070.86,Physical
+28,Mount Sinai Hospital,Switchboard 416-596-4200 * Patient Inquiry 416-586-8300,communicationsandmarketing@mtsinai.on.ca,www.mtsinai.on.ca,4001 Leslie St,Willowdale (24),-79.362457,43.769627,315857.843,4847526.976,Physical
+29,North York General Hospital,416-756-6000,,www.nygh.on.ca,10 Overlea Blvd,Don Valley West (26),-79.35219,43.703481,316697.481,4840179.813,Physical
+30,"March of Dimes Canada, Head Office",416-425-3463 ; 416-425-DIME,info@marchofdimes.ca,www.marchofdimes.ca,43 Wellesley St E,Toronto Centre-Rosedale (27),-79.382364,43.665051,314271.583,4835906.556,Physical
+31,"Sunnybrook Health Sciences Centre, Holland Orthopaedic and Arthritic Centre",416-967-8500,,www.sunnybrook.ca,4920 Dundas St W,Etobicoke-Lakeshore (5),-79.529117,43.648622,302435.106,4834076.265,Physical
+32,BALANCE for Blind Adults,416-236-1796,info@balancefba.org,www.balancefba.org,3276 St Clair Ave E,Scarborough Southwest (35),-79.285199,43.713968,322093.622,4841356.641,Physical
+33,Providence Healthcare,Providence Hospital 416-285-3666 * Long term care 416-285-3666 ext 4433 * Adult Day Program 416-285-3803,info@providence.on.ca,www.providence.on.ca,550 University Ave,Trinity-Spadina (20),-79.389958,43.65667,313660.392,4834974.682,Physical
+34,"University Health Network, Toronto Rehabilitation Institute, University Centre","416-597-3422, ext 3000 ; 416-59-REHAB, ext 3000",,www.uhn.ca/torontorehab,150 Sherway Dr,Etobicoke-Lakeshore (5),-79.562814,43.609302,299713.906,4829708.466,Physical
+35,"Trillium Health Partners, Queensway Health Centre",416-259-6671,,www.trilliumhealthpartners.ca,890 Yonge St,Toronto Centre-Rosedale (27),-79.388355,43.673298,313787.254,4836822.063,Physical
+36,Foundation Fighting Blindness,416-360-4200,info@ffb.ca,www.ffb.ca,625 Runnymede Rd,Parkdale-High Park (13),-79.48113,43.664182,306306.25,4835803.616,Physical
+37,Runnymede Healthcare Centre,416-762-7316,communications@runnymedehc.ca,www.runnymedehc.ca,47 Austin Terrace,St. Paul's (21),-79.415947,43.678123,311561.743,4837355.518,Physical
+38,"Salvation Army, Toronto Grace Health Centre",416-925-2251,info@torontograce.org,www.torontograce.org,3050 Lawrence Ave E,Scarborough Centre (38),-79.247505,43.756157,325116.875,4846052.103,Physical
+39,"Scarborough Hospital, General Campus",416-438-2911,,TSH.to,10 St Mary St,Toronto Centre-Rosedale (27),-79.386217,43.668107,313960.409,4836245.665,Physical
+40,Society of Sharing,416-413-0380,info@societyofsharing.org,www.societyofsharing.org,285 Cummer Ave,Willowdale (24),-79.404736,43.789596,312451.6,4849740.734,Physical
+41,"Sunnybrook Health Sciences Centre, St John's Rehab",416-226-6780,,www.sunnybrook.ca/stjohnsrehab,30 The Queensway,Parkdale-High Park (14),-79.450101,43.639358,308810.416,4833046.8,Physical
+42,St Joseph's Health Centre,416-530-6000,,www.stjoe.on.ca,2 Surrey Pl,Toronto Centre-Rosedale (27),-79.388744,43.661151,313757.599,4835472.59,Physical
+43,Surrey Place Centre,416-925-5141,info@surreyplace.on.ca,www.surreyplace.on.ca,825 Coxwell Ave,Beaches-East York (31),-79.324954,43.689832,318895.789,4838667.766,Physical
+44,Toronto East General Hospital,Switchboard 416-461-8272 ; Patient Directory Line 416-469-6487,community@tegh.on.ca,www.tegh.on.ca,200 Elizabeth St,Toronto Centre-Rosedale (27),-79.387245,43.659224,313878.538,4835259.628,Physical
+45,"University Health Network, Toronto General Hospital",Switchboard 416-340-4800 * Patient Inquiry 416-340-3131,,www.uhn.ca,399 Bathurst St,Trinity-Spadina (20),-79.405688,43.653095,312391.734,4834576.813,Physical
+46,"University Health Network, Toronto Western Hospital",Switchboard 416-603-5800 * Patient Inquiry 416-603-5801,,www.uhn.ca,16 York Mills Rd,Don Valley West (25),-79.404779,43.744515,312453.759,4844732.317,Physical
+47,Vision Institute of Canada,416-224-2273,visioninstitute@globalserve.net,visioninstitute.optometry.net,6043 Yonge St,Willowdale (24),-79.4177,43.790098,311408.12,4849795.384,Physical
+48,"War Amps, Toronto Branch",416-221-2130,,www.waramps.ca,82 Buttonwood Ave,York South-Weston (11),-79.508968,43.689297,304061.436,4838593.648,Physical
+49,West Park Healthcare Centre,416-243-3600 ; Intake 416-243-3632,feedback@westpark.org,www.westpark.org,1167 Weston Rd,York South-Weston (11),-79.490132,43.687439,305579.671,4838388.133,Physical
+50,Humber Community Seniors' Services,416-249-7946,info@humberseniors.org,www.humberseniors.org,2 Buchan Crt,Don Valley East (33),-79.359454,43.773074,316098.896,4847910.337,Physical
+51,"North York General Hospital, Seniors' Health Centre",Long Term Care Facility 416-756-0066 ; Specialized Geriatric Services 416-756-6050,,www.nygh.on.ca,381 Yonge St,Toronto Centre-Rosedale (27),-79.381572,43.658757,314336.45,4835207.477,Physical
+52,"Yonge Street Mission, Evergreen Centre for Street Youth, Evergreen Health Centre",416-929-9614 ext 2238,healthcentre@ysm.ca,www.ysm.ca,300 Silver Star Blvd,Scarborough-Rouge River (41),-79.295565,43.812379,321231.349,4852288.562,Physical
+53,"Carefirst Seniors and Community Services Association, Administrative Office/North Toronto Office",416-502-2323,info@carefirstseniors.com,www.carefirstseniors.com,2398 Yonge St,Eglinton-Lawrence (16),-79.399463,43.709714,312886.63,4840866.696,Physical
+54,Anne Johnston Health Station,416-486-8666,info@ajhs.ca,www.ajhs.ca,46 Raeburn Ave,York Centre (10),-79.434526,43.74491,310057.93,4844773.867,Physical
+55,Eye Contact,416-398-2590,i.contact@rogers.com,,150 Kilgour Rd,Don Valley West (26),-79.372966,43.718418,315020.435,4841836.596,Physical
+56,Holland Bloorview Kids Rehabilitation Hospital,416-425-6220,info@bloorview.ca,www.bloorview.ca,550 University Ave,Trinity-Spadina (20),-79.389958,43.65667,313660.392,4834974.682,Physical
+57,"University Health Network, Toronto Rehabilitation Institute",416-597-3422 ; 416-59-REHAB,,www.uhn.ca/torontorehab,2395 Bayview Ave,Don Valley West (25),-79.380526,43.73475,314408.646,4843650.065,Physical
+58,Ontario Association of the Deaf,TTY 416-513-1893 ; Voice 416-413-9191,office@deafontario.ca,www.deafontario.ca,1082 Dundas St W,Trinity-Spadina (19),-79.418743,43.650058,311339.363,4834237.343,Physical
+59,"March of Dimes Canada, Assistive Devices Program",,adp@marchofdimes.ca,www.marchofdimes.ca,2 Trethewey Dr,York South-Weston (12),-79.475652,43.690859,306747.222,4838767.351,Physical
+60,"Bellwoods Centres for Community Living, Dundas Project, MILE Program",416-534-1354,,www.bellwoodscentres.org,210 Empress Ave,Willowdale (23),-79.402637,43.771739,312622.846,4847756.948,Physical
+61,Toronto Foundation for Student Success,416-394-6880,info@tfss.ca,www.tfss.ca,121 Willowdale Ave,Willowdale (23),-79.399846,43.76512,312848.405,4847021.933,Physical
+62,Canadian Helen Keller Centre,416-225-8989,info@chkc.org,www.chkc.org,225 Duncan Mill Rd,Don Valley East (34),-79.352683,43.761437,316646.367,4846618.42,Physical
+63,"Learning Disabilities Association of Ontario, Toronto District",416-229-1680,admin@ldatd.on.ca,www.ldatd.on.ca,2395 Bayview Ave,Don Valley West (25),-79.380526,43.73475,314408.646,4843650.065,Physical
+64,Toronto Preschool Speech and Language Services,Intake and Information 416-338-8255 * French 416-635-2616,tpsls@toronto.ca,www1.toronto.ca/wps/portal/contentonly?vgnextoid=2b62b2f59527a410VgnVCM10000071d60f89RCRD,2395 Bayview Ave,Don Valley West (25),-79.380526,43.73475,314408.646,4843650.065,Physical
+65,"Bob Rumball Centre for the Deaf, Day Program",416-449-9651 ext 127,info@bobrumball.org,www.bobrumball.org,14 St Matthews Rd,Toronto-Danforth (30),-79.355235,43.665755,316459.146,4835989.19,Physical
+66,"Bob Rumball Centre for the Deaf, Specialized Parent-Child/Infant Program",416-449-9651 ext 105,skellen@bobrumball.org,www.bobrumball.org,551 Kennedy Rd,Scarborough Southwest (35),-79.262995,43.721332,323880.552,4842179.614,Physical
+67,"Bridgepoint Active Healthcare, Bridgepoint Hospital",Switchboard 416-461-8252,info@bridgepointhealth.ca,www.bridgepointhealth.ca,2190 Yonge St,St. Paul's (22),-79.398358,43.705347,312976.282,4840381.656,Physical
+68,Moeen Centre For Physically Disabled and Developmentally Challenged Young Adults,Administration 416-424-4026 ; Programs and intake 416-264-5809,moeencentre@hotmail.com,www.moeencentre.org,447 Church St,Toronto Centre-Rosedale (27),-79.37992,43.663907,314468.912,4835779.754,Physical
+69,Centre for Physiotherapy,416-484-9295,physio4u2c@thecentreforphysiotherapy.com,www.thecentreforphysiotherapy.com,1901 Yonge St,St. Paul's (22),-79.396253,43.698131,313146.904,4839580.168,Physical
+70,Church Street Chiropractic and Acupuncture Clinic,416-925-1868,drzylich@rogers.com,,2175 Danforth Ave,Beaches-East York (32),-79.310256,43.686079,320081.588,4838253.486,Physical
+71,CIMS Home Health Care - Toronto East,416-483-1665,yonge@nrxhhc.com,www.nrxhhc.com,250 Lawrence Ave W,Eglinton-Lawrence (16),-79.413875,43.722936,311723.707,4842334.248,Physical
+72,DKB Coaching and Wellness Centre,416-691-3939,chiro@dkbwellness.com,www.dkbwellness.com,1849 Yonge St,St. Paul's (22),-79.395927,43.69696,313173.337,4839450.154,Physical
+73,Eisenhauer and Smith Physiotherapy,416-781-3552,info@esphysio.com,www.esphysio.com,145 King St. W,Toronto Centre-Rosedale (28),-79.383926,43.647464,314148.349,4833952.583,Physical
+74,Hearing Health Care Consultant Group,416-488-1300,hearinghealthcare@live.ca,,2790 Bathurst St,Eglinton-Lawrence (15),-79.428397,43.712525,310554.612,4841176.486,Physical
+75,King West Chiropractic Health Centre,416-815-9595,info@kingwestchiropractic.com,www.kingwestchiropractic.com,840 Coxwell Ave,Toronto-Danforth (29),-79.326763,43.690159,318749.589,4838704.784,Physical
+76,One Step Ahead Mobility Physiotherapy,416-783-7175,rebecca@onestepaheadmobility.com,www.onestepaheadmobility.com,1450 O'Connor Dr,Beaches-East York (31),-79.3068,43.713662,320353.099,4841318.407,Physical
+77,Orthopaedics Unlimited,416-465-0362,traorthunlimited@gmail.com,,3107 Bloor St W,Etobicoke-Lakeshore (5),-79.516019,43.646091,303491.962,4833793.859,Physical
+78,Silver Cross - Toronto,416-755-1164,dwalters@silvercross.com,www.silvercross.com,1243 Bathurst St,St. Paul's (21),-79.415268,43.676273,311616.618,4837150.064,Physical
+79,Spinal Health and Wellness Centre,416-231-2225,spinalhealthcentre@rogers.com,www.spinalhealthandwellness.ca,1243 Islington Ave,Etobicoke-Lakeshore (5),-79.523504,43.645928,302887.79,4833776.829,Physical
+80,Starkman Surgical Supply Inc,416-534-8410,info@starkmanshealth.com,www.starkmanshealth.com,12 Wellesley St W,Toronto Centre-Rosedale (27),-79.385319,43.664935,314033.275,4835893.422,Physical
+81,Toronto Hearing Services,416-233-8581,westendhearing@bellnet.ca,www.audiologycentre.com,2075 Bayview Ave,Don Valley West (25),-79.377875,43.721938,314624.052,4842227.961,Physical
+82,Toronto Wellness Centre,416-920-2722,,www.torontowellnesscentre.ca,3560 Bathurst St,Eglinton-Lawrence (15),-79.434147,43.730064,310089.764,4843124.674,Physical
+83,"Assistive Technology Clinic, Amyotrophic Lateral Sclerosis Program",416-480-5756,,www.assistivetechnologyclinic.ca,3560 Bathurst St,Eglinton-Lawrence (15),-79.434147,43.730064,310089.764,4843124.674,Physical
+84,"Assistive Technology Clinic, Augmentative and Alternative Communication Program (AAC)",416-784-3600,,www.assistivetechnologyclinic.ca,3560 Bathurst St,Eglinton-Lawrence (15),-79.434147,43.730064,310089.764,4843124.674,Physical
+85,"Assistive Technology Clinic, Gait Technology Program",416-784-3600,,www.assistivetechnologyclinic.ca,1577 Danforth Ave,Beaches-East York (32),-79.323046,43.683181,319051.152,4837929.136,Physical
+86,"Assistive Technology Clinic, Out-Patient Postural Seating and Mobility Clinic",416-784-3600,,www.assistivetechnologyclinic.ca,396 Moore Ave,St. Paul's (22),-79.372637,43.696975,315050.658,4839454.481,Physical
+87,East Toronto Orthopaedic and Sports Injuries Clinic - Coxwell and Danforth and Variety Village,416-691-3943,reception@mytorontophysio.com,www.mytorontophysio.com,3560 Bathurst St,Eglinton-Lawrence (15),-79.434147,43.730064,310089.764,4843124.674,Physical
+88,Integracare,416-421-4243,info@integracare.on.ca,www.integracare.on.ca,120 Carlton St,Toronto Centre-Rosedale (27),-79.37645,43.662731,314748.652,4835650.493,Physical
+89,Assistive Technology Clinic,416-784-3600,,www.assistivetechnologyclinic.ca,100 King St,York South-Weston (11),-79.51617,43.705876,303481.316,4840435.651,Physical
+90,Dilawri Wellness and Rehabilitation Centre,416-960-1919,dr.dilawri@on.aibn.com,www.drdilawri.ca/nitin.html,200 St Clair Ave W,St. Paul's (22),-79.402738,43.686796,312625.713,4838320.208,Physical
+91,Hearing Solutions Inc - First Canadian Place,416-216-1845,info@hearingsolutions.ca,www.hearingsolutions.ca,130 Kingston Rd,Beaches-East York (32),-79.311351,43.67051,319997.229,4836523.536,Physical
+92,Hearing Solutions Inc - St.Clair Ave and Avenue Rd,416-967-4327,info@hearingsolutions.ca,www.hearingsolutions.ca,1243 Islington Ave,Etobicoke-Lakeshore (5),-79.523504,43.645928,302887.79,4833776.829,Physical
+93,Leslam Company Limited,647-748-4388,leslam@rogers.com,www.leslam.com,385 The West Mall,Etobicoke Centre (3),-79.565317,43.642032,299514.715,4833344.703,Physical
+94,West-End Hearing Services Ltd.,416-233-8581,,,4700 Keele St,York West (8),-79.502338,43.77341,304596.116,4847939.02,Physical
+95,Meynell House,416-703-8781,,,30 St Lawrence St,Toronto Centre-Rosedale (28),-79.356982,43.655199,316320.237,4834816.262,Physical
+96,Stephanie McCaul Supportive Housing Program,416-586-1343,,,22 McCaul St,Trinity-Spadina (20),-79.390483,43.65122,313618.859,4834369.14,Physical
