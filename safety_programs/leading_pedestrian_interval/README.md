@@ -2,15 +2,15 @@
 
 ### Description 
 
-The Leading Pedestrian Interval (LPI) program provides an advanced walk signal so that pedestrians begin to cross the street before vehicles get a green signal. The purpose of LPI is to provide pedestrians an advantage over turning vehicles at intersections where it is determined that pedestrians, wishing to enter the crosswalk, were being hindered by aggressive right turns. The LPI is used to improve motorist yielding behaviour toward pedestrians in a crosswalk. The LPI is particularly helpful for older pedestrians, as they may take longer to occupy the crosswalk following the start of a “walk” indication, making them less obvious to turning motorists.
+Leading Pedestrian Intervals (LPI) provide an advanced walk signal so that pedestrians begin to cross the street before vehicles get a green signal. This gives pedestrians more visibility within the intersection and improves motorist yielding behaviour towards pedestrians in a crosswalk. More information about LPIs can be found on [the City website](https://www.toronto.ca/services-payments/streets-parking-transportation/traffic-management/traffic-signals-street-signs/types-of-traffic-signals/leading-pedestrian-interval-phase/).
 
-More information about LPIs can be found on [the City website](https://www.toronto.ca/services-payments/streets-parking-transportation/traffic-management/traffic-signals-street-signs/types-of-traffic-signals/leading-pedestrian-interval-phase/).
+This dataset shows the intersections where LPIs are currently provided in the City of Toronto. The owner of the dataset is the Transportation Services division of the City of Toronto. 
 
-This dataset details the locations of the LPIs in the City of Toronto. The data is available in Shapefile format with the MTM 3 Degree Zone 10 NAD27 projection, and is uploaded in this GitHub directory. The owner of the dataset is the Transportation Services division of the City of Toronto. 
+**Format:** ESRI Shapefile (MTM 3 Degree Zone 10 NAD27)
 
 ### Relevance to the Vision Zero Challenge 
 
-LPIs were created to help pedestrians, especially older adults, to cross an intersection safely while limiting potential interactions with vehicles. 
+LPIs are one of the Vision Zero safety programs aimed at increasing safety at intersections for pedestrians and in particular older adults and school children.
 
 ### Data Dictionary 
 | Column Name | Type | Description |

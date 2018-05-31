@@ -1,0 +1,1408 @@
+wkt_geom,NAME,ADDRESS,POSTAL,CITY,TYPE,LONGITUDE,LATITUDE
+1,Church Of Jesus Christ Of La,851 Ossington Ave,M6G3V2,Toronto,Christian,-79.42613356,43.66505014
+2,Dufferin St Baptist Church,1219 Dufferin St,M6H4C2,Toronto,Christian,-79.43769612,43.66609009
+3,Dovercourt Presbyterian Chur,700 Dovercourt Rd,,Toronto,Christian,-79.42892435,43.65912758
+4,Dovercourt Baptist Church,1140 Bloor St W,M6H4E6,Toronto,Christian,-79.4360228,43.65994327
+5,Belarussian Autocephlous,524 St Clarens Ave,M6H3W7,Toronto,Christian,-79.44300152,43.66095365
+6,The Buddhist Assocation Of C,1326 Bloor St W,M6H1P2,Toronto,Buddhist,-79.4433669,43.6584375
+7,Buddhist Association of Canada,1330 Bloor St W,M6H1P2,Toronto,Buddhist,-79.44337186,43.65848145
+8,Church Of The Crusaders,1307 Bloor St W,M6H1P1,Toronto,Christian,-79.44349294,43.65808401
+9,Britten Memorial Church,1287 Bloor St W,M6H1N7,Toronto,Christian,-79.44253604,43.6581689
+10,Our Lady Of Croatia,7 Croatia St,M6H1K8,Toronto,Catholic,-79.43709435,43.65766276
+11,Apostles Of Infinite Love,512 Dovercourt Rd,M6H2W4,Toronto,Christian,-79.42739999,43.6553737
+12,Crawford Street Church,631 Crawford St,M6G3K1,Toronto,Christian,-79.42090642,43.66064655
+13,Church Of St Mary Magdalene,469 Manning Ave,M6G 2V6,Toronto,Christian,-79.41377201,43.6590284
+14,College Street United Church,456 College St,M6G4A3,Toronto,Christian,-79.40836954,43.6566249
+15,Zen Buddhist Temple,297 College St,M5T1S2,Toronto,Buddhist,-79.40147353,43.65720113
+16,Bathurst United Church,427 Bloor St W,M5S1X7,Toronto,Christian,-79.40571106,43.66604798
+17,Bloor St United Church,300 Bloor St W,M5S1W3,Toronto,Christian,-79.40201804,43.66740318
+18,Covenant Christian Church,455 Huron St,M5R3P2,Toronto,Christian,-79.40144169,43.66776642
+19,Toronto Bahai Centre,288 Bloor St W,M5S1V8,Toronto,Bahai,-79.4013342,43.66743772
+20,Tengye Ling Tibetan Temple,11 Madison Ave,M5R2S2,Toronto,Buddhist,-79.40275711,43.66780162
+21,Church Of The Redeemer,162 Bloor St W,M5S1M4,Toronto,Christian,-79.3940147,43.66913765
+22,Nalandabodhi Toronto Study Group,55 Maitland St,M4Y1C9,Toronto,Buddhist,-79.38160452,43.66411639
+23,Toronto Diamond Way Buddhist Center,25 St Nicholas St,M4Y1W5,Toronto,Buddhist,-79.38562944,43.66565754
+24,Canadian Chinese Buddhist Ming-Yuet Society,22 Cecil St,M5T1N2,Toronto,Buddhist,-79.39597989,43.65707492
+25,Church Of The Toronto Nians,24 Cecil St,M5T1N2,Toronto,Christian,-79.3961563,43.65696081
+26,Chuen Te Buddhist Society,204 Beverley St,M5T1Z1,Toronto,Buddhist,-79.39522615,43.6567886
+27,Chinese Presbyterian Church,177 Beverley St,M5T1Y7,Toronto,Christian,-79.39425109,43.65557777
+28,Church Of St George,197 John St,M5T1X6,Toronto,Christian,-79.39096745,43.65154594
+29,Chinese Gospel Church,450 Dundas St W,M5T1G7,Toronto,Christian,-79.39603916,43.6535852
+30,Assemblies Of The First Born,257 Euclid Ave,M6J2K1,Toronto,Christian,-79.40987825,43.65271173
+31,Buddhist Education Foundation for Canada,300 Bathurst St,M5T2S3,Toronto,Buddhist,-79.40577221,43.65077789
+32,Tai Bay Buddhist Temple,300 Bathurst St,M5T2S3,Toronto,Buddhist,-79.40577221,43.65077789
+33,Ching Kwok Buddhist Temple,300 Bathurst St,M5T2S3,Toronto,Buddhist,-79.40577221,43.65077789
+34,Church Of The Assumption,276 Bathurst St,M5T2S3,Toronto,Christian,-79.40548246,43.65010501
+35,Chinese Grace Baptist Church,20 Claremont St,M6J2M4,Toronto,Christian,-79.41016698,43.64693783
+36,Evangel Hall,573 Queen St W,M5V2B6,Toronto,Christian,-79.40100809,43.64759046
+37,Fu Sien Buddhist Temple,185 Niagara St,M5V1C9,Toronto,Buddhist,-79.40700543,43.64207914
+38,Church Of The Epiphany & St,201 Cowan Ave,M6K 2N7,Toronto,Christian,-79.43229171,43.64075482
+39,Bonar-Parkdale Presbyterian,250 Dunn Ave,M6K2R9,Toronto,Christian,-79.43461168,43.64014883
+40,Nine Mountains Zem Gate Soc.,1000 Queen St W,M6J 1H1,Toronto,Buddhist,-79.41872232,43.64444374
+41,Church In The Great Hall,1089 Queen St W,,Toronto,Christian,-79.42211027,43.6432965
+42,Amida Temple,1120A Queen St W,M6J 1H9,Toronto,Buddhist,-79.42348381,43.64345934
+43,Chua Adida,1120A Queen St W,M6J 1H9,Toronto,Christian,-79.42348381,43.64345934
+44,Salvation Army Scarborough Citadel,2021 Lawrence Ave E,M1R2Z2,Toronto,Christian,-79.29501322,43.74505637
+45,Church Of The First Born Apo,54 Moutray St,M6K1W5,Toronto,Christian,-79.4351329,43.65166274
+46,Brock Ave Gospel Hall,311 Brock Ave,M6K2M5,Toronto,Christian,-79.43561391,43.65037916
+47,Hope United Ministries,2550 Danforth Ave,M4C1L2,Toronto,Christian,-79.3021991,43.6882697
+48,Centre of Gravity Sangha,56 Fern Ave,M6R1K1,Toronto,Buddhist,-79.44252514,43.6459106
+49,Chua Linh-Son,1A Howard Park Ave,M6R1V3,Toronto,Buddhist,-79.44874918,43.65183363
+50,Toronto Zen Centre,33 High Park Gdns,M6R1S8,Toronto,Buddhist,-79.45700336,43.64873937
+51,Emanuel Howard Park United C,240 Roncesvalles Ave,M6R2L8,Toronto,Christian,-79.44921972,43.64557176
+52,Mindfulness Practice Community,214 Wright Ave,M6R1L3,Toronto,Buddhist,-79.44892113,43.64562902
+53,Roman Catholic Episcopal,150 Roncesvalles Ave,,Toronto,Catholic,-79.44844109,43.64381229
+54,St Pius X Church,2305 Bloor St W,M6S1P1,Toronto,Catholic,-79.47934559,43.65020502
+55,Farmer Memorial Baptist Chur,293 South Kingsway,M6S3V4,Toronto,Christian,-79.48438077,43.64792569
+56,All Saints Church,2850 Bloor St W,M8X1B2,Toronto,Christian,-79.50505761,43.64908914
+57,Church Of The Transfiguratio,15 Aldgate Ave,,Toronto,Christian,-79.48683631,43.63069007
+58,Connaught Masonic Hall,23 Superior Ave,M8V 2M5,Toronto,Christian,-79.48952778,43.6154382
+59,Christ Church,329 Royal York Rd,M8Y2P8,Toronto,Christian,-79.49829404,43.61700606
+60,Society Of St. Vincent De Pa,60 Newcastle St,M8Y1A3,Toronto,Catholic,-79.49730746,43.61821488
+61,St Leo'S Catholic Church,277 Royal York Rd,M8V2V8,Toronto,Catholic,-79.49700912,43.61427937
+62,Diocese Of Toronto,135 Adelaide St E,M5C1L8,Toronto,Christian,-79.37416336,43.65123305
+63,Church In The City,160 The Esplanade,M5A3T2,Toronto,Christian,-79.36906581,43.64897939
+64,Scarboro Foreign Mission,2685 Kingston Rd,M1M1M4,Toronto,Catholic,-79.24086501,43.71691611
+65,The Church Of St George,3566 St Clair Ave E,M1K1M2,Toronto,Christian,-79.25909243,43.71733333
+66,Church Of God,3576 St Clair Ave E,M1K1M2,Toronto,Christian,-79.25800808,43.71752977
+67,Dominion Worship Centre,689 Warden Ave,M1L4R6,Toronto,Christian,-79.27757764,43.70770787
+68,St.Theresa'S Well Of Life,90 Northline Rd,M4B3E5,Toronto,Christian,-79.30658043,43.71688892
+69,Christian Family Worship Cen,83 Sunrise Ave,M4A1A9,Toronto,Christian,-79.30690998,43.71795316
+70,Refuge Tabernacle Of Jesus,83 Sunrise Ave,M4A1A9,Toronto,Christian,-79.30690998,43.71795316
+71,True Jesus Church,69 Sunrise Ave,M4A1A9,Toronto,Christian,-79.30608237,43.71827502
+72,World Ablaze Ministries,65 Sunrise Ave,M4A1A9,Toronto,Christian,-79.30578905,43.71832093
+73,Church Of God (Seventh Day),36 Cranfield Rd,M4B3H3,Toronto,Christian,-79.31009537,43.71514289
+74,Church Of St Columba,2723 St Clair Ave E,M4B1M8,Toronto,Christian,-79.31008254,43.70575214
+75,Bible Stories Alive,2851 St Clair Ave E,M4B1N4,Toronto,Christian,-79.30397066,43.70702602
+76,Our Lady Of Fatima Roman Cat,3170 St Clair Ave E,M1L1V6,Toronto,Catholic,-79.29418107,43.70967583
+77,Clairlea Park Presbyterian C,3240 St Clair Ave E,,Toronto,Christian,-79.28929724,43.71052524
+78,Dawes Road Gospel Church,383 Dawes Rd,M4B2E3,Toronto,Christian,-79.2966706,43.70126992
+79,Christadelphian Ecclesia,975 Cosburn Ave,M4C2W8,Toronto,Christian,-79.3113918,43.6969313
+80,Church Of The Resurrection,700 Milverton Blvd,M4C1X9,Toronto,Christian,-79.3148026,43.68897748
+81,Church Of The Nazarene,363 Main St,M4C4X6,Toronto,Christian,-79.30258768,43.69038902
+82,Dentonia Park United Church,107 Dawes Rd,M4C5B7,Toronto,Christian,-79.29666975,43.6921002
+83,Faith Presbytherian Communit,140 Dawes Rd,M4C5C2,Toronto,Christian,-79.29763042,43.69378703
+84,Birch Cliff United Church,33 East Rd,M1N1Z9,Toronto,Christian,-79.27151422,43.68804832
+85,Birchcliff Orange Centre,57 Byng Ave,M1L3N8,Toronto,Christian,-79.28002396,43.6936498
+86,Birchcliffe Heights United C,96 Highview Ave,M1N2H7,Toronto,Christian,-79.26142193,43.70109916
+87,Fallingbrook Heights Baptist,255 Blantyre Ave,M1N2S2,Toronto,Christian,-79.28181326,43.68337173
+88,Fallingbrook Presbyterian Ch,35 Wood Glen Rd,M1N2V8,Toronto,Christian,-79.27567879,43.68418462
+89,Bellefair United Church,2000 Queen St E,,Toronto,Christian,-79.30022606,43.67022218
+90,Corpus Christi Rectory,16 Lockwood Rd,M4L3M8,Toronto,Christian,-79.30986176,43.66859248
+91,Beaches Presbyterian Church,75 Glen Manor Dr,M4E3V3,Toronto,Christian,-79.29225248,43.67117814
+92,Calvary Baptist Church,72 Main St,M4E2V7,Toronto,Christian,-79.29936027,43.6810698
+93,Kampo Gangra Drubgyud Ling,200 Balsam Ave,M4E3C3,Toronto,Buddhist,-79.29052637,43.67908512
+94,Can Po Chai Temple Inc,84 Swanwick Ave,M4E1Z7,Toronto,Buddhist,-79.29735052,43.6829086
+95,All Peoples Korean Presbyter,21 Swanwick Ave,M4E1Z2,Toronto,Christian,-79.30072075,43.68157041
+96,Danforth Mennonite Church,2174-2178 Danforth Ave,M4C1K3,Toronto,Christian,-79.31040673,43.68644903
+97,St Brigid Roman Catholic Chu,300 Wolverleigh Blvd,M4C1S6,Toronto,Catholic,-79.3177322,43.68669598
+98,Church Of Christ,346 Strathmore Blvd,M4C1N3,Toronto,Christian,-79.32342424,43.68454448
+99,Calvary Church,740 Pape Ave,M4K3S7,Toronto,Christian,-79.34585906,43.68055107
+100,East Toronto Chinese Baptist,14 Dewhurst Blvd,M4J3H9,Toronto,Christian,-79.33998435,43.68056204
+101,Danforth Gospel Temple,1050 Danforth Ave,M4J1M2,Toronto,Christian,-79.33587054,43.6810172
+102,St Fredric'S Cathedral,1084 Danforth Ave,M4J1M2,Toronto,Catholic,-79.33535349,43.6811256
+103,Toronto Nichiren Buddhist,20 Caithness Ave,M4J3X7,Toronto,Buddhist,-79.33545026,43.68156162
+104,St Catherine Of Siena Cathol,1099 Danforth Ave,M4J1M5,Toronto,Catholic,-79.334789,43.68075689
+105,Estonian Covenant Church,562 Jones Ave,M4J3H1,Toronto,Christian,-79.33981998,43.67848366
+106,Chua Hoa-Nghiem Temple,1278 Gerrard St E,M4L1Y7,Toronto,Buddhist,-79.32756026,43.67129299
+107,Bethel Seventh Day Adventist,511 Horner Ave,M8W2B9,Toronto,Christian,-79.54625587,43.60120575
+108,Church  Of The Holy Trinity,10 Trinity Sq,M5G1B1,Toronto,Christian,-79.38133862,43.6548378
+109,Christ The King Catholic Chu,3674 Lake Shore Blvd W,M8W1N6,Toronto,Catholic,-79.53799982,43.59429296
+110,St Rosa Lee Roman Catholic,296 Judson St,M8Z5T6,Toronto,Catholic,-79.51312735,43.61332409
+111,Queensway Cathedral,1536-1540 The Queensway,M8Z1T5,Toronto,Catholic,-79.53743885,43.61889323
+112,Bishop'S Office,256 Sheldon Ave,M8W4X8,Toronto,Catholic,-79.54650659,43.60848012
+113,Church Of The Atonement,256 Sheldon Ave,M8W4X8,Toronto,Christian,-79.54650659,43.60848012
+114,Holy Family Coptic Catholic,62 Lunness Rd,M8W4M6,Toronto,Catholic,-79.54651561,43.60677744
+115,Alderwood United Church,44 Delma Dr,M8W4N6,Toronto,Christian,-79.55114633,43.60331557
+116,Baptist Convention Of Ont An,195 The West Mall,M9C5K1,Toronto,Christian,-79.55783086,43.62684924
+117,Bloordale United Church,4258 Bloor St W,M9C1Z7,Toronto,Christian,-79.56885561,43.63462796
+118,Calvary Chapel Grace Church,96 Shorncliffe Rd,M8Z5K5,Toronto,Christian,-79.54270085,43.6251771
+119,Holy Angels Roman Catholic C,59 Jutland Rd,M8Z2G6,Toronto,Catholic,-79.51899256,43.62829259
+120,Berean Baptist Church,5 Glenora Ave,M6C3Y2,Toronto,Christian,-79.43855986,43.69189729
+121,Our Lady Of Peace Catholic C,3914 Bloor St W,M9B1L7,Toronto,Catholic,-79.54482689,43.64016125
+122,Church Of Jesus Christ Of La,95 Melbert Rd,M9C3P8,Toronto,Christian,-79.58176143,43.64974572
+123,Bible Faith Church,326 Rexdale Blvd,M9W1R6,Toronto,Christian,-79.58537304,43.71535455
+124,Deliverance Temple,306 Rexdale Blvd,M9W1R6,Toronto,Christian,-79.58312584,43.71505744
+125,Etobicoke Church Of God,1357 Martin Grove Rd,M9W4X6,Toronto,Christian,-79.58217052,43.71751609
+126,Church Of God Prophecy,1344 Martin Grove Rd,M9W4X3,Toronto,Christian,-79.58091527,43.71250273
+127,Berean Church Of God At T.O,15 Racine Rd,M9W2Z4,Toronto,Christian,-79.57200663,43.71497101
+128,Bibleway Church Of God In Christ,1A Holley Ave,M9N2C4,Toronto,Christian,-79.52786527,43.70586286
+129,Bible Way Church Of God,2822 Weston Rd,M9M2R9,Toronto,Christian,-79.53781247,43.72019211
+130,Riverside-Emery United Church,2799 Weston Rd,M9M2R8,Toronto,Christian,-79.53715627,43.71930678
+131,Disciples Revival Church,30 Gordon Mackay Rd,M9N2V6,Toronto,Christian,-79.50967954,43.71544128
+132,Westminister United Church,69 William St,M9N2G6,Toronto,Christian,-79.5126441,43.70366316
+133,Weston Park Baptist Church,1871 Weston Rd,M9N1V9,Toronto,Christian,-79.51526608,43.70005072
+134,Weston Park Baptist Church,1871 Weston Rd,M9N1V9,Toronto,Christian,-79.51526608,43.70005072
+135,Grace Restoration International Ministries,1736 Weston Rd,M9N1V6,Toronto,Christian,-79.51100785,43.69790424
+136,Bethel Apostolic Church,1831 Weston Rd,M9N1V9,Toronto,Christian,-79.51382883,43.6996092
+137,Bethel Apostolic Church,1831 Weston Rd,M9N1V9,Toronto,Christian,-79.51382883,43.6996092
+138,Masonic Lodge,2040 Weston Rd,M9N1X4,Toronto,Christian,-79.5214815,43.7012322
+139,Central United Church,1 King St,M9N1K8,Toronto,Christian,-79.52017085,43.7015623
+140,St John The Evangelist,45 George St,M9N2B4,Toronto,Christian,-79.52140692,43.70349374
+141,St Johns Anglican,2125 Weston Rd,M9N1X8,Toronto,Christian,-79.52408513,43.70278278
+142,St Andrew's Presbyterian Church,1579 Royal York Rd,M9P3C5,Toronto,Christian,-79.53362259,43.69949485
+143,Westmount Park Church,1483 Royal York Rd,M9P3B3,Toronto,Christian,-79.52930906,43.68956737
+144,Westmount Gospel Hall,59 Kingdom St,M9P1W4,Toronto,Christian,-79.51614286,43.69552325
+145,Church Of St Demetrius,135 La Rose Ave,M9P1A6,Toronto,Catholic,-79.5226335,43.68479484
+146,All Saints Roman Catholic Parish,1415 Royal York Rd,M9P3A7,Toronto,Catholic,-79.52692743,43.6846897
+147,St. Matthias Anglican Church,1428 Royal York Rd,M9P3A8,Toronto,Christian,-79.5283195,43.68486532
+148,Humbervale United Church,1447 Royal York Rd,M9P3V8,Toronto,Christian,-79.52765502,43.68652753
+149,Church Of St Wilfrid,1315 Kipling Ave,M9B3N7,Toronto,Christian,-79.54572907,43.66608328
+150,Bul Kwang Sa,2588 St Clair Ave W,M6N1L9,Toronto,Buddhist,-79.49033418,43.66768235
+151,Buddhism Zen Meditation Cent,2586 St Clair Ave W,M6N1L9,Toronto,Buddhist,-79.4902378,43.66770343
+152,Korea Buddhism Chogye Order,2586 St Clair Ave W,M6N1L9,Toronto,Buddhist,-79.4902378,43.66770343
+153,Linh-Son Buddhist Association,3325 Dundas St W,M6P2A6,Toronto,Buddhist,-79.48095043,43.66543518
+154,Celestial Church Of Christ,3339 Dundas St W,M6P2A6,Toronto,Christian,-79.48139122,43.66536829
+155,Ontario Zen Centre,22 Oakmount Rd,M6P2M7,Toronto,Buddhist,-79.46354456,43.65517605
+156,St Joan Of Arc,1701 Bloor St W,M6P1B1,Toronto,Catholic,-79.4579236,43.65488995
+157,Church Of The First Born,72 Perth Ave,,Toronto,Christian,-79.44852288,43.65614471
+158,Chua Long Hoa Temple,2770A Dundas St W,M6P1Y3,Toronto,Buddhist,-79.46137611,43.66548033
+159,Riwoche Tibetan Buddist Temp,28 Heintzman St,M6P2J6,Toronto,Buddhist,-79.46390634,43.66606056
+160,St Cecilia'S Catholic Church,163 Annette St,M6P1P5,Toronto,Catholic,-79.46725328,43.66296447
+161,Annette Street Baptist Churc,200 Annette St,M6P1P6,Toronto,Christian,-79.46880953,43.66316037
+162,Bibleway Pentecostal Church,33-41 McCormack St,M6N1X8,Toronto,Christian,-79.47342187,43.67642661
+163,Bibleway Pentecostal Church,33-41 McCormack St,M6N1X8,Toronto,Christian,-79.47342187,43.67642661
+164,Apostolic Christian Church,274 Weston Rd,M6N3P5,Toronto,Christian,-79.47311605,43.67774027
+165,Church Of God Prophecy,1780 St Clair Ave W,M6N 1J5,Toronto,Christian,-79.46187407,43.67410482
+166,Celestial Church Of Christ,1870 St Clair Ave W,M6N 1J8,Toronto,Christian,-79.4644429,43.67350532
+167,Church Of God Apostolic,238 Rosemount Ave,M6H2N3,Toronto,Christian,-79.44699685,43.67550251
+168,Church Of Ste Nicola Di Bari,1277 St Clair Ave W,M6E1B8,Toronto,Christian,-79.44715359,43.67672623
+169,Boon Ave Baptist Church,11 Boon Ave,M6E3Z2,Toronto,Christian,-79.44604099,43.67786431
+170,Carisma Church,236 Nairn Ave,M6E4H4,Toronto,Christian,-79.45180398,43.6837395
+171,Church Of United Bretheren,48 Bloem Ave,M6E1S1,Toronto,Christian,-79.44846789,43.68606587
+172,Soka Gakkai International,2050 Dufferin St,M6E3R6,Toronto,Buddhist,-79.44693439,43.68659272
+173,Davenport Gospel Hall,223-225 Chambers Ave,M6M3L4,Toronto,Christian,-79.46542393,43.68295859
+174,Van Hanh Vietnamese Youth,338 Weston Rd,M6N3P8,Toronto,Buddhist,-79.47483514,43.6793308
+175,Chua Xa Loi,338 Weston Rd,M6N3P8,Toronto,Christian,-79.47483514,43.6793308
+176,York Temple Salvation Army,1100 Weston Rd,M6N3S4,Toronto,Christian,-79.48781483,43.6859297
+177,The Church Of The Good Shepherd,1149 Weston Rd,M6N3S3,Toronto,Christian,-79.48867267,43.68684372
+178,Roman Catholic Episcopal,117 Guestville Ave,M6N4N7,Toronto,Catholic,-79.48979789,43.6854733
+179,Mount Dennis United Church,71 Guestville Ave,M6N4N4,Toronto,Christian,-79.48920187,43.68407163
+180,Church Of God,698 Weston Rd,M6N3R3,Toronto,Christian,-79.4783577,43.68204404
+181,Anglican Church Canada,40 Pritchard Ave,M6N1T3,Toronto,Christian,-79.48904571,43.67070446
+182,Centro Cristiano,755 Jane St,M6N4B3,Toronto,Christian,-79.49330847,43.67149919
+183,Deliverance Church Of God,755 Jane St,M6N4B3,Toronto,Christian,-79.49330847,43.67149919
+184,Beulah Church Of Jesus Christ,1530 Weston Rd,M9N1T2,Toronto,Christian,-79.50565896,43.69376109
+185,Celestial Church Of Christ,1322 Weston Rd,M6M4R5,Toronto,Christian,-79.49760075,43.68969275
+186,Mount Dennis Baptist Church,1272 Weston Rd,M6M4R1,Toronto,Christian,-79.49473354,43.68860615
+187,Bethel Born Again Church of Christ Jesus,1182 Weston Rd,M6M4P4,Toronto,Christian,-79.49112906,43.6874289
+188,International Gospel Church of Christ Ministries,1181A Weston Rd,M6M4P5,Toronto,Christian,-79.4906496,43.68767197
+189,Church Of Christ,47 Harding Ave,M6M3A3,Toronto,Christian,-79.50042609,43.69991807
+190,Church Of Saints Constantine,1 Brookhaven Dr,M6M4N6,Toronto,Christian,-79.49328982,43.69717609
+191,Apostolic United Assembly To,42 Denison Rd E,M9N1B7,Toronto,Christian,-79.504864,43.69728438
+192,Int'L Masters Church Of God,1617 Weston Rd,M9N1T8,Toronto,Christian,-79.50748258,43.69592613
+193,Faith Sanctuary Pentecostal Church,1901 Jane St,M9N3T9,Toronto,Christian,-79.50505622,43.71034998
+194,Church Of Jesus Christ Of La,1990 Jane St,M9N2V1,Toronto,Christian,-79.50740482,43.71392942
+195,Chu Linh Thuu Pagota,2380 Keele St,M6M4A5,Toronto,Buddhist,-79.47796497,43.70674987
+196,Faith Assemblies Mission,49 Milford Ave,M6M2W1,Toronto,Christian,-79.47370873,43.70447949
+197,Buddhist Association of Canada,1224 Lawrence Ave W,M6A1E3,Toronto,Buddhist,-79.46913505,43.71126127
+198,Toronto Central Seventh Day Adventist Church,150-154 Bentworth Ave,M6A1P7,Toronto,Christian,-79.46669514,43.7202527
+199,Bethlehem United Church Of Jesus Christ,1161 Caledonia Rd,M6A2W9,Toronto,Christian,-79.46691371,43.71563937
+200,Philadelphia Halibethian Zion,783-793 Lawrence Ave W,M6A1C2,Toronto,Christian,-79.45392968,43.7138264
+201,St Charles Roman Catholic Church,811 Lawrence Ave W,M6A1C3,Toronto,Catholic,-79.45536072,43.71374954
+202,Parroquia San Lorenzo,2981 Dufferin St,M6B3T4,Toronto,Christian,-79.45369358,43.7110632
+203,Street Connection Christian,1067 Glencairn Ave,M6B2B1,Toronto,Christian,-79.45559479,43.70641656
+204,Fairbank United Church,2746 Dufferin St,M6B3R4,Toronto,Christian,-79.45256404,43.7030061
+205,Burma Buddhist Association,435 Hopewell Ave,M6E2S4,Toronto,Buddhist,-79.44630744,43.69956964
+206,Church Of God,39 Gurney Cres,M6B1S9,Toronto,Christian,-79.46711331,43.70225048
+207,Faith United Pentacostal,24 Densley Ave,M6M2R1,Toronto,Christian,-79.47429477,43.70378391
+208,Cecc Church,2186A Eglinton Ave W,M6E2L1,Toronto,Christian,-79.46140522,43.69347787
+209,2Nd Iglesia Pentecostal Hisp,1947 Keele St,M6M3X9,Toronto,Christian,-79.47402798,43.68860827
+210,Ennerdale Road Baptist Churc,228 Ennerdale Rd,M6E 4E2,Toronto,Christian,-79.45351384,43.69437568
+211,Fairbank Gospel Hall,119 Ennerdale Rd,M6E4C7,Toronto,Christian,-79.45190341,43.69091847
+212,Eglinton St George'S United,641 Eglinton Ave W,M5N1C5,Toronto,Christian,-79.41636558,43.70276263
+213,Evangelical Church,1523 Warden Ave,M1R4Z8,Toronto,Christian,-79.30047857,43.76276375
+214,St Thomas Aquinas Church,640 Eglinton Ave W,,Toronto,Catholic,-79.41865442,43.70258619
+215,Glencairn Baptist Church,713 Glencairn Ave,M6B1Z8,Toronto,Christian,-79.43829069,43.70994624
+216,Glad Tidings Tabernacle,792 Glencairn Ave,M6B2A3,Toronto,Christian,-79.442378,43.70958334
+217,Coldstream Presbyterian Church,500 Coldstream Ave,M6B2K6,Toronto,Christian,-79.42924679,43.71535636
+218,St Philip Anglican Church,201 Caribou Rd,M5N2B5,Toronto,Christian,-79.42837871,43.71762553
+219,Grace Tabernacle,22 Glen Park Ave,M6B2B9,Toronto,Christian,-79.43051047,43.71305877
+220,Roman Catholic Episcopal,2565 Bathurst St,M6B2Z3,Toronto,Catholic,-79.42648506,43.70698176
+221,Dharma Drum Toronto,1041 Avenue Rd,M5N2C5,Toronto,Buddhist,-79.40842029,43.70492828
+222,C.I.C,2221 Yonge St,M4S2B4,Toronto,Christian,-79.39776547,43.70605732
+223,St Monicas Roman Catholic Ch,40 Broadway Ave,M4P1T4,Toronto,Catholic,-79.39670927,43.71071402
+224,Friends of the Heart Meditation Centre,2510 Yonge St,M4P2H7,Toronto,Buddhist,-79.39988132,43.71239452
+225,Castlefield Apostolic Church,27 Castlefield Ave,M4R1G3,Toronto,Christian,-79.40058221,43.71123698
+226,Blythwood Rd Baptist Church,80 Blythwood Rd,M4N1A4,Toronto,Christian,-79.39808225,43.71758409
+227,Eglinton Gospel Hall,503 Eglinton Ave E,M4P1N4,Toronto,Christian,-79.38027055,43.71014365
+228,Church Of The Transfiguratio,111 Manor Rd E,M4S1R4,Toronto,Christian,-79.39125734,43.70328529
+229,Calvin Presbyterian Church,26 Delisle Ave,M4V1S5,Toronto,Christian,-79.39596905,43.68929582
+230,Baptist Church,1585 Yonge St,M4T1Z9,Toronto,Christian,-79.39423043,43.69052674
+231,Christ Church Deer Park Angl,1570 Yonge St,M4T1Z8,Toronto,Christian,-79.39581335,43.69027983
+232,Roman Catholic Episcopal,208 St Clair Ave E,,Toronto,Catholic,-79.38508796,43.69025807
+233,Anglican Church House,28 ted rogers Way,,Toronto,Christian,-79.38059276,43.67058784
+234,Anglican Church Of Canada,227 Bloor St E,M4W1C8,Toronto,Christian,-79.38124204,43.67099999
+235,The Jesuits Of Upper Canada,1323 Bay St,M5R2C4,Toronto,Catholic,-79.39048007,43.67270644
+236,Christian Science Committee,204 St George St,M5R2N5,Toronto,Christian,-79.40190296,43.67044255
+237,Theravada Buddhist Community,316 Dupont St,M5R1V9,Toronto,Buddhist,-79.40875136,43.67479533
+238,Churches &Corp. Respons.,129 St Clair Ave W,M4V1N5,Toronto,Christian,-79.40019457,43.68646419
+239,Buddhist Practice Group - Unitarian,175 St Clair Ave W,M4V1P7,Toronto,Buddhist,-79.40242686,43.68612114
+240,Holy Rosary Church,354 St Clair Ave W,M5P1N4,Toronto,Catholic,-79.41389271,43.684314
+241,Holy Rosary Church,354 St Clair Ave W,M5P1N4,Toronto,Catholic,-79.41389271,43.684314
+242,Community Of Christ,1443 Bathurst St,M5R3J2,Toronto,Christian,-79.41774643,43.68256999
+243,Gaden Choling,637 Christie St,M6G3E6,Toronto,Buddhist,-79.42513666,43.68083174
+244,Bracondale Gospel Hall,58A Arlington Ave,M6G3K8,Toronto,Christian,-79.42837338,43.67914219
+245,Cornerstone Baptist Tabernac,833 St Clair Ave W,M6C1C2,Toronto,Christian,-79.43170539,43.68012691
+246,St Clare'S R C Church,1118 St Clair Ave W,,Toronto,Catholic,-79.44178406,43.67851358
+247,Toronto Buddhist Church,918 Bathurst St,M5R3G5,Toronto,Buddhist,-79.4129851,43.66861787
+248,Christie St Baptist Church,177 Christie St,M6G3B5,Toronto,Christian,-79.41993825,43.66834043
+249,Shambhala Meditation Centre,670 Bloor St W,M6G1L2,Toronto,Buddhist,-79.41654431,43.66426111
+250,Evangelical Fellowship Chape,778 Ossington Ave,M6G3V1,Toronto,Christian,-79.42641494,43.66310153
+251,Jeong Hye Buddhist Temple,874 Bloor St W,M6G1M5,Toronto,Buddhist,-79.42508962,43.66230772
+252,Ukranian Catholic Church Of,30 Leeds St,M6G3R8,Toronto,Catholic,-79.42594609,43.66453666
+253,Downsview Church of God,2424 Finch Ave W,M9M2E3,Toronto,Christian,-79.55107264,43.75166148
+254,Driftwood Church Of God,30 Penn Dr,M9L2A9,Toronto,Christian,-79.55509445,43.75161116
+255,African Community Church,7 Penn Dr,M9L2A6,Toronto,Christian,-79.55385256,43.75089467
+256,First Calvary Pentecostal Church,5 Penn Dr,M9L2A6,Toronto,Christian,-79.55356042,43.75086624
+257,Chua Pho Hien,49 Milvan Dr,M9L1Y8,Toronto,Buddhist,-79.555041,43.75439334
+258,St Roch's Catholic Church,2889 Islington Ave,M9L2T3,Toronto,Catholic,-79.56779872,43.7537986
+259,St Andrew'S Catholic Church,2547 Kipling Ave,M9V3A8,Toronto,Catholic,-79.58275123,43.74606126
+260,Toronto West Seventh Day,1621 Albion Rd,M9V1B6,Toronto,Christian,-79.59321185,43.7413675
+261,Thistletown Baptist Church,2534 Kipling Ave,M9V3A9,Toronto,Christian,-79.58341637,43.74471161
+262,New Apostolic Church,6484 Finch Ave W,M9V0A2,Toronto,Christian,-79.59124834,43.7373667
+263,Our Lady Of Mount Caridel,200 St Patrick St,M5T 1V4,Toronto,Catholic,-79.39101163,43.65524122
+264,Toronto Chinese Catholic Cen,202 St Patrick St,M5T 1V4,Toronto,Catholic,-79.39106946,43.65544736
+265,Pine Ridge Presbyterian Church,39 Knox Ave,M9L2M2,Toronto,Christian,-79.57218831,43.75871721
+266,Northwoods Mindfulness Community,437 Spadina Rd,M5P2W3,Toronto,Buddhist,-79.41262432,43.68913993
+267,Anglican Church Canada,5350 Yonge St,M2N5R5,Toronto,Christian,-79.41461266,43.77410091
+268,St Paul's L'Amoreaux Anglican Church,3333 Finch Ave E,M1W2R9,Toronto,Christian,-79.31681375,43.79609331
+269,St Paul's L'Amoreaux Anglican Church,3333 Finch Ave E,M1W2R9,Toronto,Christian,-79.31681375,43.79609331
+270,Cent. Japanese United Church,703 Dovercourt Rd,M6H2W7,Toronto,Christian,-79.42865394,43.66013932
+271,Fairbank Presbyterian Church,1 Ramsden Rd,M6E2N1,Toronto,Christian,-79.45242578,43.69619837
+272,Trustees Of Christadelphian,695 Scarlett Rd,M9P2T3,Toronto,Christian,-79.51941583,43.69514101
+273,James Street Gospel Tabernac,103 James St,M8W1L7,Toronto,Christian,-79.542516,43.5895331
+274,St Agnes' Church,69 Long Branch Ave,M8W3J5,Toronto,Christian,-79.53338784,43.59364212
+275,Saint Paul'S United Church,85 Thirty First St,M8W3G1,Toronto,Christian,-79.52944017,43.59413309
+276,Lakeshore Penetecostal Churc,3253 Lake Shore Blvd W,M8V1M2,Toronto,Christian,-79.52228341,43.59675563
+277,St James Presbyterian Church,25 Fairfield Ave,,Toronto,Christian,-79.52494952,43.59716823
+278,Hope Bible Church Of God,3104 Lake Shore Blvd W,M8V1L2,Toronto,Christian,-79.51363908,43.59913732
+279,New Covenant Church,270 Birmingham St,M8V2E4,Toronto,Christian,-79.51758153,43.60105236
+280,Long Branch Baptist Church,3381 Lake Shore Blvd W,M8W1N1,Toronto,Christian,-79.52719405,43.59557452
+281,Iglesial Pentecostal,3403 Lake Shore Blvd W,M8W1N2,Toronto,Christian,-79.52814964,43.5954896
+282,St. Ambrose Church,780 Brown's Line,M8W3W2,Toronto,Christian,-79.54849105,43.60871009
+283,Our Lady Of The Miraculous M,739 Brown's Line,M8W3V7,Toronto,Christian,-79.5468333,43.60807972
+284,St Clements Church,409 Markland Dr,M9C1S5,Toronto,Christian,-79.57015641,43.63335221
+285,Korean Smytra Presbyterian,4258 Bloor St W,M9C1Z7,Toronto,Christian,-79.56885561,43.63462796
+286,Queensway Baptist Church,950 Islington Ave,M8Z4P6,Toronto,Christian,-79.51665347,43.62728129
+287,Holy Angels Rectory,61 Jutland Rd,M8Z2G6,Toronto,Christian,-79.5192103,43.62799073
+288,St Jude Chapel,5233 Dundas St W,M9B6M1,Toronto,Christian,-79.53697913,43.63894158
+289,St Andrew'S Presbyterian Chu,3819 Bloor St W,M9B1K7,Toronto,Christian,-79.53688722,43.64126667
+290,New Dawn Moravian Church,5 Glenora Ave,M6C3Y2,Toronto,Christian,-79.43855986,43.69189729
+291,Rigpa Toronto Study Group,25 Eagle Rd,M8Z4H4,Toronto,Buddhist,-79.51921882,43.64419598
+292,Our Lady Of Sorrows Church,3053 Bloor St W,,Toronto,Christian,-79.51268594,43.64678078
+293,Islington United Church,25 Burnhamthorpe Rd,M9A1G9,Toronto,Christian,-79.52993177,43.6495662
+294,Islington Baptist Church,50 Royalavon Cres,M9A2E9,Toronto,Christian,-79.53388068,43.646188
+295,Olivet Church Of New Jerusal,279 Burnhamthorpe Rd,M9B1Z6,Toronto,Christian,-79.54487504,43.6500553
+296,St James United Church,400 Burnhamthorpe Rd,M9B2A8,Toronto,Christian,-79.55627753,43.64669912
+297,Iglesia Ni Cristo,310 Burnhamthorpe Rd,M9B2A1,Toronto,Christian,-79.54774786,43.64870258
+298,Seventh Day Adventist Church,3897 Bloor St W,M9B1L6,Toronto,Christian,-79.54294498,43.63982491
+299,St. Matthew'S Anglican Churc,3962 Bloor St W,M9B1M3,Toronto,Christian,-79.54894739,43.63938969
+300,Renforth Baptist Church,627 Burnhamthorpe Rd,M9C2Y9,Toronto,Christian,-79.57320254,43.64366074
+301,Kingdom Hall Of Jehovah'S Wi,423 Burnhamthorpe Rd,M9B2A9,Toronto,Christian,-79.55959282,43.64666039
+302,Nativity Of Our Lord Parish,480 Rathburn Rd,M9C3S8,Toronto,Christian,-79.57646697,43.65270454
+303,Grace Presbyterian Church,588 Renforth Dr,M9C2N5,Toronto,Christian,-79.58111155,43.65338424
+304,Rehoboth Fellowship,800 Burnhamthorpe Rd,M9C2Z3,Toronto,Christian,-79.5814882,43.64054774
+305,Masonic Lodge,596 Renforth Dr,M9C2N5,Toronto,Christian,-79.5812248,43.65384034
+306,Richview United Church,149 Wellesworth Dr,M9C4R8,Toronto,Christian,-79.58090695,43.66113807
+307,Islington Evangelical Centre,49 Queen's Plate Dr,,Toronto,Christian,-79.59012489,43.71059795
+308,Liberty Christian,76 Brydon Dr,M9W4N6,Toronto,Christian,-79.57399464,43.71964569
+309,Mountain Of Fire & Miracles,230 Rexdale Blvd,M9W1R2,Toronto,Christian,-79.57650203,43.71327005
+310,Kingdom Hall Of Jehova'S Wit,25 Queen's Plate Dr,,Toronto,Christian,-79.58937436,43.70905565
+311,Malton Seventh Day Adventist,285 Attwell Dr,M9W6H7,Toronto,Christian,-79.58985432,43.69667376
+312,Kingsway Baptist Church,39 Birchview Blvd,M8X1H7,Toronto,Christian,-79.51457858,43.64740515
+313,Kingsview Village Church,70 Kingsview Blvd,M9R1T9,Toronto,Christian,-79.5573302,43.69784739
+314,Kingsview Free Methodist Chu,15 Kingsview Blvd,M9R1T5,Toronto,Christian,-79.549804,43.69910945
+315,German Church Of God,9 McArthur St,M9P3M6,Toronto,Christian,-79.54439102,43.69880134
+316,Refuge Temple,4 Racine Rd,M9W5W7,Toronto,Christian,-79.57061955,43.71613587
+317,Passionist Missions (Canada),2102 Kipling Ave,M9W4K5,Toronto,Christian,-79.56985313,43.71662265
+318,Rexdale Presbyterian Church,2314 Islington Ave,M9W5W9,Toronto,Christian,-79.55625735,43.7162998
+319,Rexdale Gospel Hall,72 Bergamot Ave,M9W1V9,Toronto,Christian,-79.557337,43.716899
+320,New Jerusalem Church Of Jesu,2810 Weston Rd,M9M2R9,Toronto,Christian,-79.53791266,43.71975045
+321,Light & Life Ministry,20-22 Elrose Ave,M9M2H6,Toronto,Christian,-79.52612594,43.71843801
+322,Remnant Tabernacle,24 Langside Ave,M9N3E3,Toronto,Christian,-79.51782932,43.70914745
+323,Royal York Baptist Church,1520 Royal York Rd,M9P3B5,Toronto,Christian,-79.53270453,43.69294101
+324,First Church Of Christ,4480 Eglinton Ave W,M9A4M4,Toronto,Christian,-79.5384528,43.68060837
+325,Hilltop Chapel,243 La Rose Ave,M9P1G6,Toronto,Christian,-79.53138942,43.68298147
+326,St Matthias Anglican Church,1428 Royal York Rd,M9P3A8,Toronto,Christian,-79.5283195,43.68486532
+327,Richview Baptist Church,1548 Kipling Ave,M9R4A3,Toronto,Christian,-79.55303556,43.68121214
+328,St Lukes United Church,516 The Kingsway,M9A3W6,Toronto,Christian,-79.5481943,43.67358498
+329,St. Timothy Presberterian Ch,106 Ravenscrest Dr,M9B5N3,Toronto,Christian,-79.55591432,43.66299144
+330,Korean Baptist Church,35 Hedges Blvd,M9B3C3,Toronto,Christian,-79.55930745,43.66842899
+331,Martin Grove Baptist Church,35 Hedges Blvd,M9B3C3,Toronto,Christian,-79.55930745,43.66842899
+332,St Phillips Lutheran Church,61 West Deane Park Dr,M9B2S1,Toronto,Christian,-79.56435462,43.65810404
+333,Roman Catholic Episcopal,122 Rathburn Rd,M9B2K6,Toronto,Christian,-79.54381301,43.66019152
+334,Humber Valley United Church,76 Anglesey Blvd,M9A3C1,Toronto,Christian,-79.52899029,43.66514579
+335,Marantha Evangelical Mission,4193-4195 Dundas St W,M8X1Y4,Toronto,Christian,-79.51114116,43.66011793
+336,St Giles Kingsway Presbyteri,15 Lambeth Rd,M9A2Y6,Toronto,Christian,-79.5210452,43.66106975
+337,St George On The Hill,6 Wimbleton Rd,M9A3R6,Toronto,Christian,-79.52144864,43.65695772
+338,St. George On The Hill,4600 Dundas St W,M9A1A5,Toronto,Christian,-79.52123402,43.65694341
+339,Hungarian Church,51 Scarlett Rd,M6N4J8,Toronto,Christian,-79.49980494,43.66770373
+340,The Assembly Of Gods People,26C Scarlett Rd,M6N4K1,Toronto,Christian,-79.50036839,43.6675307
+341,Missionary Church Of Christ,700 Weston Rd,M6N3R2,Toronto,Christian,-79.47822357,43.68239947
+342,Forward Baptist Church,1889 Gerrard St E,,Toronto,Christian,-79.31220792,43.67986349
+343,North Runnymede United Churc,33 Pritchard Ave,M6N 1T4,Toronto,Christian,-79.48889246,43.67023241
+344,Newhope Tabernacle,2431 St Clair Ave W,M6N1K9,Toronto,Christian,-79.48213613,43.66894649
+345,Igreja Vida Nova,2365 St Clair Ave W,M6N1K9,Toronto,Christian,-79.48026884,43.66949393
+346,Mariast Fellowship Mission,186 Maria St,M6P1W4,Toronto,Christian,-79.47882108,43.66663379
+347,St Paul The Apostle,3230 Dundas St W,M6P2A3,Toronto,Christian,-79.47769458,43.6658516
+348,Primera Iglesia Pentecostal,3346 Dundas St W,M6P2A4,Toronto,Christian,-79.48154851,43.66578875
+349,Grace Church Of The Nazarene,624 Annette St,M6S2C4,Toronto,Christian,-79.4822103,43.65981369
+350,Humbercrest United Church,16 Baby Point Rd,M6S2E9,Toronto,Christian,-79.49000893,43.65847911
+351,Runnymede Presbyterian Churc,680 Annette St,M6S2C8,Toronto,Christian,-79.48501758,43.65934667
+352,St James Church,740 Annette St,M6S2E2,Toronto,Christian,-79.48653851,43.6588482
+353,St Paul'S Church,404 Willard Ave,M6S3R5,Toronto,Christian,-79.4839622,43.65545888
+354,Runnymede United Church,429 Runnymede Rd,M6S2Y9,Toronto,Christian,-79.47854277,43.65715979
+355,Runnymede Baptist Church,60 Colbeck St,M6S1T9,Toronto,Christian,-79.47838321,43.65487328
+356,St John'S Anglican Church,288 Humberside Ave,M6P1L5,Toronto,Christian,-79.46919623,43.66064871
+357,Holy Cross Priory,204 High Park Ave,M6P2S6,Toronto,Christian,-79.46871955,43.66059792
+358,Madonna House,501 Parkside Dr,M6R2Z9,Toronto,Christian,-79.45925998,43.65378014
+359,Lutheran Church Of The Redee,1691 Bloor St W,M6P1B1,Toronto,Christian,-79.45734134,43.65494136
+360,Kingdom Hall Of Jehovah'S Wi,2393 Dundas St W,M6P1X2,Toronto,Christian,-79.45316152,43.65777693
+361,Hue Lam Buddhist Temple,236 Rhodes Ave,M4L 3A1,Toronto,Buddhist,-79.32028421,43.67156016
+362,Broadview Faith Temple,296 Broadview Ave,M4M2G7,Toronto,Christian,-79.35226944,43.66385331
+363,All Saints Anglican Church,223 Sherbourne St,,Toronto,Christian,-79.37064517,43.65822
+364,Malvern Community Baptist Church,31 Melford Dr,M1B2G6,Toronto,Christian,-79.23608783,43.8077475
+365,St Michael'S Roman Catholic,200 Church St,M5B1Z2,Toronto,Catholic,-79.37701375,43.65548646
+366,Dharma Friends,177 Mutual St,M5B2P6,Toronto,Buddhist,-79.37653614,43.65955903
+367,Sacre Coeur Catholic Church,381 Sherbourne St,M4X1K4,Toronto,Catholic,-79.37304158,43.66382315
+368,Holy Eucharist Ukrainian Cat,515 Broadview Ave,M4K2N6,Toronto,Catholic,-79.35370309,43.67090504
+369,Danforth Baptist Church,285 Danforth Ave,,Toronto,Christian,-79.35415037,43.67681233
+370,Estonian Baptist Church,883 Broadview Ave,M4K2P9,Toronto,Christian,-79.35735696,43.68040325
+371,The Rosicrucian Order,831-833 Broadview Ave,M4K2P9,Toronto,Catholic,-79.35801628,43.67887301
+372,Prayer Palace Ministries,1111 Arrow Rd,M9M3B3,Toronto,Christian,-79.53448867,43.75239611
+373,Church Of Latter Day Saints,1099 Broadview Ave,M4K2S4,Toronto,Christian,-79.35585171,43.68631537
+374,Bethel Baptist Church,36 Whitewood Rd,,Toronto,Christian,-79.37588306,43.70364235
+375,Nalanda College of Buddhist Studies,47 Queen's Park Cres E,M5S2C3,Toronto,Buddhist,-79.39065984,43.66473963
+376,Don Mills United Church,126 O'Connor Dr,M4K2K7,Toronto,Christian,-79.35073934,43.69347133
+377,Bethany Baptist Church,1041 Pape Ave,M4K3W1,Toronto,Christian,-79.34847296,43.68921874
+378,Chua Xa Loi,152 Floyd Ave,M4K2B7,Toronto,Buddhist,-79.34926584,43.68752851
+379,Church Of The Holy Cross,291 Cosburn Ave,M4J2M4,Toronto,Christian,-79.34097847,43.69106525
+380,Cosburn United Church,324 Cosburn Ave,M4J2M9,Toronto,Christian,-79.33809861,43.69228649
+381,Church Of Canadian Martyrs R,1394 Woodbine Ave,,Toronto,Christian,-79.31861028,43.6983692
+382,Chapel In The Park,16 Thorncliffe Park Dr,M4H1H4,Toronto,Christian,-79.34741129,43.70406893
+383,Church Of Jesus Christ,24 Ferrand Dr,M3C3V4,Toronto,Christian,-79.33611632,43.72027766
+384,Flemingdon Park Pentecostal,5 Grenoble Dr,M3C1C3,Toronto,Christian,-79.33375243,43.71536601
+385,Church Of Christ,1708 Bayview Ave,M4G3C4,Toronto,Christian,-79.37680185,43.70907458
+386,Canadian Christian College,50 Gervais Dr,M3C1Z3,Toronto,Christian,-79.33831497,43.72533257
+387,St Andrew Kim Korean Catholi,849 Don Mills Rd,M3C1W1,Toronto,Catholic,-79.33857455,43.7236018
+388,Korean Philadelphia Presbyte,6 Codeco Crt,M3A1A2,Toronto,Christian,-79.32757323,43.73606014
+389,Chinese Mandarin Christian C,5 Codeco Crt,M3A1A1,Toronto,Christian,-79.32840713,43.73569631
+390,Anglican Church Of Can,33 Overland Dr,M3C2C3,Toronto,Christian,-79.34746174,43.73207753
+391,Donway Baptist Church,235 The Donway E,M3B2Y8,Toronto,Christian,-79.34235121,43.74069992
+392,Toronto Celebration Church,190 Railside Rd,M3A1A3,Toronto,Christian,-79.32413017,43.7393776
+393,The Salvation Army Korean Co,150 Railside Rd,M3A1A3,Toronto,Christian,-79.32602478,43.73757334
+394,East Toronto Chinese Baptist,22 Carnforth Rd,M4A2K7,Toronto,Christian,-79.3155793,43.74060594
+395,Buddhist Dharmalaskana Socie,1315 Lawrence Ave E,M3A3R3,Toronto,Buddhist,-79.32295905,43.74023364
+396,Advent Lutheran Churh,2800 Don Mills Rd E,,Toronto,Christian,-79.34944412,43.78021883
+397,St Timothy'S Catholic Church,21 Leith Hill Rd,M2J1Y9,Toronto,Catholic,-79.35049187,43.77622612
+398,Armenian Brotherhood Bible Church,2755 Victoria Park Ave,M1T1A5,Toronto,Christian,-79.32439705,43.7797744
+399,St. John's United Church,2 Nobert Rd,M1T1C1,Toronto,Christian,-79.31955493,43.77165502
+400,St. John's United Church,2 Nobert Rd,M1T1C1,Toronto,Christian,-79.31955493,43.77165502
+401,Church of St. Andrew,2333-2347 Victoria Park Ave,M1R1W6,Toronto,Christian,-79.3179778,43.76531375
+402,Church of St. Andrew,2333-2347 Victoria Park Ave,M1R1W6,Toronto,Christian,-79.3179778,43.76531375
+403,Church of St. Andrew,2333-2347 Victoria Park Ave,M1R1W6,Toronto,Christian,-79.3179778,43.76531375
+404,Church Of St Andrew,2333-2347 Victoria Park Ave,M1R1W6,Toronto,Christian,-79.3179778,43.76531375
+405,Annunciation Roman Catholic,3 Combermere Dr,M3A2W4,Toronto,Christian,-79.3152452,43.75556406
+406,Kingdom Hall Of Jehovah'S Wi,701 Ellesmere Rd,M1P2W1,Toronto,Christian,-79.28898955,43.76361083
+407,Pentecostal Missionary Churc,2 Delbert Dr,M1P1X1,Toronto,Christian,-79.2861121,43.76388658
+408,Members In Christ Assemblies,764 Ellesmere Rd,M1P2W4,Toronto,Christian,-79.28701195,43.76493593
+409,Chinese Methodist Church,1645 Warden Ave,M1R5B3,Toronto,Christian,-79.30234762,43.76769677
+410,Forshang Buddism,3410 Sheppard Ave E,M1T3K4,Toronto,Buddhist,-79.30702018,43.77930664
+411,New Life Christian Church,480 Huntingwood Dr,M1W1G4,Toronto,Christian,-79.31455965,43.7850242
+412,Wesley Chapel Free Methodist Church,2385 Warden Ave,M1W 2L6,Toronto,Christian,-79.31045924,43.78599144
+413,Wesley Chapel Free Methodist Church,2385 Warden Ave,M1W 2L6,Toronto,Christian,-79.31045924,43.78599144
+414,Apostolic Deliverance,2240-2250 Midland Ave,M1P4R8,Toronto,Christian,-79.27463072,43.77606334
+415,Friends Of Jesus Christ,2240-2250 Midland Ave,M1P4R8,Toronto,Christian,-79.27463072,43.77606334
+416,St. Timothy's Anglican Church,4125 Sheppard Ave E,M1S1T1,Toronto,Christian,-79.28210822,43.78415759
+417,Knox United Church,2569 Midland Ave,M1S1R3,Toronto,Christian,-79.27848337,43.78607036
+418,Knox United Church,2569 Midland Ave,M1S1R3,Toronto,Christian,-79.27848337,43.78607036
+419,Grace Christian Reformed Church,25 Channel Nine Crt,M1S4B5,Toronto,Christian,-79.25666145,43.78424679
+420,Progress Church Of God,11-31 Progress Ave,M1P4S6,Toronto,Christian,-79.28007292,43.7696861
+421,Dorset Park Baptist Church,1428 Kennedy Rd,M1P2L7,Toronto,Christian,-79.28132672,43.76452602
+422,Harvest Time Revival,1860 Midland Ave,M1P5E1,Toronto,Christian,-79.27175919,43.76458216
+423,Bethel Church Of God,1570 Midland Ave,M1P3C3,Toronto,Christian,-79.26693949,43.75573616
+424,Ferndale Baptist Church,614 Brimley Rd,M1J1B8,Toronto,Christian,-79.25114543,43.74237054
+425,St Lawrence The Martyr,2210 Lawrence Ave E,M1P2P9,Toronto,Christian,-79.28060841,43.74894523
+426,Jesus Ministries Int'L,2500 Lawrence Ave E,M1P2R7,Toronto,Christian,-79.26785744,43.75213039
+427,St Giles Anglican Church,37 Kecala Rd,M1P1K7,Toronto,Christian,-79.27970276,43.75414172
+428,Ebenezer Revival Tabernacle,1228 Birchmount Rd,M1P2C3,Toronto,Christian,-79.28460539,43.74597348
+429,Church Of The Precious Blood,1737 Lawrence Ave E,M1R2X7,Toronto,Christian,-79.30748521,43.74209219
+430,Canadian Bible Society,10 Carnforth Rd,M4A2S4,Toronto,Christian,-79.31509956,43.74103667
+431,Church Of St Jude,10 Howarth Ave,M1R1H4,Toronto,Christian,-79.30597227,43.73872711
+432,Victoria Village United Chur,7 Gretna Ave,M4A2H5,Toronto,Christian,-79.31541271,43.73466128
+433,Emmanuel Evangelical Church,1684 Victoria Park Ave,M1R1R1,Toronto,Christian,-79.30659692,43.73288928
+434,Africa Inland Mission,1641 Victoria Park Ave,M1R1P8,Toronto,Christian,-79.30543728,43.73246987
+435,First Church United Pentecostal,793 Pharmacy Ave,M1L3K2,Toronto,Christian,-79.29444492,43.72086225
+436,Church Of The Epiphany,700 Kennedy Rd,M1K2B5,Toronto,Christian,-79.26723988,43.72801631
+437,St Maria Goretti Church,717 Kennedy Rd,M1K2C1,Toronto,Catholic,-79.26610775,43.72932569
+438,Poshin Tao Teh Temple,2567 Eglinton Ave E,M1K2R7,Toronto,Buddhist,-79.25584018,43.7345796
+439,St Phillip's Anglican Church,37 St Phillips Rd,M9P2N7,Toronto,Christian,-79.53257227,43.70193399
+440,Commonwealth Ave Baptist Chu,83 Commonwealth Ave,M1K4K4,Toronto,Christian,-79.25540365,43.73212853
+441,Reorganized Church Of Jesus,30 Eppleworth Rd,M1K3G9,Toronto,Christian,-79.26329383,43.72670842
+442,Kennedy Rd Church Of The Naz,661 Kennedy Rd,M1K2B8,Toronto,Christian,-79.26467528,43.72562496
+443,Light Of Foursquare Church,599 Kennedy Rd,M1K2B2,Toronto,Christian,-79.26438501,43.72455004
+444,Cliffcrest United Church,1 McCowan Rd,M1M3L7,Toronto,Christian,-79.23229422,43.72609642
+445,Word Of Life Out Reach,40 Barbados Blvd,M1J1L1,Toronto,Christian,-79.24167793,43.73624706
+446,St Davids Presbyterian Church,1290 Danforth Rd,M1J3L9,Toronto,Christian,-79.24579605,43.74077529
+447,Church Of Jesus Christ Of La,395 McCowan Rd,M1J1J1,Toronto,Christian,-79.23861063,43.74125877
+448,Scarborough Filipino 7Th Day,24 Nelson St,M1J2V3,Toronto,Christian,-79.23220459,43.74679868
+449,Hope Evangelical Lutheran Church,14 Centre St,M1J3B5,Toronto,Christian,-79.22141226,43.74381033
+450,St Boniface Church,142 Markham Rd,,Toronto,Catholic,-79.21791225,43.73991602
+451,Christ Church,155 Markham Rd,M1M3A1,Toronto,Christian,-79.21780519,43.74177288
+452,Church Of The Holy Trinity,85 Livingston Rd,M1E1K7,Toronto,Christian,-79.19837776,43.74697634
+453,Gospel Hall,159 Morningside Ave,M1E3C8,Toronto,Christian,-79.18357266,43.76299593
+454,Heron Park Baptist Church,4260 Lawrence Ave E,M1E2S6,Toronto,Christian,-79.18049966,43.77022314
+455,Toronto Maha Vihara,4698 Kingston Rd,M1E2P9,Toronto,Buddhist,-79.17236639,43.77862942
+456,West Hill United Church,62 Orchard Park Dr,M1E3T7,Toronto,Christian,-79.17960779,43.77419123
+457,West Hill United Church,62 Orchard Park Dr,M1E3T7,Toronto,Christian,-79.17960779,43.77419123
+458,Victory Sanctuary Of Praise,4566-4568 Kingston Rd,M1E2P2,Toronto,Christian,-79.18460282,43.77353207
+459,Epiphany Lutheran Church,20 Old Kingston Rd,M1E3J5,Toronto,Christian,-79.18372824,43.77529915
+460,Melville Presbyterian Church,70 Old Kingston Rd,M1E3J5,Toronto,Christian,-79.18117117,43.77679069
+461,St Martin De Porros Church,4179 Lawrence Ave E,M1E2S3,Toronto,Catholic,-79.18753799,43.76770399
+462,St Margarets on the Pine Anglican Church,4130 Lawrence Ave E,M1E2R8,Toronto,Christian,-79.19269833,43.7686365
+463,Scarborough Seventh-Day,235 Poplar Rd,M1E1Z9,Toronto,Christian,-79.19045814,43.76544335
+464,Faith  Reformed Baptist Chur,3837 Lawrence Ave E,M1G1R2,Toronto,Christian,-79.21111136,43.76240744
+465,St Stephens Presbyterian Church,3817 Lawrence Ave E,M1G1R2,Toronto,Christian,-79.21234346,43.76213102
+466,Living Faith Ministry,115 Orton Park Rd,M1G3G9,Toronto,Christian,-79.20784518,43.7702866
+467,Church Of The Master,3385 Lawrence Ave E,M1H1A8,Toronto,Christian,-79.23336139,43.75768999
+468,Bendale Bible Chapel Inc,328 Bellamy Rd N,M1H1E8,Toronto,Christian,-79.23490345,43.75448232
+469,Bible Church Of God,700 Progress Ave,M1H2Z7,Toronto,Christian,-79.24791406,43.7782146
+470,Christ Centred Fellowship,1085 Bellamy Rd N,M1H3C7,Toronto,Christian,-79.24133517,43.77564548
+471,Bethlehem Assemblies Church,1940 Ellesmere Rd,M1H2V7,Toronto,Christian,-79.24050218,43.77596179
+472,East Scarborough Church Of G,869 Progress Ave,M1H2X6,Toronto,Christian,-79.23763659,43.7805727
+473,Couples For Christ,50-192 Shorting Rd,M1S3S7,Toronto,Christian,-79.25014049,43.79378675
+474,Ukrainian Catholic Church,1490 Markham Rd,M1B2V9,Toronto,Catholic,-79.23826767,43.78852657
+475,Malvern Chinese Free-Methodist Church,5780-5800 Sheppard Ave E,M1B5J7,Toronto,Christian,-79.231413,43.7956548
+476,St Barnabas Catholic Church,10 Washburn Way,M1B1H3,Toronto,Catholic,-79.22835683,43.79654977
+477,Lun Kwong Temple,2220 Markham Rd,M1B2W4,Toronto,Buddhist,-79.24409998,43.80948643
+478,The Master's House Bible Fellowship,5633-5639 Finch Ave E,M1B5L1,Toronto,Christian,-79.23798269,43.81342223
+479,The One Accord Apostolic Church,5633-5639 Finch Ave E,M1B5L1,Toronto,Christian,-79.23798269,43.81342223
+480,Church Of Nativity Anglican Church,10 Sewell's Rd,M1B3G5,Toronto,Christian,-79.21779261,43.80725157
+481,Malvern Presbyterian Church,1301 Neilson Rd,M1B3C2,Toronto,Christian,-79.21836696,43.80704405
+482,Malvern Emmanual United Church,25 Sewell's Rd,M1B3H2,Toronto,Christian,-79.21581961,43.8074242
+483,Kingdom Hall Of Jehovah's Witness,1425 Morningside Ave,M1B3J1,Toronto,Christian,-79.20309729,43.81123958
+484,Rock Od Ages Tabernacle,1345 Morningside Ave,M1B5K3,Toronto,Christian,-79.2009839,43.8070745
+485,Churchhill Heights Church,7601 Sheppard Ave E,M1B2Y7,Toronto,Christian,-79.20164895,43.80110238
+486,Malvern Christian Assembly,6705 Sheppard Ave E,M1B3C1,Toronto,Christian,-79.2167299,43.79784051
+487,Malvern Christian Assembly,6705 Sheppard Ave E,M1B3C1,Toronto,Christian,-79.2167299,43.79784051
+488,Malvern Christian Tamil Assembly,6705 Sheppard Ave E,M1B3C1,Toronto,Christian,-79.2167299,43.79784051
+489,St Anne Ukranian Church,525 Morrish Rd,M1C1G2,Toronto,Catholic,-79.17303478,43.79085101
+490,Centennial United Church,6540 Kingston Rd,M1C1L4,Toronto,Christian,-79.1543327,43.7943405
+491,Hep Kwong Tien Dao Temple,3471 Kennedy Rd,M1V4Y3,Toronto,Buddhist,-79.3057117,43.82149556
+492,Hep Kwong Tien Dao Temple,3471 Kennedy Rd,M1V4Y3,Toronto,Buddhist,-79.3057117,43.82149556
+493,Living Stone Assembly,3501 Kennedy Rd,M1V4Y3,Toronto,Christian,-79.30591448,43.82259183
+494,Drikung Kagyu Office,44 Captains Way,M1V5G7,Toronto,Buddhist,-79.29353396,43.82617882
+495,Church Of The Prince Of Peac,265 Alton Towers Crcl,M1V 4E7,Toronto,Christian,-79.27855849,43.82477116
+496,St. Michael the Archangel,410 Goldhawk Trl,M1V4E7,Toronto,Catholic,-79.27896539,43.82604504
+497,St. John's Presbyterian Church,410 Goldhawk Trl,M1V4E7,Toronto,Christian,-79.27896539,43.82604504
+498,Armadale Free Methodist Chur,400 Passmore Ave,M1V4B2,Toronto,Christian,-79.2581885,43.82920712
+499,Vajrayana Buddnism,705 Middlefield Rd,M1V5H5,Toronto,Buddhist,-79.26053999,43.81798274
+500,Church Of God Of Prophecy,60 Nugget Ave,M1S3A9,Toronto,Christian,-79.25802178,43.79340834
+501,Church Of God,95 Nugget Ave,M1S3B1,Toronto,Christian,-79.25615194,43.79279318
+502,Agincourt Baptist Church,37 Glen Watford Dr,M1S2C2,Toronto,Christian,-79.27706042,43.79020384
+503,Roman Catholic Episcopal,2950 Midland Ave,M1S3K8,Toronto,Catholic,-79.28610007,43.8021895
+504,Agincourt Pentecostal Church,2885 Kennedy Rd,M1V1S8,Toronto,Christian,-79.29672923,43.80258828
+505,The Scarborough Chinese Baptist Church,2610 Birchmount Rd,M1W2P5,Toronto,Christian,-79.30302706,43.79076904
+506,Bridlewood Presbyterian,2501 Warden Ave,M1W 2L6,Toronto,Christian,-79.31246994,43.79038372
+507,Bridletown Park Church,2300 Bridletowne Crcl,M1W2L2,Toronto,Christian,-79.31470297,43.79943182
+508,St. Aidan Roman Catholic Church,3501 Finch Ave E,M1W2S2,Toronto,Catholic,-79.31021251,43.79745774
+509,Agincourt Temple,3080 Birchmount Rd,M1W3K3,Toronto,Christian,-79.30939038,43.80344988
+510,Agincourt Temple,3080 Birchmount Rd,M1W3K3,Toronto,Christian,-79.30939038,43.80344988
+511,Agincourt Temple,3080 Birchmount Rd,M1W3K3,Toronto,Christian,-79.30939038,43.80344988
+512,Jin Sum Branch,18 Trojan Gt,M1V3B8,Toronto,Buddhist,-79.29633405,43.80469473
+513,Jin Sum Branch,18 Trojan Gt,M1V3B8,Toronto,Buddhist,-79.29633405,43.80469473
+514,Anata Kuan-Yin Zen,200 Silver Star Blvd,M1V5H4,Toronto,Buddhist,-79.29437318,43.8094563
+515,Christ Commission Church Of,3838 Midland Ave,M1V5K5,Toronto,Christian,-79.29474598,43.81941287
+516,Chinese United Church,3300 Kennedy Rd,M1V3S8,Toronto,Christian,-79.30483381,43.81749684
+517,Chinese United Church,3300 Kennedy Rd,M1V3S8,Toronto,Christian,-79.30483381,43.81749684
+518,Good Shepherd Community Church,390 Bamburgh Crcl,M1W3X3,Toronto,Christian,-79.32381244,43.81654961
+519,Good Shepherd Community Church,390 Bamburgh Crcl,M1W3X3,Toronto,Christian,-79.32381244,43.81654961
+520,Epiphany Of Our Lord Catholic Church,3200 Pharmacy Ave,M1W3J5,Toronto,Catholic,-79.3296958,43.80022252
+521,First Alliance Church,3250 Finch Ave E,M1W2Y1,Toronto,Christian,-79.31984721,43.79671465
+522,First Alliance Church,3250 Finch Ave E,M1W2Y1,Toronto,Christian,-79.31984721,43.79671465
+523,Bridlegrove Bible Chapel,2575 Pharmacy Ave,M1W2K2,Toronto,Christian,-79.32479345,43.79405227
+524,Bridlegrove Bible Chapel,2575 Pharmacy Ave,M1W2K2,Toronto,Christian,-79.32479345,43.79405227
+525,Don Valley Bible Chapel,25 Axsmith Cres,M2J3K2,Toronto,Christian,-79.35219115,43.78865896
+526,Banfield Memorial Church,89 Centre Ave,M2M2L7,Toronto,Christian,-79.41067368,43.79265077
+527,Blessed Trinity Parish,3220 Bayview Ave,M2M3R7,Toronto,Christian,-79.39343434,43.78727172
+528,Chinese Madarin Christian Ch,116 Norton Ave,M2N4A6,Toronto,Christian,-79.40647389,43.7737875
+529,Crkva Adventista Sedmog Dana,160 Hendon Ave,M2M1A7,Toronto,Christian,-79.42451428,43.77997523
+530,Danish Lutheran Church,80 Finch Ave W,M2N2H4,Toronto,Christian,-79.42257257,43.77850674
+531,Archdiocese Of Toronto,4950 Yonge St,M2N6K1,Toronto,Christian,-79.41267926,43.76482901
+532,Chosen People Ministries,291 Sheppard Ave W,M2N1N4,Toronto,Christian,-79.42468549,43.75824954
+533,Church Of The Annuciation,157 Florence Ave,M2N1G5,Toronto,Christian,-79.41765393,43.75628855
+534,Ukranian Catholic Church,110 Franklin Ave,M2N1B9,Toronto,Catholic,-79.41520128,43.7554431
+535,All Soul'S Church,15 Clairtrell Rd,M2N5J7,Toronto,Christian,-79.39008542,43.7674918
+536,Evangelical Presbyterian Chu,593 Sheppard Ave E,M2K1B4,Toronto,Christian,-79.38366423,43.76721089
+537,St Gabriels Roman Catholic C,650 Sheppard Ave E,M2K3E4,Toronto,Catholic,-79.38143225,43.76858557
+538,Church Of Jesus Christ Of La,19 Northdale Rd,M2L2L8,Toronto,Christian,-79.38572078,43.76227818
+539,Agricola Finnish Lutheran Ch,25 Old York Mills Rd,M2P1B5,Toronto,Christian,-79.40431565,43.74341254
+540,Fifth Church Of Christ,41 Chatsworth Dr,M4R1R6,Toronto,Christian,-79.40328487,43.72185623
+541,Blessed Sacrament Church,24 Cheritan Ave,M4R1S4,Toronto,Christian,-79.40292047,43.72322306
+542,Dewi Sant Welsh United Churc,33 Melrose Ave,M5M 1Y6,Toronto,Christian,-79.40528677,43.73248971
+543,Fairlawn Church,28 Fairlawn Ave,M5M1S7,Toronto,Christian,-79.40493465,43.73099782
+544,Brooke Avenue Baptist Church,157 Falkirk St,M5M4K4,Toronto,Christian,-79.42787243,43.73085104
+545,St Eugene Catholic Church,13 Regina Ave,M6A1R2,Toronto,Catholic,-79.43241958,43.72752176
+546,Asbury And West United Church,3180 Bathurst St,M6A2A9,Toronto,Christian,-79.43141951,43.7226267
+547,Armour Heights Presyterian C,103 Wilson Ave,M5M2Z9,Toronto,Christian,-79.41654966,43.74066767
+548,Church Of God In North York,720 Sheppard Ave W,M3H2S6,Toronto,Christian,-79.44561792,43.75430018
+549,Church Of The Apostles,719 Sheppard Ave W,M3H2S7,Toronto,Christian,-79.44518691,43.75377447
+550,New Covenant House,764 Sheppard Ave W,M3H2S8,Toronto,Christian,-79.44795229,43.75382457
+551,Filipino-Canadian Seventh Da,788-796 Sheppard Ave W,M3H2T1,Toronto,Christian,-79.44904181,43.7535954
+552,Toronto Buddhist Church,1011 Sheppard Ave W,M3H2T7,Toronto,Buddhist,-79.46017183,43.75072957
+553,Bethany Chapel,22 McAdam Ave,M6A1S5,Toronto,Christian,-79.45761713,43.72279745
+554,The Holy Mountain Presbyterian Church,278 Bridgeland Ave,M6A1Z4,Toronto,Christian,-79.46979365,43.72450182
+555,Family Church Of Christ,885 Wilson Ave,M3K1E6,Toronto,Christian,-79.46664993,43.73044604
+556,Downsview Penticostal Church,80 Regent Rd,M3K1H3,Toronto,Christian,-79.46358435,43.7326131
+557,St Norbert'S Catholic Church,100 Regent Rd,M3K1H3,Toronto,Catholic,-79.46556696,43.73218803
+558,Downsview United Church,2822 Keele St,M3M2G4,Toronto,Christian,-79.48339457,43.73010241
+559,Downsview Baptist Church,203 Downsview Ave,M3M1E7,Toronto,Christian,-79.49417054,43.72129172
+560,Christian Congregation,1431 Wilson Ave,M3M1H9,Toronto,Christian,-79.50135597,43.72215292
+561,Emmanuel Church Of The Nazarene,1875 Sheppard Ave W,M3L1Y6,Toronto,Christian,-79.50408637,43.74067023
+562,Accord Centre,3585 Keele St,M3J3H5,Toronto,Christian,-79.48696197,43.75060644
+563,Faith Lutheran Church,96 Hucknall Rd,M3J1V8,Toronto,Christian,-79.49700572,43.7556108
+564,Shiloh House of Prayer,340 Sentinel Rd,M3J 1T9,Toronto,Christian,-79.50009387,43.75768505
+565,Northminster Baptist Church,1725 Finch Ave W,M3N1M6,Toronto,Christian,-79.50633674,43.75915651
+566,Friendship Community Church,1290 Finch Ave W,M3J 3K3,Toronto,Christian,-79.48952919,43.76533316
+567,Friendship Community Church,1290 Finch Ave W,M3J 3K3,Toronto,Christian,-79.48952919,43.76533316
+568,Church Of Nazareen,1280 Finch Ave W,M3J3K6,Toronto,Christian,-79.48854086,43.76425665
+569,Ebenezer Holiness Church,51 Toro Rd,M3J2A4,Toronto,Christian,-79.48502561,43.76043722
+570,Downsview Seventh Day Advent,37 Bakersfield St,M3J1Z4,Toronto,Christian,-79.47932087,43.7558322
+571,Deeper Life Crusades,28 Martin Ross Ave,M3J2K8,Toronto,Christian,-79.47166107,43.77495498
+572,Apostolic Prayer Ministry,855-877 Alness St,M3J2X4,Toronto,Christian,-79.47503681,43.77896686
+573,Seventh Day Adventist Church,535 Finch Ave W,M2R3X2,Toronto,Christian,-79.44573075,43.77148887
+574,Benjamin Parkmemorial Chapel,2401 Steeles Ave W,M3J2P1,Toronto,Christian,-79.48142512,43.78411821
+575,Iglesia Evangelica La Grey De Dios,360 Hullmar Dr,M3N2X7,Toronto,Christian,-79.52332414,43.77356355
+576,All Nations Full Gospel,4401 Steeles Ave W,M3N2S4,Toronto,Christian,-79.53298586,43.77244832
+577,New Life Pentecostal Church,65 Irondale Dr,M9L2S6,Toronto,Christian,-79.54849836,43.76837507
+578,Liberty Assembly Of God,139 Millwick Dr,M9L1Y7,Toronto,Christian,-79.56811575,43.76016635
+579,Full Gospel Open Door Assembly,20 Millwick Dr,M9L1Y3,Toronto,Christian,-79.55869507,43.75706119
+580,Abiezer Penetecostal,94 Milvan Dr,M9L1Z6,Toronto,Christian,-79.55895995,43.75530818
+581,Ht-Eniram Zion Hill,66 Milvan Dr,M9L1Z5,Toronto,Christian,-79.55706267,43.75448469
+582,Christ Apostolic Church,104-106 Fenmar Dr,M9L1M5,Toronto,Christian,-79.54826835,43.7595632
+583,The Apostolic Church International,94 Kenhar Dr,M9L1N2,Toronto,Christian,-79.54931834,43.76140799
+584,Church Of God,3640 Weston Rd,M9L1W2,Toronto,Christian,-79.54448537,43.7595134
+585,Mahadhammika Buddhist Vihara,12 High Meadow Pl,M9L2Z5,Toronto,Buddhist,-79.53973459,43.75542649
+586,Roman Catholic Episcopal Church,80 Shoreham Dr,M3N1S9,Toronto,Catholic,-79.52368552,43.76849878
+587,Christian Centre,4545 Jane St,M3N2K7,Toronto,Christian,-79.51809068,43.76825007
+588,University Presbyterian Church,1830 Finch Ave W,M3N1M8,Toronto,Christian,-79.51321371,43.75843913
+589,Wat Lao Toronto,1825 Finch Ave W,M3N1M7,Toronto,Buddhist,-79.51191572,43.75789471
+590,Benjamin Living Faith,76 Eddystone Ave,M3N1H4,Toronto,Christian,-79.51996945,43.74840662
+591,The Assembly Of Prayer,117 Eddystone Ave,M3N1H5,Toronto,Christian,-79.51907461,43.74817497
+592,Lisle Memorial Baptist,95A-105A Eddystone Ave,M3N1H5,Toronto,Christian,-79.51860767,43.74828039
+593,One Way Ministeries,95A-105A Eddystone Ave,M3N1H5,Toronto,Christian,-79.51860767,43.74828039
+594,Apostles Revelation Society,266-288 Eddystone Ave,M3N1H7,Toronto,Christian,-79.52227849,43.74790644
+595,Emmanuel Church Of Jesus Christ,750 Oakdale Rd,M3N2Z4,Toronto,Christian,-79.52777414,43.75178849
+596,Living Faith Church of God,750 Oakdale Rd,M3N2Z4,Toronto,Christian,-79.52777414,43.75178849
+597,Christian Horizons,155 Deerhide Cres,M9M2Z2,Toronto,Christian,-79.53318642,43.7466295
+598,International Pentecostal,75 Deerhide Cres,M9M2Z2,Toronto,Christian,-79.53180192,43.7469114
+599,Celestial Church Of Christ Emanual Parish,800 Arrow Rd,M9M2Z8,Toronto,Christian,-79.53288988,43.74868178
+600,Iglesia Principe Defia,800 Arrow Rd,M9M2Z8,Toronto,Christian,-79.53288988,43.74868178
+601,Christ Chosen Church Of God,29 Pemican Crt,M9M2Z3,Toronto,Christian,-79.5309096,43.74931414
+602,Agape Ministeries,550 Oakdale Rd,M3N1W6,Toronto,Christian,-79.52837669,43.75010288
+603,Agape Ministeries,550 Oakdale Rd,M3N1W6,Toronto,Christian,-79.52837669,43.75010288
+604,Mystical Order Of St. Mary's,415 Oakdale Rd,M3N1W7,Toronto,Christian,-79.52674453,43.74921998
+605,The Holy Temple Apostolic,475 Eddystone Ave,M3N1H8,Toronto,Christian,-79.52620152,43.74657922
+606,Toronto Christian International Fellowship,154A-218A Oakdale Rd,M3N2S5,Toronto,Christian,-79.52634271,43.74511738
+607,Mount Moriah Apostolic Church,135 Oakdale Rd,M3N1W2,Toronto,Christian,-79.52535692,43.74312388
+608,St Jude's Roman Catholic Church,3265 Weston Rd,M9M2T9,Toronto,Catholic,-79.53934326,43.74112615
+609,Faith United Church,44 Rivalda Rd,M9M2M3,Toronto,Christian,-79.53546148,43.73796924
+610,St Frances Catholic Church,2747 Jane St,M3L2E8,Toronto,Catholic,-79.51328611,43.74292968
+611,Beverley Hills United Church,63 Mayall Ave,M3L1E7,Toronto,Christian,-79.51854269,43.72730831
+612,Christian Foundation Minisri,63 Mayall Ave,M3L1E7,Toronto,Christian,-79.51854269,43.72730831
+613,Downsview Vietnamese Allianc,63 Mayall Ave,M3L1E7,Toronto,Christian,-79.51854269,43.72730831
+614,Church Of Pentecost Office,2256 Sheppard Ave W,M9M1L7,Toronto,Christian,-79.5304597,43.73579277
+615,St Steven's Presbyterian Church,3194 Weston Rd,M9M2T6,Toronto,Christian,-79.53964696,43.73755489
+616,Covenant Reformed Church,265 Albion Rd,M9W3P1,Toronto,Christian,-79.54639221,43.72114925
+617,Anglican Church Of Canada,2182 Kipling Ave,M9W4K9,Toronto,Christian,-79.57230157,43.72182693
+618,Church Of Benedict,2194 Kipling Ave,M9W4K9,Toronto,Christian,-79.5723709,43.72273872
+619,Consolato Missionaries,2671 Islington Ave,M9V2X6,Toronto,Christian,-79.56575823,43.73928981
+620,Albion Gardens Presbyterian,80 Thistle Down Blvd,M9V1J2,Toronto,Christian,-79.55700932,43.73801094
+621,Weston Road Pentecostal Church,3350 Weston Rd,M9M2V1,Toronto,Christian,-79.54155283,43.74556156
+622,Church Of God Deliverance,2400 Finch Ave W,M9M2C8,Toronto,Christian,-79.54867627,43.75148026
+623,Victory & Praise Church,2300 Finch Ave W,M9M2Y3,Toronto,Christian,-79.54227276,43.75361963
+624,Perth Avenue Seventh Day Adv,243 Perth Ave,M6P3X9,Toronto,Christian,-79.45027845,43.66135208
+625,St Martins In The Fields,151 Glenlake Ave,M6P1E8,Toronto,Christian,-79.46050215,43.65807448
+626,First Polish Baptist Church,2611 Dundas St W,M6P1X8,Toronto,Christian,-79.45740986,43.66346891
+627,Roman Catholic Episcopal,1 Gillespie Ave,,Toronto,Christian,-79.4580467,43.6703703
+628,Newborn Church Of God,2061 Davenport Rd,M6N1C7,Toronto,Christian,-79.4600556,43.67037646
+629,Ozanam House,88 Mulock Ave,M6N3C6,Toronto,Christian,-79.4655381,43.67006847
+630,Keele Street Church Of Chris,99 Annette St,M6P1N7,Toronto,Christian,-79.46333384,43.6633704
+631,Full Gospel Young Sung Chrch,152 Annette St,,Toronto,Christian,-79.46685674,43.66363453
+632,Hallelujah Filipino Baptist,425 Pacific Ave,M6P2R3,Toronto,Christian,-79.46826784,43.66597197
+633,Shalom Korean Church,3049 Dundas St W,M6P1Z5,Toronto,Christian,-79.471205,43.6653012
+634,Hanuhl United Church,260 High Park Ave,M6P2S6,Toronto,Christian,-79.46973243,43.66250079
+635,International Pentecostal,1764 St Clair Ave W,M6N1J3,Toronto,Christian,-79.46113343,43.67424834
+636,North Toronto Chinese Baptis,28 Talbot St,M6N1G4,Toronto,Christian,-79.45645154,43.67437586
+637,Hungarian United Church,73 MacKay Ave,M6H2N7,Toronto,Christian,-79.44584763,43.67623435
+638,Saint Mark'S & Calvary Churc,21 Blackthorn Ave,M6N3H4,Toronto,Christian,-79.45852356,43.67508416
+639,The Bible Church Of Jesus Ch,24 Innes Ave,M6E1M8,Toronto,Christian,-79.45698766,43.68134759
+640,Patterson Presbyterian Churc,115 Harvie Ave,M6E4K4,Toronto,Christian,-79.45106,43.68029534
+641,St John Bosco Church,402 Westmount Ave,M6E3N5,Toronto,Christian,-79.44557913,43.68594586
+642,Open Door Pentecostal Church,332A Silverthorn Ave,M6M3G6,Toronto,Christian,-79.46373719,43.68304498
+643,St Matthew'S Church,707 Old Weston Rd,M6N3B7,Toronto,Christian,-79.46681826,43.68126455
+644,La Luz De Christo Church,325 Weston Rd,M6N4Z9,Toronto,Christian,-79.4730521,43.67894741
+645,La Luz De Cristo Pentecostal,325 Weston Rd,M6N4Z9,Toronto,Christian,-79.4730521,43.67894741
+646,Presbytherian Church,1695 Keele St,M6M3W7,Toronto,Christian,-79.47268724,43.68548019
+647,Humber Blvd Baptist Church,5 Louvain St,M6N4W7,Toronto,Christian,-79.48257838,43.68092078
+648,Roman Catholic Episcopal,694 Weston Rd,M6N3R2,Toronto,Christian,-79.47798027,43.68208221
+649,Mt Refuge Church,814 Jane St,M6N4C1,Toronto,Christian,-79.49503145,43.67377684
+650,Spiritual Church Of Christ,130 Industry St,M6M5G3,Toronto,Christian,-79.49507291,43.69467239
+651,St. David'S Church,1796 Lawrence Ave W,M6L1E2,Toronto,Christian,-79.50083435,43.70378579
+652,St Bernard Of Clairvaux Chur,1789 Lawrence Ave W,M6L1E3,Toronto,Christian,-79.50054165,43.7031697
+653,Maple Leaf Drive Reformed Ch,176 Maple Leaf Dr,M6L1N8,Toronto,Christian,-79.49759678,43.71111935
+654,Kingdom Hall Of Jehovah'S Wi,5 Maple Leaf Dr,M6L1N4,Toronto,Christian,-79.50445532,43.70908765
+655,St Phillip Neri Church,2100 Jane St,M3M1A1,Toronto,Christian,-79.50886023,43.71930101
+656,Tabernacle Church Of God And,89 Springview Ave,M6L3B3,Toronto,Christian,-79.50223652,43.71712498
+657,North Park Presbyterian Chur,50 Erie St,M6L2P9,Toronto,Christian,-79.48166265,43.71786698
+658,Fountains Of Life Church,2301 Keele St,M6M3Z9,Toronto,Christian,-79.47668153,43.70407544
+659,Igesia Cristiana,28 Milford Ave,M6M2V8,Toronto,Christian,-79.47444055,43.70538439
+660,The British Methodist Episco,1828 Eglinton Ave W,M6E2H6,Toronto,Christian,-79.45030755,43.69597727
+661,Green Borough Community Chur,2000 Keele St,M6M3Y4,Toronto,Christian,-79.47573054,43.69741944
+662,Jesus Christ Church,191 Schell Ave,M6E2T3,Toronto,Christian,-79.46145895,43.69650762
+663,Miracle Temple Ministries,2514 Eglinton Ave W,M6M1T1,Toronto,Christian,-79.47062397,43.69145114
+664,Shechinah International,2687 Eglinton Ave W,M6M1T8,Toronto,Christian,-79.47686796,43.68952824
+665,Miracle Life Christian Fello,2350 Dufferin St,M6E3S4,Toronto,Christian,-79.45037374,43.6952089
+666,St Hilda'S Anglican Church,2353 Dufferin St,M6E5A5,Toronto,Christian,-79.4496139,43.69519624
+667,Ihlesia Pentecostal,2 Hunter Ave,M6E2C8,Toronto,Christian,-79.44995341,43.69452936
+668,Kingdom Hall Of Jehovah'S Wi,402 Oakwood Ave,M6E2W3,Toronto,Christian,-79.43944335,43.68812215
+669,Oakwood Baptist Church,421 Oakwood Ave,M6E2W1,Toronto,Christian,-79.43916084,43.68938508
+670,St Basil'S Ukrainian Catholi,449 Vaughan Rd,M6C2P4,Toronto,Christian,-79.43384754,43.68938902
+671,First Hungarian Presbyterian,439 Vaughan Rd,M6C2P1,Toronto,Christian,-79.43313087,43.68909083
+672,Forest Hill United Church,2 Wembley Rd,M6C2E9,Toronto,Christian,-79.42606401,43.70189554
+673,Prayer Outreach Ministries,587 Oakwood Ave,M6E2X7,Toronto,Christian,-79.44203505,43.69623016
+674,Pentecostal Church Of The Re,915 Roselawn Ave,M6B1B6,Toronto,Christian,-79.44247286,43.70173286
+675,St Joseph'S Church,292 Old Kingston Rd,,Toronto,Christian,-79.1713551,43.7832655
+676,St Margarets Anglican Church,1046 Avenue Rd,,Toronto,Christian,-79.40925003,43.70500189
+677,St James-Bond United Church,1066 Avenue Rd,M5N2C6,Toronto,Christian,-79.41013591,43.70578143
+678,North Toronto Citadel,7 Eglinton Ave E,M4P1A1,Toronto,Christian,-79.39727776,43.70669751
+679,Glenview Presbyterian Church,1 Glenview Ave,M4R1P5,Toronto,Christian,-79.40182974,43.72013884
+680,St Georges United Church,35 Lytton Blvd,M4R1L2,Toronto,Christian,-79.40296102,43.71542914
+681,St Clements Anglican Church,59 Briar Hill Ave,M4R1H8,Toronto,Christian,-79.40210942,43.71295114
+682,St Peters Estonian Lutheran,817 Mount Pleasant Rd,M4P2L1,Toronto,Christian,-79.39020618,43.70937379
+683,Oral  Roberts,164 Eglinton Ave E,M4P1G4,Toronto,Christian,-79.39345078,43.70802979
+684,First Christian Reformed Chu,63 Taunton Rd,M4S2P2,Toronto,Christian,-79.38810094,43.70783495
+685,Mount Pleasant Road Baptist,529 Mount Pleasant Rd,,Toronto,Christian,-79.38729653,43.70234673
+686,Glebe Road United Church,20 Glebe Rd E,M4S1N6,Toronto,Christian,-79.39628052,43.70157481
+687,Glebe Presbyterian Church,124 Belsize Dr,M4S1L8,Toronto,Christian,-79.38937641,43.70259208
+688,Grace Missionary Baptist Chu,369 Lawson Rd,M1C2J8,Toronto,Christian,-79.14693849,43.7880153
+689,Grace Church On The Hill,304 Lonsdale Rd,M4V1X4,Toronto,Christian,-79.41062518,43.68932015
+690,Rosedale Baptist Church,877 Yonge St,M4W3M2,Toronto,Christian,-79.38797583,43.67425754
+691,Stone Church Pentecostal,45A Davenport Rd,M5R1H2,Toronto,Christian,-79.38973126,43.67274609
+692,Spring Garden Baptist Church,112 Spring Garden Ave,M2N3G3,Toronto,Christian,-79.40623113,43.76535992
+693,St Johns Evangelical Luthera,200 Balmoral Ave,M4V1J6,Toronto,Christian,-79.40270156,43.68412752
+694,St Alphonsus Catholic Church,540 St Clair Ave W,M6C1A4,Toronto,Christian,-79.42028843,43.6830928
+695,Hillcrest Church Of Christ,2 Vaughan Rd,M6G2N1,Toronto,Christian,-79.41812542,43.68110065
+696,St Michael & All Angels,611 St Clair Ave W,M6C1A3,Toronto,Christian,-79.42285099,43.68186664
+697,New Testament Church Of God,94 Vaughan Rd,M6C2M1,Toronto,Christian,-79.42135211,43.6835659
+698,Mount Zion Apostolic Church,106 Holland Park Ave,M6E 1L6,Toronto,Christian,-79.43931693,43.68644744
+699,Russian Orthodox Church,213 Winona Dr,M6C3S3,Toronto,Christian,-79.43234677,43.68074551
+700,St Chads Anglican Church,1695 Dufferin St,M6E3N9,Toronto,Christian,-79.4429639,43.678674
+701,St Mary Of The Angels Church,1479 Dufferin St,M6H4C7,Toronto,Christian,-79.44039184,43.67256683
+702,St Pauls Luthern Church,1424 Davenport Rd,M6H2H8,Toronto,Christian,-79.44264755,43.67287649
+703,St Nektarioc Greek Orthodox,1223 Davenport Rd,,Toronto,Christian,-79.43424709,43.67410105
+704,St. Paul'S Italian United Ch,1116 Ossington Ave,M6G3W1,Toronto,Christian,-79.43022364,43.67191047
+705,Kingdom Hall Of Jehovah'S Wi,285 Christie St,M6G3B9,Toronto,Christian,-79.42099558,43.67114884
+706,St Ann'S Spiritual Baptist C,645 Dupont St,M6G1Z4,Toronto,Christian,-79.42095268,43.67157401
+707,St Peter Temple,915 Davenport Rd,M6G2B7,Toronto,Christian,-79.4235113,43.67526012
+708,New Apostolic Church,407 Dupont St,M5R1W3,Toronto,Christian,-79.41248878,43.67333752
+709,St Ephrasinia Byyelorussian,1008 Dovercourt Rd,M6H2X8,Toronto,Christian,-79.43220367,43.66773697
+710,Restitution Bethesta Taberna,134 Hallam St,M6H1X1,Toronto,Christian,-79.43146786,43.66743638
+711,Oakwood Wesleyan Church,33 Brandon Ave,M6H2C8,Toronto,Christian,-79.44148175,43.66978849
+712,Mission Christiana Toronto,15 Brandon Ave,M6H2C8,Toronto,Christian,-79.44117813,43.66987498
+713,Hope Centre,1183 Dufferin St,M6H4B7,Toronto,Christian,-79.43719239,43.66494293
+714,Salvation Army Bloor Central,789 Dovercourt Rd,M6H2X4,Toronto,Christian,-79.42944257,43.66246007
+715,St Mary Anglican Church,40 Westmoreland Ave,M6H2Z7,Toronto,Christian,-79.43118665,43.66190217
+716,St Anthony'S Church,1037 Bloor St W,M6H1M4,Toronto,Christian,-79.43130693,43.66052296
+717,St Wenceslas Church,496-500 Gladstone Ave,M6H3H9,Toronto,Christian,-79.43391748,43.65963104
+718,St Sebastian'S Church,12 Pauline Ave,M6H3M8,Toronto,Christian,-79.43813705,43.65990176
+719,Our Lady Of Good Counsel,867 College St,M6H1A1,Toronto,Christian,-79.42385228,43.65388106
+720,St John'S Lutheran,274 Concord Ave,M6H2P5,Toronto,Christian,-79.42700522,43.66100418
+721,Ossington Avenue Baptist Chu,891 Bloor St W,,Toronto,Christian,-79.4258572,43.66171257
+722,Ossington Pentecostal Church,686 Ossington Ave,M6G3T7,Toronto,Christian,-79.42544443,43.66061876
+723,Our Lady Help Of Christians,609-615 Manning Ave,M6G2W1,Toronto,Christian,-79.41452053,43.66089943
+724,Holy Trinity Greek Orthodox,54 Clinton St,M6G 2Y3,Toronto,Christian,-79.41432524,43.65569125
+725,St Georges Lutheran Church,410 College St,M5T1S8,Toronto,Christian,-79.40638266,43.65705219
+726,First Portuguese Evanglical,132 Nassau St,M5T1M7,Toronto,Christian,-79.40546415,43.65475688
+727,St.Vladimir'S Church,400 Bathurst St,M5T2S6,Toronto,Christian,-79.40706907,43.65382676
+728,St Vladimir'S Church Office,406 Bathurst St,M5T2S6,Toronto,Christian,-79.40716511,43.65410494
+729,First Baptist Church,108 D'Arcy St,,Toronto,Christian,-79.39657856,43.65453807
+730,St Stephen'S Community House,91 Bellevue Ave,M5T 2N8,Toronto,Christian,-79.40384351,43.65626872
+731,St Stephen'S Church,103 Bellevue Ave,M5T 2N8,Toronto,Christian,-79.40398339,43.65696747
+732,Hungarian Reformed Evangelic,8 Robert St,M5S2K3,Toronto,Christian,-79.40225104,43.65795801
+733,First Ukranian Pentecostal C,557 Bathurst St,M5S2P8,Toronto,Christian,-79.40798174,43.65815666
+734,First Filipino Baptist Churc,382 Lippincott St,M5S2P7,Toronto,Christian,-79.41019975,43.66480236
+735,St Peter'S Church,832 Bathurst St,M5R3G1,Toronto,Christian,-79.41181424,43.66591407
+736,St. Alban The Martyr,112 Howland Ave,M5R3B5,Toronto,Christian,-79.41046883,43.66932993
+737,First Church Of Christ,196 St George St,M5R2N5,Toronto,Christian,-79.40154886,43.66995439
+738,St Thomas Anglican Church,383 Huron St,M5S2G5,Toronto,Christian,-79.40074518,43.66592573
+739,Knox Presbyterian Church,630 Spadina Ave,M5S2H4,Toronto,Christian,-79.40239348,43.66254922
+740,Mission Of Church Of Jesus,2005 Sheppard Ave E,M2J 5B4,Toronto,Christian,-79.33838433,43.77433049
+741,Sanctuary,23 Charles St E,M4Y1R9,Toronto,Christian,-79.38493298,43.6686703
+742,St Andrew'S United Church,117 Bloor St E,M4W1A9,Toronto,Christian,-79.38404293,43.67016564
+743,Holy Word Church,206 Mc Caul St,M5T1W5,Toronto,Christian,-79.39305056,43.65712662
+744,Rosewood Chinese Church,1220 Ellesmere Rd,M1P2X5,Toronto,Christian,-79.26828446,43.76952297
+745,St Andrews Presbyterian,115 St Andrews Rd,M1P4N2,Toronto,Christian,-79.25183746,43.76017248
+746,St Peter Anglican Church,776 Brimley Rd,M1J1C6,Toronto,Christian,-79.25513647,43.75053914
+747,Scarborough Centre Alliance,722 Brimley Rd,M1J1C2,Toronto,Christian,-79.25356719,43.74806644
+748,First Church Of Christ,3148-3150 Kingston Rd,M1M1P4,Toronto,Christian,-79.22901121,43.72878022
+749,Knob Hill United Church,23 Gage Ave,M1J1T3,Toronto,Christian,-79.24882865,43.7490357
+750,Guildwood Community Presbyst,140 Guildwood Pkwy,M1E1P4,Toronto,Christian,-79.19889509,43.74801138
+751,St Dunstan Of Cantebury,56 Lawson Rd,M1C2J2,Toronto,Christian,-79.16485708,43.78416328
+752,St Joseph'S Church,290 Old Kingston Rd,M1C1B5,Toronto,Christian,-79.17155001,43.78302854
+753,Salvation Army West Hill Cit,305 Morrish Rd,M1C1E9,Toronto,Christian,-79.1710122,43.7856955
+754,Port Union Church Of God,3731-3745 Lawrence Ave E,M1G1P7,Toronto,Christian,-79.21657013,43.76145446
+755,St Marks United Church,115 Orton Park Rd,M1G3G9,Toronto,Christian,-79.20784518,43.7702866
+756,Scarboro  Gospel Temple,710 Markham Rd,M1H3C8,Toronto,Christian,-79.22689926,43.76263033
+757,St Matthews Lutheran Church,3159 Lawrence Ave E,M1H1A1,Toronto,Christian,-79.24245168,43.75475677
+758,St Rose Of Lima,3216 Lawrence Ave E,M1H1A4,Toronto,Christian,-79.24155542,43.7570227
+759,St Ninians Anglican Church,930 Bellamy Rd N,M1H1G9,Toronto,Christian,-79.23952005,43.76644102
+760,Perfect Love Tabernacle,721-727 Progress Ave,M1H2W7,Toronto,Christian,-79.24555599,43.77909531
+761,Iglesia Protetica Church,1140 Bellamy Rd N,M1H1H4,Toronto,Christian,-79.24346076,43.776871
+762,Miracle Family Temple,1095 Bellamy Rd N,M1H3B8,Toronto,Christian,-79.24171227,43.77608924
+763,Iglesia Profectica Church,1085 Bellamy Rd N,M1H3C7,Toronto,Christian,-79.24133517,43.77564548
+764,N. America Athi Samaj Of T.O,1950 Ellesmere Rd,M1H2V8,Toronto,Christian,-79.23982776,43.7759481
+765,Temple,1940 Ellesmere Rd,M1H2V7,Toronto,Christian,-79.24050218,43.77596179
+766,Miracle Tamil Assembly Of Go,1990 Ellesmere Rd,M1H2W2,Toronto,Christian,-79.23786535,43.77651884
+767,St John The Divine Anglican,885A Scarborough Golf Club Rd,M1G1J6,Toronto,Christian,-79.21951935,43.77262824
+768,St Thomas More Church,2234 Ellesmere Rd,,Toronto,Christian,-79.2262188,43.77839116
+769,Scarborough Masonic Temple,2201 Ellesmere Rd,M1G3M6,Toronto,Christian,-79.23001695,43.77643092
+770,Holy Trinity Armenian Church,920 Progress Ave,M1G3T5,Toronto,Christian,-79.23337923,43.78245937
+771,Malvern Baptist Church,185 Milner Ave,M1S3R1,Toronto,Christian,-79.24154571,43.78695695
+772,Kingdom Hall Of Jehovas,846 Progress Ave,M1H2X5,Toronto,Christian,-79.23957955,43.78092119
+773,Grace Apostolic Church,801 Progress Ave,M1H2X4,Toronto,Christian,-79.24313306,43.77973044
+774,Joseph'S Inspirational Servi,2721 Markham Rd,M1X1L5,Toronto,Christian,-79.24362648,43.82109001
+775,Malvern Methodist Church,2 Morningview Trl,M1B5A8,Toronto,Christian,-79.2062053,43.81391802
+776,Grace Presbyterian Church,447 Port Union Rd,M1C2L6,Toronto,Christian,-79.14079077,43.79498476
+777,Living Stone Assembly,3501 Kennedy Rd,M1V4Y3,Toronto,Christian,-79.30591448,43.82259183
+778,Kingdom Of Jehova'S Witnesse,256 Eglinton Ave W,M4R1B2,Toronto,Christian,-79.40681528,43.70517478
+779,Iglesia Baptista Castellana,22A Birch Ave,M4V1C8,Toronto,Christian,-79.39256231,43.68137381
+780,Our Lady Of Poland Church,635 Middlefield Rd,M1V5B8,Toronto,Christian,-79.25955037,43.81583533
+781,St Bartholomews Church,59 Heather Rd,M1S2E2,Toronto,Christian,-79.27027725,43.78999712
+782,Showers Of Blessing,3410 Midland Ave,M1V4V4,Toronto,Christian,-79.29089432,43.810995
+783,Grace Chinese Gospel Church,201 Tempo Ave,M2H2R9,Toronto,Christian,-79.33977045,43.80529906
+784,Immanuel Baptist Church,1100 Finch Ave E,M2J2X4,Toronto,Christian,-79.35630492,43.79291244
+785,Hillcrest United Church,1080 Finch Ave E,M2J2X2,Toronto,Christian,-79.36494473,43.79089898
+786,Iona Presbyterian,1080 Finch Ave E,M2J2X2,Toronto,Christian,-79.36494473,43.79089898
+787,Ravel Church Properties,1080 Finch Ave E,M2J2X2,Toronto,Christian,-79.36494473,43.79089898
+788,St Cyprans Anglican Church,1080 Finch Ave E,M2J2X2,Toronto,Christian,-79.36494473,43.79089898
+789,St Theodore Of Canterbury,111 Cactus Ave,M2R2V1,Toronto,Christian,-79.43326555,43.79191917
+790,Salvation Army North York Te,25 Centre Ave,M2M2L4,Toronto,Christian,-79.41597789,43.79178351
+791,Newtonbrook Baptist Church,53 Madawaska Ave,M2M2R2,Toronto,Christian,-79.41496064,43.79439149
+792,St Patricks Anglican Church,1087 Lillian St,M2M3G1,Toronto,Christian,-79.4104048,43.79848681
+793,Newtonbrook United Church,53 Cummer Ave,M2M2E5,Toronto,Christian,-79.41497426,43.78716135
+794,Northview Community Church,172 Drewry Ave,M2M1E4,Toronto,Christian,-79.42591116,43.78563974
+795,Immanuel Seventh Day Adventi,418 Drewry Ave,M2R2K5,Toronto,Christian,-79.43739709,43.78319998
+796,Reorganized Church,241 Blake Ave,M2M1B8,Toronto,Christian,-79.4312747,43.77981988
+797,St Edwards Church,75 Churchill Ave,M2N 1Y8,Toronto,Christian,-79.41912937,43.77170001
+798,Lansing Gospel Hall,41 Elmhurst Ave,M2N1R3,Toronto,Christian,-79.4135241,43.76249858
+799,Lansing United Church,49 Bogert Ave,M2N1K4,Toronto,Christian,-79.41312233,43.76002326
+800,Masonic Temple,1100 Millwood Rd,M4H1A3,Toronto,Christian,-79.35370441,43.70238795
+801,Stonecroft Ministries,121 Willowdale Ave,M2N6A3,Toronto,Christian,-79.39984576,43.76512036
+802,Tentmaker'S Ministry,280 Sheppard Ave E,M2N3B1,Toronto,Christian,-79.39860847,43.76450483
+803,St Elizabeth Of Hungary Chur,432 Sheppard Ave E,M2N3B7,Toronto,Christian,-79.39127853,43.76653837
+804,Oriole York Mills United Chu,2609 Bayview Ave,M2L1B5,Toronto,Christian,-79.3842414,43.75166413
+805,"Saaleem, The Finnish Penteco",2570 Bayview Ave,M2L1B3,Toronto,Christian,-79.38533236,43.7508867
+806,Salvation Army Yorkminster C,1 Lord Seaton Rd,M2P2C1,Toronto,Christian,-79.4072315,43.75244208
+807,St John'S Anglican Church,19 Don Ridge Dr,M2P 1H3,Toronto,Christian,-79.40523984,43.74698518
+808,Lawrence Park Comm. Church,2180 Bayview Ave,M4N3K7,Toronto,Christian,-79.38050767,43.72505257
+809,St Leonards Anglican Church,25 Wanless Ave,M4N1V5,Toronto,Christian,-79.40154239,43.72629128
+810,St Ansgar Lutheran Church,30A Lawrence Ave E,M4N1S1,Toronto,Christian,-79.40079248,43.7256619
+811,St Timothy Anglican Church,39 Ridley Blvd,M5M3L2,Toronto,Christian,-79.40843878,43.73458333
+812,Onnuri Korean United Church,63 Dunblaine Ave,M5M2S2,Toronto,Christian,-79.42229891,43.73512049
+813,Melrose Baptist Church,375 Melrose Ave,M5M1Z6,Toronto,Christian,-79.41966526,43.72942866
+814,St Christophers Anglican Chu,171 Delhi Ave,M3H1A7,Toronto,Christian,-79.42838391,43.74008067
+815,St Joseph Of Arimathea,275 Wilson Heights Blvd,M3H2V3,Toronto,Christian,-79.44948304,43.73685902
+816,St Fidelis Church,33 Connie St,M6L2H8,Toronto,Christian,-79.4730347,43.72286072
+817,Our Christ Is Wonderful,955 Wilson Ave,M3K2A8,Toronto,Christian,-79.47473761,43.72605996
+818,Primera Islesia Alianza,955 Wilson Ave,M3K2A8,Toronto,Christian,-79.47473761,43.72605996
+819,Tabernacle Of Praise,955 Wilson Ave,M3K2A8,Toronto,Christian,-79.47473761,43.72605996
+820,Grace Healing Temple,640 Wilson Ave,M3K1E1,Toronto,Christian,-79.46107002,43.73219755
+821,Sala Del Regno Del Testimoni,1285 Wilson Ave,M3M3C6,Toronto,Christian,-79.493629,43.7237099
+822,Light Of The World Ministrie,99 Tuscan Gt,M3J2T5,Toronto,Christian,-79.48327918,43.75419994
+823,St Wilfred'S Roman Catholic,1675 Finch Ave W,M3J 2G8,Toronto,Christian,-79.50116758,43.76052727
+824,Light House Church,1177 Finch Ave W,M3J2E9,Toronto,Christian,-79.48117749,43.76498649
+825,Redemption City Of Faith,60 St Regis Cres,M3J1Y8,Toronto,Christian,-79.48531184,43.75502206
+826,Seventh Day Adventist Church,140 St Regis Cres,M3J1Y8,Toronto,Christian,-79.48187402,43.75525388
+827,Nazarene Spiritual Baptist,3848-3998 Chesswood Dr,M3J2W6,Toronto,Christian,-79.47525655,43.75707669
+828,Magnetic Products,3957-4069 Chesswood Dr,M3J2R8,Toronto,Christian,-79.47641011,43.75828101
+829,Revival Time Tabernacle,4340 Dufferin St,M3H5R9,Toronto,Christian,-79.46644838,43.76269797
+830,Kingdom Hall Of Johovah Witn,77 Champagne Dr,M3J2C6,Toronto,Christian,-79.47022679,43.76617524
+831,Free Christian Reformed,1130 Finch Ave W,M3J2E2,Toronto,Christian,-79.47638012,43.76702559
+832,Korean Full Gospel,1100 Petrolia Rd,M3J3L7,Toronto,Christian,-79.48990052,43.78101465
+833,Indonesian Christian Church,1000 Petrolia Rd,M3J3L7,Toronto,Christian,-79.48932056,43.78015365
+834,House Of Praise Tabernacle,4699 Keele St,M3J2N8,Toronto,Christian,-79.49303234,43.77487351
+835,St Stephens Anglican Church,2259 Jane St,M3M1A6,Toronto,Christian,-79.50954819,43.72673065
+836,T.O. Conference Offices,63 Mayall Ave,M3L1E7,Toronto,Christian,-79.51854269,43.72730831
+837,St Timothy By The Humber,2840 Weston Rd,M9M2S3,Toronto,Christian,-79.53775681,43.72103303
+838,Korean Saints Church,595 Albion Rd,M9V1A1,Toronto,Christian,-79.55468291,43.73050644
+839,New Life Assembly,573 Albion Rd,M9V1A1,Toronto,Christian,-79.55462676,43.73038629
+840,Rexdale Alliance Church,2455-2459 Islington Ave,M9W3X9,Toronto,Christian,-79.56024113,43.72680505
+841,Rexdale United Church,87 Elmhurst Dr,M9W2J8,Toronto,Christian,-79.55935347,43.72271162
+842,Lutheran Church Missouri,2705 Islington Ave,M9V2X7,Toronto,Christian,-79.56618093,43.74122565
+843,Seventh Day Adventist Church,24 Wardlaw Cres,M9V1L2,Toronto,Christian,-79.56417663,43.73948782
+844,Metropolitan United Church,56 Queen St E,M5C 2Z3,Toronto,Christian,-79.37666348,43.6538629
+845,Kipling Avenue Baptist,2240 Kipling Ave,M9W4L4,Toronto,Christian,-79.57415167,43.72607221
+846,Martin Grove United Church,75 Pergola Rd,M9W5K4,Toronto,Christian,-79.58705649,43.725708
+847,Full Gospel Redemption Centr,247 Carrier Dr,M9W5Y9,Toronto,Christian,-79.61630414,43.75106923
+848,Redemption Pentecostal,2001 Albion Rd,M9W6V6,Toronto,Christian,-79.62820781,43.74733623
+849,Humberlea Church Of God,6793 Steeles Ave W,M9V4R9,Toronto,Christian,-79.60860533,43.7562724
+850,Newgate Korean Presbyterian,754 Indian Rd,M6P2E3,Toronto,Christian,-79.45899183,43.66230781
+851,New Life Ministries,114 Pape Ave,M4M2V8,Toronto,Christian,-79.33821255,43.66217802
+852,Midland Park Baptist Church,5 Treewood St,M1P3J5,Toronto,Christian,-79.26353741,43.75387834
+853,St. Richard Of Chichester,240 The Westway,M9R1G1,Toronto,Christian,-79.54941977,43.68791737
+854,St Patrick'S Parish,141 Mc Caul St,M5T1W3,Toronto,Christian,-79.39149974,43.65509813
+855,St. Patrick'S German Parish,131 Mc Caul St,M5T1W3,Toronto,Christian,-79.391295,43.65460007
+856,First Seventh Day Baptist Ch,48 Fisher St,M6K1V8,Toronto,Christian,-79.43376915,43.65066828
+857,Jafray Alliance Church,9950 Sheppard Ave E,M1B5R6,Toronto,Christian,-79.16877066,43.80916128
+858,St. Simon The Apostle,42 Howard St,,Toronto,Christian,-79.37358427,43.67204306
+859,Knights Of Columbus,582 Sherbourne St,M4X1L4,Toronto,Christian,-79.37669639,43.67092187
+860,St Clair Avenue Baptist Chur,156 Wychwood Ave,,Toronto,Christian,-79.42359299,43.68263937
+861,St Andrews Anglican Church,14 Barkwin Dr,M9V2W1,Toronto,Christian,-79.56494966,43.73860644
+862,St Michael'S Church,580A Danforth Rd,M1K1E3,Toronto,Christian,-79.26325137,43.71162403
+863,Holy Trinity Russian Greek,23 Henry St,M5T1W9,Toronto,Christian,-79.39362585,43.65728816
+864,St Stephens Chapel,353 Bay St,,Toronto,Christian,-79.38085762,43.6507769
+865,St Andrews Presbyterian Chur,75 Simcoe St,M5J1W9,Toronto,Christian,-79.38554901,43.64706894
+866,Russian Ukrainian Church,24 Carr St,M5T1B5,Toronto,Christian,-79.40201473,43.64979356
+867,Living Waters Assembly,159 Claremont St,M6J2M7,Toronto,Christian,-79.41113443,43.65054307
+868,St Matthias Church,45 Bellwoods Ave,M6J3N4,Toronto,Christian,-79.41115128,43.64780897
+869,St Nicholas Parish Office,4 Bellwoods Ave,M6J2P4,Toronto,Christian,-79.41130418,43.64629601
+870,St Nickolas Ukranian Church,770 Queen St W,M6J1G2,Toronto,Christian,-79.4111957,43.64601341
+871,St. Mary'S Church,9 Portugal Sq,M6J 3P1,Toronto,Christian,-79.40374446,43.64527686
+872,St Stanislaus Church,16 Denison Ave,,Toronto,Christian,-79.4011264,43.64848309
+873,Overcomers Missionary Church,1504 Queen St W,M6R1A4,Toronto,Christian,-79.43825688,43.64045181
+874,Our Lady Of Lebanon,1515A Queen St W,M6R1A5,Toronto,Christian,-79.4414432,43.63929398
+875,Greek Orthodox Church Of Ann,136 Sorauren Ave,M6R2E4,Toronto,Christian,-79.44281428,43.64356788
+876,Saint Clare,1324 Queen St W,M6K1L4,Toronto,Christian,-79.43140121,43.64182691
+877,Parkdale Neighborhood Church,1318 Queen St W,M6K1L4,Toronto,Christian,-79.43124502,43.64187876
+878,Gospel Light Tabernacle Chur,1205 Queen St W,M6K1L2,Toronto,Christian,-79.42891564,43.64187894
+879,St Johns Cathedral,186 Cowan Ave,M6K2N6,Toronto,Christian,-79.43275985,43.63975326
+880,Parkdale United Church,1355 King St W,M6K3C8,Toronto,Christian,-79.43285221,43.63755442
+881,Slavic Pentecostal Church,1090 Queen St W,M6J1H8,Toronto,Christian,-79.42231908,43.6437441
+882,Slavic Evangelical Baptist C,95 Gladstone Ave,M6J3L1,Toronto,Christian,-79.42794153,43.6455267
+883,Igreja Santa Cruz Church,140 Argyle St,M6J1P1,Toronto,Christian,-79.42384321,43.64645401
+884,Slovak Greek Catholic Church,257 Shaw St,M6J2W7,Toronto,Christian,-79.417494,43.64895535
+885,St Agnes Church,938 Dundas St W,M6J1W3,Toronto,Christian,-79.41373012,43.65097743
+886,St John The Baptist Church,170 Gore Vale Ave,,Toronto,Christian,-79.41361713,43.65052671
+887,St Francis Church,91 Grace St,,Toronto,Christian,-79.41446623,43.65352186
+888,Igreja Pentecostal,1535A Dundas St W,M6K1T6,Toronto,Christian,-79.43299074,43.64955096
+889,St Anne'S Anglican Church,651 Dufferin St,M6K2B2,Toronto,Christian,-79.4312576,43.6502479
+890,St Helen'S Church,1678 Dundas St W,M6K1V3,Toronto,Christian,-79.43754693,43.65024053
+891,St Helen'S R C Church,1674 Dundas St W,,Toronto,Christian,-79.43734574,43.65022495
+892,Olivet Baptist Church,36 Margueretta St,M6K2P5,Toronto,Christian,-79.43800772,43.65105464
+893,High Park Baptist Church,9 Hewitt Ave,M6R1Y4,Toronto,Christian,-79.45184965,43.65223678
+894,Kingdom Hall Of Jehovah'S Wi,2101 Dundas St W,M6R1X1,Toronto,Christian,-79.44893226,43.65234647
+895,Howard Park Pentacostal Chur,384 Sunnyside Ave,M6R2S1,Toronto,Christian,-79.45341621,43.65032806
+896,St Vincent De Paul Church,265 Roncesvalles Ave,M6R2L9,Toronto,Christian,-79.44858686,43.64711949
+897,Morningside-High Park Presby,4 Morningside Ave,M6S1C2,Toronto,Christian,-79.47303632,43.64635765
+898,St Olave'S Anglican Church,360 Windermere Ave,M6S3L4,Toronto,Christian,-79.48082528,43.6496276
+899,Kingsway-Lambton United Chur,85 The Kingsway,M8X2T6,Toronto,Christian,-79.50791729,43.6529255
+900,Royal York Road United Churc,851 Royal York Rd,M8Y2V3,Toronto,Christian,-79.50892095,43.64274664
+901,Humbervale Park Baptist Chur,763 Royal York Rd,M8Y2T3,Toronto,Christian,-79.5068582,43.63729788
+902,St James Anglican Church,194 Park Lawn Rd,M8Y3J1,Toronto,Christian,-79.49124276,43.62995796
+903,St Mark'S Catholic Church,277 Park Lawn Rd,M8Y3J7,Toronto,Christian,-79.49227145,43.63418985
+904,Parklawn Baptist Church,276 Park Lawn Rd,M8Y3J9,Toronto,Christian,-79.49294587,43.63403601
+905,Royal York Assembly Of Chris,756 Royal York Rd,M8Y2T6,Toronto,Christian,-79.50711737,43.63618721
+906,Martin Luther Evangelical Ch,2379 Lake Shore Blvd W,M8V1B7,Toronto,Christian,-79.48800239,43.6153408
+907,Mimico Gospel Hall,414 Royal York Rd,M8Y2R5,Toronto,Christian,-79.50031467,43.62001187
+908,Polish Full Gospel Church,122 Mimico Ave,M8V1R5,Toronto,Christian,-79.49485731,43.61293592
+909,Mimico Presbyterian Church,217 Royal York Rd,,Toronto,Christian,-79.49638102,43.61216314
+910,St Margarets Anglican Church,156 Sixth St,M8V3A5,Toronto,Christian,-79.5050427,43.60217408
+911,St Michaels Ukranian  Church,182 Sixth St,M8V3A5,Toronto,Christian,-79.50540166,43.60304536
+912,Korean Peace Presbyterian,175 Islington Ave,M8V3B8,Toronto,Christian,-79.50568056,43.60244864
+913,Korean Living Hope Presbyter,118 Ninth St,M8V3E4,Toronto,Christian,-79.50777216,43.59938926
+914,Kingdom Hall Of Jehovah'S Wi,124 Fifth St,M8V2Z3,Toronto,Christian,-79.50307082,43.60061081
+915,Lake Shore Village Baptist C,68 Tenth St,M8V3G1,Toronto,Christian,-79.50807338,43.59787266
+916,St Teresa'S Church,100 Tenth St,M8V3G1,Toronto,Christian,-79.50861677,43.59886152
+917,Island Church,1 Centre Island Pk,,Toronto,Christian,-79.37727872,43.61522378
+918,St Margrets Church,222 Ridley Blvd,M5M3M6,Toronto,Christian,-79.42150023,43.73855745
+919,Friends Of Simon Wics Enthal,8 King St E,M5C 1B5,Toronto,Christian,-79.37761438,43.64941792
+920,St. James Cathedral,106 King St E,,Toronto,Christian,-79.37375976,43.65032855
+921,Little Trinity Church,417 King St E,M5A1L3,Toronto,Christian,-79.36261508,43.65277147
+922,Grace Toronto Church,95 Trinity St,M5A3C7,Toronto,Christian,-79.36079427,43.65289183
+923,St Pauls United Church,200 McIntosh St,M1N3Z3,Toronto,Christian,-79.2511295,43.70989971
+924,Shrine Of The Little Flower,2559 Kingston Rd,M1M1M1,Toronto,Christian,-79.24751291,43.71136096
+925,Highway Gospel Church,530 Midland Ave,M1N1T1,Toronto,Christian,-79.25120473,43.71738078
+926,New Apostolic Church,661 Danforth Rd,M1K1G1,Toronto,Christian,-79.25977578,43.71626529
+927,Metro Toronto House Of Orang,417 Kennedy Rd,M1K2A7,Toronto,Christian,-79.26089245,43.71606486
+928,Konko Church Of Toronto,615 Danforth Rd,,Toronto,Christian,-79.26091195,43.71412956
+929,St. Crispins Anglican Church,77 Craiglee Dr,M1N2M6,Toronto,Christian,-79.25435724,43.70606226
+930,Pentecostal Holiness Church,44 Craiglee Dr,,Toronto,Christian,-79.25692298,43.70602427
+931,Shouter Spiritual Baptist ..,447 Birchmount Rd,M1K1N6,Toronto,Christian,-79.26689815,43.70483435
+932,Kingdom Hall Of Jehovah'S Wi,459 Birchmount Rd,M1K1N3,Toronto,Christian,-79.26700443,43.70539246
+933,New Covenant Church,541 Danforth Rd,M1K1C9,Toronto,Christian,-79.26521634,43.70960843
+934,New Life Baptist Church,1529 O'Connor Dr,M4B2V7,Toronto,Christian,-79.30560542,43.71434223
+935,Kingdom Hall Of Jehovah S Wi,64 Tiago Ave,M4B2A3,Toronto,Christian,-79.30346357,43.71210399
+936,Springdale Church,30 Merritt Rd,M4B3K5,Toronto,Christian,-79.30410697,43.70858294
+937,Old Roman Catholic Chapel,817 O'Connor Dr,M4B2S7,Toronto,Christian,-79.31191593,43.70624568
+938,Greek Orthodox Church,2817 St Clair Ave E,M4B1N3,Toronto,Christian,-79.30501247,43.70693073
+939,Korean Church Of Pure Gold,1266 Victoria Park Ave,M4B2L1,Toronto,Christian,-79.29767049,43.71202983
+940,St Clair Missionary Church,3113 St Clair Ave E,M1L1T9,Toronto,Christian,-79.29356869,43.70903908
+941,St Bedes Church,79 Westbourne Ave,M1L2Y6,Toronto,Christian,-79.29046258,43.704456
+942,Legion Of Mary,2472 Danforth Ave,M4C1K9,Toronto,Christian,-79.30401453,43.68797027
+943,St. Dunstans,3152 Danforth Ave,M1L1B6,Toronto,Christian,-79.28533626,43.69223958
+944,St Nicholas Anglican Church,1512 Kingston Rd,M1N1R7,Toronto,Christian,-79.2691792,43.68957509
+945,Pontifical Mission,3329 Danforth Ave,M1L4T3,Toronto,Christian,-79.28142221,43.6925461
+946,Immaculate Heart Of Mary,131 Birchmount Rd,M1N3J7,Toronto,Christian,-79.26338032,43.6964076
+947,St Mary Barsaumo,72 Birchmount Rd,M1N3J6,Toronto,Christian,-79.26317187,43.69427483
+948,Scarborough Baptist Church,1597 Kingston Rd,M1N1S3,Toronto,Christian,-79.26626906,43.69026641
+949,Mennonite New Life Centre O,1774 Queen St E,,Toronto,Christian,-79.31068491,43.66793336
+950,Kew Beach United Church,140 Wineva Ave,M4E2T4,Toronto,Christian,-79.29633572,43.67149826
+951,Rector & Church Warden,86 Silver Birch Ave,,Toronto,Christian,-79.28527161,43.67250383
+952,St Savior'S Anglican Church,43 Kimberley Ave,M4E2Z4,Toronto,Christian,-79.29770845,43.68281928
+953,St John'S Church,794 Kingston Rd,M4E1R7,Toronto,Christian,-79.29341745,43.68023709
+954,Kingston Road United Church,975 Kingston Rd,M4E1T1,Toronto,Christian,-79.28656966,43.68022177
+955,Kingdom Hall Of Jehovah'S Wi,416 Victoria Park Ave,M4E3T2,Toronto,Christian,-79.28480998,43.681807
+956,Grant African Methodist Epis,2029 Gerrard St E,M4E2B3,Toronto,Christian,-79.30843699,43.68169003
+957,St Francis The Baptist,2140 Danforth Ave,M4C1J9,Toronto,Christian,-79.31144486,43.68635027
+958,Salvation Army,101 Cedarvale Ave,,Toronto,Christian,-79.31096903,43.6868412
+959,Kimbourne Park United Church,200 Wolverleigh Blvd,M4C1S2,Toronto,Christian,-79.32251593,43.68569159
+960,Open Heaven Ministries,1708 Danforth Ave,M4C1H8,Toronto,Christian,-79.32050207,43.68432828
+961,Holy Trinity,201 Monarch Park Ave,M4J4R9,Toronto,Christian,-79.32788685,43.68543374
+962,Greenwood Gospel Chapel,949 Greenwood Ave,M4J4C5,Toronto,Christian,-79.33403405,43.68615667
+963,First United Pentecostal Chu,719 Greenwood Ave,M4J4B6,Toronto,Christian,-79.33292802,43.68352103
+964,Jehovah'S Witnesses,172 Donlands Ave,M4J3P8,Toronto,Christian,-79.33991824,43.68599808
+965,Pape Ave Gospel Hall,871 Pape Ave,M4K3T7,Toronto,Christian,-79.34632845,43.6835249
+966,St Irane Christoualantou Gre,66 Gough Ave,M4K3N8,Toronto,Christian,-79.34669123,43.67916629
+967,Holy Name Church,606 Danforth Ave,M4K1R3,Toronto,Christian,-79.34594857,43.67909077
+968,Temple Baptist Church,14 Dewhurst Blvd,M4J3H9,Toronto,Christian,-79.33998435,43.68056204
+969,New Apostolic Church,152 Hazelwood Ave,M4J1K5,Toronto,Christian,-79.3403296,43.67910901
+970,Metamorphosis Church,42 Donlands Ave,M4J3N6,Toronto,Christian,-79.33818319,43.6815708
+971,St Davids Anglican Church,49 Donlands Ave,M4J3N5,Toronto,Christian,-79.33703724,43.68100329
+972,Old Calendar Greek,281 Jones Ave,M4M3A7,Toronto,Christian,-79.3357626,43.67036805
+973,Glen Rhodes United Church,1470 Gerrard St E,M4L2A3,Toronto,Christian,-79.32074741,43.67278514
+974,St Monica'S Anglican Church,83 Hiawatha Rd,M4L2X7,Toronto,Christian,-79.32200848,43.67096725
+975,Highfield Road Gospel Hall,1753 Dundas St E,,Toronto,Christian,-79.32313574,43.66749572
+976,Roman Catholic Episcopal,162 Leslie St,M4M3C7,Toronto,Christian,-79.33157543,43.6649391
+977,Presbyterian Church,945 Queen St E,,Toronto,Christian,-79.33961762,43.66084605
+978,St Matthews Anglican Church,135 First Ave,M4M1W9,Toronto,Christian,-79.34717762,43.66541851
+979,Moorelands,388 Carlaw Ave,M4M2T4,Toronto,Christian,-79.34228083,43.6657372
+980,St Clements Church,175 Jones Ave,M4M3A2,Toronto,Christian,-79.33440865,43.66738338
+981,Kingdom Hall Of Jehovah'S Wi,1005 Gerrard St E,M4M1Z4,Toronto,Christian,-79.33789945,43.66851181
+982,Metropolitan Community Churc,115 Simpson Ave,M4K 1A1,Toronto,Christian,-79.34786574,43.66692961
+983,St John'S Presbyterian Churc,415 Broadview Ave,M4K2M9,Toronto,Christian,-79.35265508,43.66652146
+984,St Ann'S Parish,711 Gerrard St E,M4M1Y5,Toronto,Christian,-79.34809836,43.66589368
+985,St John The Copassionate Mis,155 Broadview Ave,M4M 2E9,Toronto,Christian,-79.35027054,43.66050119
+986,Gospel Hall,194 Broadview Ave,M4M 2G5,Toronto,Christian,-79.35115604,43.66126316
+987,Riverside Missionary Church,456 King St E,M5A1L4,Toronto,Christian,-79.35928282,43.65535462
+988,St Paul'S Church,93 Power St,,Toronto,Christian,-79.36265448,43.65565485
+989,Macedonian Bulgarian Orthodo,17 Regent St,M5A3N4,Toronto,Christian,-79.36340554,43.65787421
+990,St Bartholomews Church,509 Dundas St E,M5A 3V3,Toronto,Christian,-79.36484277,43.65992282
+991,Salvation Army Correctional,77 River St,M5A3P1,Toronto,Christian,-79.35720543,43.65966291
+992,Salvation Army-Family Servic,77 River St,M5A3P1,Toronto,Christian,-79.35720543,43.65966291
+993,Mother Of God Of Prousn Gree,461 Richmond St E,M5A1R1,Toronto,Christian,-79.3658576,43.65395367
+994,First Lutheran Church,116 Bond St,M5B1X8,Toronto,Christian,-79.37893897,43.65698225
+995,Jarvis St Baptist Church,335 Jarvis St,M5B2C2,Toronto,Christian,-79.3754917,43.660344
+996,Jarvis St Baptist Seminary,337 Jarvis St,M5B2C7,Toronto,Christian,-79.37574918,43.66096675
+997,St Andrews Estonian Church,383 Jarvis St,M5B2C7,Toronto,Christian,-79.37636759,43.66226239
+998,San Lorenzo Ruizchora,188 Carlton St,M5A2K8,Toronto,Christian,-79.3719803,43.66384039
+999,St Peters Anglican Church,188 Carlton St,M5A2K8,Toronto,Christian,-79.3719803,43.66384039
+1000,St. Jamestown Communtiy Chur,605 Parliament St,M4X1P9,Toronto,Christian,-79.36922669,43.66798312
+1001,St James The Less,625 Parliament St,M4X1R1,Toronto,Christian,-79.36943358,43.66875762
+1002,Rosedale Presbyterian Church,63 South Dr,M4W1R4,Toronto,Christian,-79.38021762,43.67596508
+1003,Macedonian Cultural Centre,402 Danforth Ave,M4K1P3,Toronto,Christian,-79.35160018,43.6778451
+1004,St Barnabas Anglican Church,359 Danforth Ave,,Toronto,Christian,-79.35249947,43.6772408
+1005,Iglesia Evangelica Hispana,804 Broadview Ave,M4K2P7,Toronto,Christian,-79.35902338,43.67769777
+1006,Seventh Day Adventist Church,170 Westwood Ave,M4K2B1,Toronto,Christian,-79.34966714,43.68673001
+1007,Holy Word Fellowship,29 Edgar Ave,M4W2B1,Toronto,Christian,-79.37480828,43.68359137
+1008,Rosedale United Church,159 Roxborough Dr,M4W1X7,Toronto,Christian,-79.37235625,43.68414276
+1009,St Cuthbert'S Church,1399 Bayview Ave,M4G3A6,Toronto,Christian,-79.37306069,43.70203694
+1010,Mother Of God Portaitissa,230 Glebemount Ave,M4C3T4,Toronto,Christian,-79.32154339,43.69281527
+1011,St Luke'S Church,904 Coxwell Ave,M4C3G3,Toronto,Christian,-79.32849467,43.69431239
+1012,Macedonian Orthodox Church,76 Overlea Blvd,M4H1C5,Toronto,Christian,-79.34111355,43.7085498
+1013,Greek Orthodon Archdiocese,86 Overlea Blvd,M4H1C6,Toronto,Christian,-79.33955456,43.70893916
+1014,Presteign  Woodbine United C,16 Presteign Ave,M4B3A8,Toronto,Christian,-79.32003334,43.70507971
+1015,Northlea United Church,125 Brentcliffe Rd,M4G3Y7,Toronto,Christian,-79.36306234,43.71738739
+1016,Leaside United Church,822 Millwood Rd,M4G1W4,Toronto,Christian,-79.36877493,43.70529391
+1017,St Anselm Church,737 Millwood Rd,M4G1V7,Toronto,Christian,-79.37288899,43.70442097
+1018,Leaside Presbyterian Church,670 Eglinton Ave E,M4G2K4,Toronto,Christian,-79.37267077,43.71235186
+1019,St Augustine Of Canterbury,1847 Bayview Ave,M4G3E4,Toronto,Christian,-79.37720937,43.71416924
+1020,Leaside Bible Chapel,822 Eglinton Ave E,M4G2L1,Toronto,Christian,-79.36623253,43.71350245
+1021,St Bonaventure,1300 Leslie St,M3C2K9,Toronto,Christian,-79.35565071,43.7317973
+1022,Mission Of T.F.A.R.S. Radio,50 Gervais Dr,M3C1Z3,Toronto,Christian,-79.33831497,43.72533257
+1023,Jesus Calls Canada,60-74 Gervais Dr,M3C1Z3,Toronto,Christian,-79.33754263,43.72575649
+1024,Presbyterian Church In Can,50 Wynford Dr,M3C1J7,Toronto,Christian,-79.33503774,43.72454394
+1025,St Marks Presbyterian Church,7 The Donway E,M3C3P8,Toronto,Christian,-79.33956136,43.73324729
+1026,St George & St Rueiss,141 Bond Ave,M3B1M1,Toronto,Christian,-79.34745077,43.7457197
+1027,Grace Memorial Church,36 Broadlands Blvd,M3A1J3,Toronto,Christian,-79.32321743,43.74490351
+1028,Jubilee United Church,40 Underhill Dr,M3A2J5,Toronto,Christian,-79.32666461,43.74412983
+1029,North York Chinese Baptist C,99 Scarsdale Rd,M3B2R2,Toronto,Christian,-79.35462284,43.75116676
+1030,Saint Gregory The Illuminato,100 Northdale Rd,M2L2M1,Toronto,Christian,-79.37895726,43.763906
+1031,North York Chinese Baptist C,675 Sheppard Ave E,M2K1B6,Toronto,Christian,-79.37877496,43.76816252
+1032,Forest Grove United Church,43 Forest Grove Dr,M2K1Z4,Toronto,Christian,-79.3792651,43.77939797
+1033,St Matthew The Apostle,80 George Henry Blvd,M2J1E7,Toronto,Christian,-79.35109268,43.77363807
+1034,New Apostolic Church,11 Pleasant View Dr,M2J3P6,Toronto,Christian,-79.34015387,43.78279402
+1035,St. John'S United Church,10 Farmcrest Dr,,Toronto,Christian,-79.31954292,43.77174595
+1036,Parkwoods United Church,83 Parkwoods Village Dr,M3A3R8,Toronto,Christian,-79.32320256,43.76134784
+1037,Parkway Bible Church,77 Ivordale Cres,M1R2W7,Toronto,Christian,-79.31275223,43.75601801
+1038,Greek Orthodox Church,1385 Warden Ave,M1R2S3,Toronto,Christian,-79.29929582,43.7580829
+1039,New Covenant Alliance Church,1490 Birchmount Rd,M1P2E3,Toronto,Christian,-79.28880187,43.75546255
+1040,Holy Spirit Church,3526 Sheppard Ave E,M1T3K7,Toronto,Christian,-79.30242308,43.78052953
+1041,Grace Tabernacle Church Of G,2400 Midland Ave,M1S5C1,Toronto,Christian,-79.27705727,43.78190733
+1042,Knox Presbyterian Church,4156 Sheppard Ave E,M1S1T3,Toronto,Christian,-79.28136774,43.78532958
+1043,Glen Ayr United Church,55 Brimorton Dr,M1P3Z3,Toronto,Christian,-79.254638,43.76577108
+1044,Metro Chinese Christian Miss,1220 Ellesmere Rd,M1P2X5,Toronto,Christian,-79.26828446,43.76952297
+1045,Bna'I Brith Canada,15 Hove St,M3H4Y8,Toronto,Jewish,-79.44123274,43.75597034
+1046,Synagogue,694 Sheppard Ave W,M3H2S6,Toronto,Jewish,-79.44382237,43.75473442
+1047,The Kabbalah Centre,678A Sheppard Ave W,M3H2S5,Toronto,Jewish,-79.44279918,43.75486841
+1048,Toronto - Haddasah - WIZO,628A-648A Sheppard Ave W,M3H2S1,Toronto,Jewish,-79.44072958,43.75530571
+1049,The Peoples Church,374 Sheppard Ave E,M2N3B6,Toronto,Christian,-79.39353695,43.76609098
+1050,Trinity Presbyterian Church,2737 Bayview Ave,M2L1C5,Toronto,Christian,-79.38585999,43.76098428
+1051,Kehillat Shaarei Torah,2640 Bayview Ave,M2L1B7,Toronto,Jewish,-79.38584643,43.75441539
+1052,Woman'S Christ And Temperenc,4211 Yonge St,M2P2A9,Toronto,Christian,-79.40712878,43.74812743
+1053,Toronto Evangelistic Temple,4190 Yonge St,M2P1N9,Toronto,Christian,-79.40850005,43.74727547
+1054,United Church Canada,100 Ranleigh Ave,M4N1W9,Toronto,Christian,-79.40011416,43.72864668
+1055,Research Centre Of Kabalah,1708A Avenue Rd,M5M3Y6,Toronto,Jewish,-79.41824222,43.7280068
+1056,Ivansker Mutual Benefit Soci,3425 Bathurst St,M6A2C1,Toronto,Jewish,-79.43131257,43.72724344
+1057,Stashover-Slipia Congregation,11 Sultana Ave,M6A1S9,Toronto,Jewish,-79.43263,43.72837802
+1058,The Jerusalem College Of Tec,3101 Bathurst St,M6A2A6,Toronto,Jewish,-79.42984256,43.72112619
+1059,Shaarei Tefillah Synagogue,3600 Bathurst St,M6A2C9,Toronto,Jewish,-79.4330802,43.73112439
+1060,Chasidei Bobov Synagogue,3701 Bathurst St,M6A2E8,Toronto,Jewish,-79.43313714,43.73490195
+1061,Torah Research Academy,3701 Bathurst St,M6A2E8,Toronto,Jewish,-79.43313714,43.73490195
+1062,Synagogue,129 McGillivray Ave,M5M2Y7,Toronto,Jewish,-79.43247296,43.73557315
+1063,Mizrachi Torah,296 Wilson Ave,M3H1S8,Toronto,Jewish,-79.43538375,43.7373772
+1064,The First Korean Presbyteria,68 Collinson Blvd,M3H3C3,Toronto,Christian,-79.4408712,43.74096978
+1065,Clanton Park Synagogue,11 Lowesmoor Ave,M3H3H6,Toronto,Jewish,-79.44441646,43.74567228
+1066,Bros Chaya Mushka,44 Edinburgh Dr,M3H1B4,Toronto,Other,-79.43482066,43.74204527
+1067,Canadian Zionist Federation,3995 Bathurst St,M3H5V3,Toronto,Jewish,-79.43530118,43.74414011
+1068,Tifereth Yaacov Congregation,3862 Bathurst St,M3H3N3,Toronto,Jewish,-79.43545426,43.7409023
+1069,Adath Israel Congregation,37 Southbourne Ave,M3H1A4,Toronto,Jewish,-79.43122536,43.73855386
+1070,Beth David B'Nai Israel Beth,55 Yeomans Rd,M3H3J7,Toronto,Jewish,-79.43984309,43.74925946
+1071,Petah Tikva Anshe Castilla C,20 Danby Ave,M3H2J3,Toronto,Jewish,-79.43878945,43.7493521
+1072,Emunah Shleima,4116-4122 Bathurst St,M3H3P2,Toronto,Jewish,-79.43662376,43.74646762
+1073,Beth Radom Congregation Syna,18 Reiner Rd,M3H2K9,Toronto,Jewish,-79.4390274,43.75233105
+1074,Magen David Sephardic Congre,10 McAllister Rd,M3H2M9,Toronto,Jewish,-79.43825026,43.75360546
+1075,Tiferet Israel Congregation,756 Sheppard Ave W,M3H2S8,Toronto,Jewish,-79.44714881,43.75402751
+1076,Adath Sholom Synagogue,864 Sheppard Ave W,M3H2T5,Toronto,Jewish,-79.4533246,43.75269692
+1077,The Korean Pentecostal,1 Tippett Rd,,Toronto,Christian,-79.44540485,43.73194807
+1078,Congregation Melech Yisreal,272 Ranee Ave,M6A1N6,Toronto,Jewish,-79.44964812,43.72337806
+1079,True Holiness Apostolic,955 Wilson Ave,M3K2A8,Toronto,Christian,-79.47473761,43.72605996
+1080,Wosem,684 Wilson Ave,M3K1E1,Toronto,Christian,-79.46201769,43.73199284
+1081,London Sikh Society,3390 Keele St,M3J1L6,Toronto,Sikh,-79.48847208,43.74694936
+1082,Toronto Chinese Reformed Ch,41-75 Four Winds Dr,M3J1K7,Toronto,Christian,-79.49966682,43.7633277
+1083,Toronto Shiva Satsangh,1270 Finch Ave W,M3J3J7,Toronto,Hindu,-79.48827294,43.76522199
+1084,Imdadul Islamic Centre,26 Le Page Crt,M3J1Z9,Toronto,Muslim,-79.48695171,43.75886711
+1085,Beth Emeth Bais Yehuda,100 Elder St,M3H5G7,Toronto,Jewish,-79.45412317,43.76065776
+1086,Beth Jacob Synagogue,147 Overbrook Pl,M3H4R1,Toronto,Jewish,-79.45787152,43.76244263
+1087,Hashomer Hatzair,1111A Finch Ave W,M3J2P7,Toronto,Jewish,-79.4752679,43.76662136
+1088,Toronto Church Of Christ,1118 Finch Ave W,M3J3J4,Toronto,Christian,-79.47477763,43.76732518
+1089,Bethel Prayer,2655-2697 Steeles Ave W,M3J2Z8,Toronto,Jewish,-79.48811383,43.7827669
+1090,Toronto Hanuman Mandir Cultural Centre,190 Milvan Dr,M9L1Z9,Toronto,Hindu,-79.56646255,43.7593601
+1091,Ontario A.A.I. At Islam,175 Toryork Dr,M9L2Y7,Toronto,Muslim,-79.55709558,43.75919413
+1092,Ontario A.A.I. At Islam,175 Toryork Dr,M9L2Y7,Toronto,Muslim,-79.55709558,43.75919413
+1093,Ramgarhia Sikh Society,136 Rivalda Rd,M9M2M8,Toronto,Sikh,-79.5367006,43.74455022
+1094,Pranav Hindu Mandir,102 Rivalda Rd,M9M2M8,Toronto,Hindu,-79.53623113,43.74187261
+1095,Sidh Shakti Sh Baba Balak,102 Rivalda Rd,M9M2M8,Toronto,Hindu,-79.53623113,43.74187261
+1096,Tamil-Ul-Islam,86 Rivalda Rd,M9M2M8,Toronto,Muslim,-79.53595385,43.74053942
+1097,Siva Vishnu Kovil,38 Rivalda Rd,M9M2M3,Toronto,Hindu,-79.5354932,43.73758195
+1098,Maha Kali Mandir,595 Albion Rd,M9V1A1,Toronto,Hindu,-79.55468291,43.73050644
+1099,Thistletown United Church,1030 Albion Rd,M9V1A7,Toronto,Christian,-79.56352154,43.7369711
+1100,Tiruchendur Murugan Thirukovil,2400 Finch Ave W,M9M2C8,Toronto,Hindu,-79.54867627,43.75148026
+1101,Tiruchendur Murugan Thirukovil,2400 Finch Ave W,M9M2C8,Toronto,Hindu,-79.54867627,43.75148026
+1102,North York Sikh Temple,2400 Finch Ave W,M9M2C8,Toronto,Sikh,-79.54867627,43.75148026
+1103,Rexdale Singh Sabha,47 Baywood Rd,M9V3Y8,Toronto,Sikh,-79.60570338,43.74724567
+1104,Rexdale Mussalah,1770 Albion Rd,M9V1C2,Toronto,Muslim,-79.6040049,43.74416641
+1105,Sikh Spiritual Centre,9 Carrier Dr,M9V4B2,Toronto,Sikh,-79.60373839,43.73854068
+1106,Toronto Hindu Dharmic Sabha Inc,130 Westmore Dr,M9V 5E2,Toronto,Hindu,-79.60225326,43.73596883
+1107,Etobicoke Muslim Community,130 Westmore Dr,M9V 5E2,Toronto,Muslim,-79.60225326,43.73596883
+1108,United Muslim Association,130 Westmore Dr,M9V 5E2,Toronto,Muslim,-79.60225326,43.73596883
+1109,Swaminarayan Mandir (BAPS),61 Claireville Dr,M9W5Z7,Toronto,Hindu,-79.62500267,43.73929165
+1110,The Chief Cornerstone Tabema,14 Steinway Blvd,M9W6M6,Toronto,Christian,-79.6209966,43.75230589
+1111,Shri Ram Sharam,12 Steinway Blvd,M9W6M5,Toronto,Hindu,-79.61984435,43.75288727
+1112,Bharat Sevashram Sangha Cana,2129 Albion Rd,,Toronto,Hindu,-79.63824423,43.74965867
+1113,Wishing Well Acres Baptist C,3143 Sheppard Ave E,M1T3J7,Toronto,Christian,-79.31601267,43.77650499
+1114,The Congregation Of The Most,137 Mc Caul St,M5T1W3,Toronto,Christian,-79.39135702,43.65475853
+1115,Jai Durga Hindu Society,2691 Markham Rd,M1X1L4,Toronto,Hindu,-79.24307184,43.82012053
+1116,International Muslims Organization,65 Rexdale Blvd,M9W1P1,Toronto,Muslim,-79.56000661,43.7127007
+1117,Kiever Congregation,25 Bellevue Ave,M5T2N5,Toronto,Jewish,-79.40288402,43.65377553
+1118,St Basils Church,50 St Joseph St,,Toronto,Christian,-79.38889653,43.66636652
+1119,Prospect Cemetery,250 Rogers Rd,M6E1R1,Toronto,Christian,-79.45578313,43.68345712
+1120,St Demetrius Ukranian Orthod,3338 Lake Shore Blvd W,M8W1M9,Toronto,Orthodox,-79.52583324,43.5964521
+1121,Islamic Community Center Of,30 Waulron St,M9C1B5,Toronto,Muslim,-79.564132,43.62138143
+1122,Muslim World League,191 The West Mall,M9C5K8,Toronto,Muslim,-79.55788221,43.62590057
+1123,Bosnian-Dzamja Mosque,122 North Queen St,M8Z2E4,Toronto,Muslim,-79.55006676,43.62082746
+1124,Bosnian Islamic Association,122 North Queen St,M8Z2E4,Toronto,Muslim,-79.55006676,43.62082746
+1125,Mesjed El-Husein,61 Chauncey Ave,M8Z2Z2,Toronto,Muslim,-79.52705306,43.63650973
+1126,The United Church Of Canada,3250 Bloor St W,M8X2Y4,Toronto,Christian,-79.52096273,43.64552891
+1127,The Church Of Christ The Kin,475 Rathburn Rd,M9C3S9,Toronto,Christian,-79.57499231,43.6522296
+1128,The Reorganized Church Of Je,84 Old Burnhamthorpe Rd,M9C3J7,Toronto,Christian,-79.58201803,43.64224412
+1129,The Light  Korean Presbyteri,312 Rexdale Blvd,M9W1R6,Toronto,Christian,-79.58402078,43.71471499
+1130,Shiva Temple,80 Brydon Dr,M9W4N6,Toronto,Hindu,-79.57395065,43.71988035
+1131,Swaminarayan Cultural Centre,246 Brockport Dr,M9W6W2,Toronto,Hindu,-79.59341422,43.7039593
+1132,Toronto Airport Christian,268 Attwell Dr,M9W5B2,Toronto,Christian,-79.59003873,43.69576574
+1133,Transfiguration Of Our Lord,45 Ludstone Dr,M9R2J2,Toronto,Christian,-79.56404877,43.69112736
+1134,Westway United Church,8 Templar Dr,M9R3C7,Toronto,Christian,-79.5549135,43.68767715
+1135,Nanaksar Gurdwara,1995 Kipling Ave,M9W4J4,Toronto,Sikh,-79.56538425,43.71015162
+1136,Khalid Bin Al Walid Mosque,16 Bethridge Rd,M9W1N1,Toronto,Muslim,-79.56877564,43.70872862
+1137,Ummah Nabawiah Mosque,2074 Kipling Ave,M9W4J9,Toronto,Muslim,-79.56921492,43.71488551
+1138,Taric Islamic Centre,99 Beverly Hills Dr,M3L1A2,Toronto,Muslim,-79.51629618,43.718148
+1139,West Toronto Church Of God,1655 Wilson Ave,M3L1A5,Toronto,Christian,-79.51360131,43.71928934
+1140,Unitarian Fellowship,55 St Phillips Rd,M9P2N8,Toronto,Unitarian,-79.53143,43.70326616
+1141,Westway Christian Church,6 Kilburn Pl,M9R2X5,Toronto,Christian,-79.55385639,43.68528496
+1142,Bosnian Community Mosque,4146 Dundas St W,M8X1X3,Toronto,Muslim,-79.50832354,43.66169757
+1143,Toronto West Community Churc,606 Jane St,M6S4A6,Toronto,Christian,-79.49120652,43.66489485
+1144,Vasvanath Mandir,713 Jane St,M6N4B1,Toronto,Hindu,-79.49277386,43.66993536
+1145,The Albanian Muslim Society,564 Annette St,M6S2C2,Toronto,Muslim,-79.48088119,43.66006174
+1146,The Mount Refuge Church Of T,515 Annette St,M6P1S1,Toronto,Christian,-79.47951333,43.66002538
+1147,Third Church Of Christ,70 High Park Ave,M6P1A1,Toronto,Christian,-79.46696255,43.65599386
+1148,Ukranian Orthodox Church Of,1622 Dupont St,M6P3S7,Toronto,Orthodox,-79.4552121,43.66518035
+1149,Gandhi Bhawan Temple,722 Lansdowne Ave,M6H3Y8,Toronto,Hindu,-79.44569952,43.66404808
+1150,Canadian Hindu Satsang Org.,1871A Davenport Rd,M6N1B9,Toronto,Hindu,-79.45368759,43.67036258
+1151,The Salvation Army Citadel,343 Keele St,M6P2K6,Toronto,Christian,-79.46371239,43.66457393
+1152,Victoria Royce Pres. Church,152 Annette St,,Toronto,Christian,-79.46685674,43.66363453
+1153,West Toronto Masonic Temple,151 Annette St,M6P1P3,Toronto,Christian,-79.46666858,43.66324061
+1154,The Shiloh Pentecostal Churc,3001 Dundas St W,M6P1Z4,Toronto,Christian,-79.46939292,43.66531082
+1155,West Toronto Baptist Church,3049 Dundas St W,M6P1Z5,Toronto,Christian,-79.471205,43.6653012
+1156,The Church Of God Prophecy,3200 Dundas St W,M6P2A3,Toronto,Christian,-79.476613,43.66580535
+1157,Kneseth Israel Congregation,56 Maria St,M6P1W2,Toronto,Jewish,-79.47544228,43.66651978
+1158,Sri Guru Singh Sabha,331 Old Weston Rd,M6N3A7,Toronto,Sikh,-79.46255944,43.67295282
+1159,Zion Apostolic Church,65 Ford St,M6N3A2,Toronto,Christian,-79.46164021,43.67243129
+1160,Romanian Orthodox Church,247 Rosethorn Ave,M6M3K9,Toronto,Orthodox,-79.46460755,43.68384553
+1161,Washington United Church,3741 Kingston Rd,M1J3H4,Toronto,Christian,-79.208833,43.74606802
+1162,The Redeemed Christian Churc,325 Weston Rd,M6N4Z9,Toronto,Christian,-79.4730521,43.67894741
+1163,York Church Of God,325 Weston Rd,M6N4Z9,Toronto,Christian,-79.4730521,43.67894741
+1164,York Church Of God,325 Weston Rd,M6N4Z9,Toronto,Christian,-79.4730521,43.67894741
+1165,United Church Canada,280 Culford Rd,M6L2V3,Toronto,Christian,-79.4908591,43.71318015
+1166,The Evangelical Lutheran Chu,1630 Lawrence Ave W,M6L1C5,Toronto,Christian,-79.49142501,43.70616698
+1167,The New Apostolic Church,47 Milford Ave,M6M2W1,Toronto,Christian,-79.47376084,43.70460859
+1168,United Methodist Pentecostal,30 Milford Ave,M6M2V8,Toronto,Christian,-79.47425252,43.70547998
+1169,Beth Torah Synagogue,47 Glenbrook Ave,M6B2L7,Toronto,Jewish,-79.45202471,43.70933113
+1170,Ethiopian Orthodox Tewahedo Church in Canada,80 Tycos Dr,M6B1V9,Toronto,Orthodox,-79.45651123,43.70537281
+1171,The Universal Church,2420 Dufferin St,M6E3S8,Toronto,Other,-79.45135028,43.69744693
+1172,Masjid Al Noor,277 Scott Rd,M6M3V3,Toronto,Muslim,-79.4719255,43.68970709
+1173,Anjuman-E-Islahul-Muslemin,277 Scott Rd,M6M3V3,Toronto,Muslim,-79.4719255,43.68970709
+1174,The Eglinton Calvary Cross,2528 Eglinton Ave W,M6M1T1,Toronto,Christian,-79.47099906,43.69136552
+1175,Toronto Breakthrough Taberna,473 Oakwood Ave,M6E2W4,Toronto,Christian,-79.43984455,43.69106252
+1176,Bethel Worship Centre,611 Vaughan Rd,M6C2R4,Toronto,Jewish,-79.43995608,43.69234919
+1177,The House Of God,615 Vaughan Rd,M6C2R4,Toronto,Christian,-79.44009336,43.69244341
+1178,Beth Tzedec Synagogue,1700 Bathurst St,M5P3K3,Toronto,Jewish,-79.4244248,43.6954813
+1179,Holy Blossom Temple,1950 Bathurst St,M5P3K9,Toronto,Jewish,-79.42526347,43.69828582
+1180,Beth Lida Frst Hill Synagogu,22 Gilgorm Rd,M5N2M5,Toronto,Jewish,-79.41768356,43.70395739
+1181,Masjid Al-Farooq,935 Eglinton Ave W,M6C2C3,Toronto,Muslim,-79.42820129,43.7001767
+1182,The Village Shul,1072 Eglinton Ave W,M6C2E2,Toronto,Jewish,-79.43143779,43.69999512
+1183,Beth Sholom Synagogue,1445 Eglinton Ave W,M6C2E6,Toronto,Jewish,-79.43771456,43.69809586
+1184,Shomrai Shabbos Chevra Mishnayoth,585 Glengrove Ave,M6B2H5,Toronto,Jewish,-79.4356937,43.71237299
+1185,Yeshivas Lubavitch,3055 Bathurst St,M6B3B7,Toronto,Jewish,-79.42928525,43.71885113
+1186,Kielcer Congregation,2941 Bathurst St,M6B3B2,Toronto,Jewish,-79.42876855,43.71635563
+1187,Kielcer Congregation,2941 Bathurst St,M6B3B2,Toronto,Jewish,-79.42876855,43.71635563
+1188,The Jewish Education Program - Toronto,2939 Bathurst St,M6B3B2,Toronto,Jewish,-79.42875222,43.71624491
+1189,Kahal Avrahim,2919 Bathurst St,M6B3B1,Toronto,Jewish,-79.42852814,43.71550618
+1190,Institute For Advanced Jewis,2919 Bathurst St,M6B3B1,Toronto,Jewish,-79.42852814,43.71550618
+1191,Beth Habonim Religous And So,5 Glen Park Ave,M6B4J2,Toronto,Jewish,-79.42942975,43.71276784
+1192,Shaarei Shomayim,470 Glencairn Ave,M5N1V8,Toronto,Jewish,-79.42700324,43.71310835
+1193,Shararei Shomayim Congregation,470 Glencairn Ave,M5N1V8,Toronto,Jewish,-79.42700324,43.71310835
+1194,Imrei Noam,84 Stormont Ave,M5N2C2,Toronto,Jewish,-79.42849107,43.71892009
+1195,Yeshiva Lemudai Hashem Congregation,517 Glengarry Ave,M5M1G2,Toronto,Jewish,-79.42799372,43.72025922
+1196,Cdn Friends Of Boystown Jerusalem,2788 Bathurst St,M6B3A3,Toronto,Jewish,-79.42836414,43.71178123
+1197,Torath Emeth Synagogue,1 Viewmount Ave,M6B1T2,Toronto,Jewish,-79.42830473,43.71013287
+1198,The Unity Church,173 Eglinton Ave W,M4R1A8,Toronto,Christian,-79.40439062,43.70521053
+1199,Canadian Unitarian Council,55 Eglinton Ave E,M4P1G8,Toronto,Unitarian,-79.39608106,43.7069155
+1200,United Church Canada,240 Manor Rd E,M4S1R8,Toronto,Christian,-79.38548489,43.70523546
+1201,Toronto Christadelphians,728 Church St,M4W2M6,Toronto,Christian,-79.38408352,43.67207874
+1202,Intl Society For Hare Krishn,243 Avenue Rd,M5R2J6,Toronto,Hindu,-79.39708844,43.67700072
+1203,The Church Of The Messiah,240 Avenue Rd,M5R2J4,Toronto,Christian,-79.39792485,43.67694242
+1204,The Toronto Monthly Meeting,60 Lowther Ave,M5R1C7,Toronto,Other,-79.39876707,43.67054541
+1205,United Church Of Canada,129 St Clair Ave W,M4V1N5,Toronto,Christian,-79.40019457,43.68646419
+1206,First Unitarian Congregation,175 St Clair Ave W,M4V1P7,Toronto,Unitarian,-79.40242686,43.68612114
+1207,Timothy Eaton Memorial Churc,230 St Clair Ave W,M4V1R5,Toronto,Christian,-79.40572083,43.68632496
+1208,Chabad Of Downtown Jewish Ce,1344 Bathurst St,M5R3H7,Toronto,Jewish,-79.41703282,43.67935582
+1209,Chabad of Midtown,1344 Bathurst St,M5R3H7,Toronto,Jewish,-79.41703282,43.67935582
+1210,Wychwood-Davenport Presbyter,155 Wychwood Ave,M6C2T1,Toronto,Christian,-79.42304121,43.68250627
+1211,United Church Of Canada,259 Rushton Rd,M6G3J4,Toronto,Christian,-79.42727343,43.68100175
+1212,The Good News Church,695 St Clair Ave W,M6C1B2,Toronto,Christian,-79.42611767,43.68138337
+1213,The Triumphant Church Of God,10 Maplewood Ave,M6C1J1,Toronto,Christian,-79.42275792,43.6862519
+1214,Toronto Korean Presbyterian,1183 Davenport Rd,M6H2G7,Toronto,Christian,-79.43364593,43.67417976
+1215,The Lighthouse,1008 Bathurst St,M5R3G7,Toronto,Christian,-79.41373373,43.67068971
+1216,Orthodox Church In America,823 Manning Ave,M6G2W9,Toronto,Orthodox,-79.41747767,43.6688122
+1217,The Christadelphians Church,967 Ossington Ave,M6G3V5,Toronto,Christian,-79.42777417,43.6677576
+1218,Canada Hindu Organization In,983 Dupont St,M6H1Z5,Toronto,Hindu,-79.43213041,43.66964781
+1219,World Mission Centre Church,1170 Dupont St,M6H2A4,Toronto,Christian,-79.43939051,43.66871971
+1220,Sri Menatchy Amman Society,1279 Bloor St W,M6H1N7,Toronto,Hindu,-79.44227763,43.65832197
+1221,Islamic Information and Dawah Center,1168 Bloor St W,M6H1N1,Toronto,Muslim,-79.43707258,43.65980121
+1222,Brahma Kumaris Raja Yoga Cen,897 College St,M6H1A1,Toronto,Hindu,-79.42472365,43.65368363
+1223,Serbian Eastern-Orthodox Chu,212 Delaware Ave,M6H2T5,Toronto,Orthodox,-79.42848646,43.661786
+1224,Toronto Spiritualist Temple,706 College St,M6G1C1,Toronto,Christian,-79.41825066,43.65553712
+1225,The Portuguese Seventh-Day A,506 College St,M6G1A6,Toronto,Christian,-79.41065396,43.65624272
+1226,Sikh Dharma of Canada,348 Palmerston Blvd,M6G2N6,Toronto,Sikh,-79.41119676,43.65780707
+1227,The First Russian Church,28 Denison Sq,,Toronto,Christian,-79.40297838,43.65383163
+1228,Minsk Anshe Congregation,10 St Andrew St,M5T1K6,Toronto,Jewish,-79.3995297,43.65447218
+1229,Fung Lok Kok Institute Of Ta,134 D'Arcy St,M5T1K3,Toronto,Taoist,-79.39747131,43.65435257
+1230,Rabbi Langner,61 Brunswick Ave,M5S 2L8,Toronto,Jewish,-79.40461602,43.6594231
+1231,The Koil Yankov Anshei Emes,20 Brunswick Ave,M5S 2L7,Toronto,Jewish,-79.4046152,43.65789797
+1232,Shaarei Tzedec Congregation,397 Markham St,M6G2K8,Toronto,Jewish,-79.40995425,43.65949337
+1233,First Narayever Congregation,188 Brunswick Ave,M5S2M5,Toronto,Jewish,-79.40657076,43.66276553
+1234,Trinity-St Paul'S United Chu,427 Bloor St W,M5S1X7,Toronto,Christian,-79.40571106,43.66604798
+1235,The Paulist Ministry Centre,830 Bathurst St,M5R3G1,Toronto,Christian,-79.41183815,43.66577345
+1236,Walmer Road Baptist Church,38 Walmer Rd,,Toronto,Christian,-79.40674209,43.66857504
+1237,Church Scientology,696 Yonge St,M4Y2A7,Toronto,Scientology,-79.38610613,43.66776206
+1238,Verity Centre For Better Lif,175 College St,M5T1P7,Toronto,Other,-79.39393792,43.65885501
+1239,Toronto Taoist Luk Hop Sing,7 D'Arcy St,M5T1J8,Toronto,Taoist,-79.39218664,43.65505649
+1240,Toronto Chinese Baptist Chur,78 Beverley St,M5T1Y1,Toronto,Christian,-79.39340844,43.65204331
+1241,Ukranian Baptist Church,148 Tecumseth St,M6J2H6,Toronto,Christian,-79.40663901,43.64613511
+1242,Parkdale Islamic Community,1287 Queen St W,M6K1L6,Toronto,Muslim,-79.43206008,43.64131064
+1243,The Oratory Church Of The Ho,1374 King St W,,Toronto,Christian,-79.43452035,43.6378424
+1244,Shalom House,1339 King St W,M6K1H2,Toronto,Jewish,-79.4326282,43.63771648
+1245,Toronto Korean Bethel Evange,1155 College St,M6H1B7,Toronto,Christian,-79.43477911,43.6519435
+1246,The City Church,1653 Dundas St W,M6K1V2,Toronto,Christian,-79.43653898,43.64973336
+1247,Nagapoosani Amman Kovil,5637 Finch Ave E,M1B5K9,Toronto,Hindu,-79.23799535,43.81333163
+1248,Hindu Prarthana Samaj,62 Fern Ave,M6R1K1,Toronto,Hindu,-79.44280126,43.64588011
+1249,Jami Masjid of Toronto,56 Boustead Ave,M6R1Y9,Toronto,Muslim,-79.45447278,43.65331745
+1250,The Cdn Islamic Trust,56 Boustead Ave,M6R1Y9,Toronto,Muslim,-79.45447278,43.65331745
+1251,Windermere United Church,356 Windermere Ave,M6S3L3,Toronto,Christian,-79.48042415,43.64880572
+1252,Sri Jain Mandir,247 Park Lawn Rd,M8Y3J6,Toronto,Hindu,-79.49161568,43.63276654
+1253,Jain Society Of Toronto,48 Rosemeade Ave,M8Y3A5,Toronto,Jain,-79.50274262,43.62859949
+1254,Victory Christian Life Centr,9 Taymall Ave,M8Z3Y8,Toronto,Christian,-79.50627419,43.62394037
+1255,Nanak Sar Gursikh Temple,2485-2489 Lake Shore Blvd W,M8V1C5,Toronto,Sikh,-79.4893023,43.61317476
+1256,West End Church Of Christ,406-410 Royal York Rd,M8Y2R5,Toronto,Christian,-79.5001759,43.61972571
+1257,Wesley Mimico United Church,100 Mimico Ave,M8V1R5,Toronto,Christian,-79.4939368,43.61302671
+1258,Bosnian Islamic Centre,75 Birmingham St,M8V2C3,Toronto,Muslim,-79.50427571,43.6034808
+1259,Sidh Shakti Sh Baba Balak,210 Islington Ave,M8V3B6,Toronto,Hindu,-79.50654225,43.60281064
+1260,Sri Bhuvaneshwari Hindu Temple,746 Warden Ave,M1L4A2,Toronto,Hindu,-79.28481815,43.71751332
+1261,Iman Ali Islamic Center,120 Bermondsey Rd,M4A1X5,Toronto,Muslim,-79.31461235,43.71772142
+1262,Westview Presbyterian Church,233 Westview Blvd,M4B3J7,Toronto,Christian,-79.30511252,43.71324576
+1263,Victoria Park United Church,1 Stamford Sq N,M1L1X4,Toronto,Christian,-79.2950871,43.71119528
+1264,Woodbine Heights Baptist Chu,1171 Woodbine Ave,M4C4E1,Toronto,Christian,-79.31481781,43.69137911
+1265,Woodbine Church,1100 Woodbine Ave,M4C4C7,Toronto,Christian,-79.31478944,43.68908621
+1266,The Salvation Army East Toro,107 Cedarvale Ave,M4C4J9,Toronto,Christian,-79.31115568,43.68717868
+1267,Seicho-No-Ie Church,666 Victoria Park Ave,,Toronto,Other,-79.28876535,43.69180909
+1268,True Church Of Jesus Christ,250 Warden Ave,M1N3A1,Toronto,Christian,-79.2722535,43.69016332
+1269,Wanstead United Church,3340 Danforth Ave,M1L1C8,Toronto,Christian,-79.27779475,43.69398264
+1270,Baitul Mukaram Islamic Society,3334 Danforth Ave,M1L1C6,Toronto,Muslim,-79.27814103,43.69373881
+1271,Baitul Mukaram Islamic Society,3334 Danforth Ave,M1L1C6,Toronto,Muslim,-79.27814103,43.69373881
+1272,Sunnatul Jamaat,347 Danforth Rd,M1L3X8,Toronto,Muslim,-79.26981211,43.70309559
+1273,Toronto United Mennonite Chu,1774 Queen St E,,Toronto,Christian,-79.31068491,43.66793336
+1274,Waverly Baptist Church,129 Waverley Rd,M4L3T4,Toronto,Christian,-79.3011646,43.67103017
+1275,Toronto Chinese Logos Baptis,8 Amroth Ave,M4C4H2,Toronto,Christian,-79.3110195,43.68357404
+1276,The Danforth Gospel Hall,2237 Danforth Ave,M4C1K4,Toronto,Christian,-79.30893892,43.68633411
+1277,Subud - Toronto,2170 Danforth Ave,M4C1K3,Toronto,Muslim,-79.31054571,43.68653676
+1278,The Hubbard Danetics,2007 Danforth Ave,M4C1J7,Toronto,Christian,-79.31438031,43.68511479
+1279,The Cdn Korean Presbyterian,1849 Danforth Ave,M4C1J3,Toronto,Christian,-79.31764204,43.68442859
+1280,Masjid Al-Taqwa,14 Ladysmith Ave,M4J4H7,Toronto,Muslim,-79.331348,43.68094621
+1281,Masjid Ut Tazwa,14 Ladysmith Ave,M4J4H7,Toronto,Muslim,-79.331348,43.68094621
+1282,Masjid Ut Tazwa,14 Ladysmith Ave,M4J4H7,Toronto,Muslim,-79.331348,43.68094621
+1283,Greek Orthodox Mission,846A Pape Ave,M4K3T6,Toronto,Orthodox,-79.34697891,43.68373389
+1284,Madina Masjid,1015 Danforth Ave,M4J1M1,Toronto,Muslim,-79.33607438,43.68041722
+1285,Jamiatul Muslemin Of Toronto,1015 Danforth Ave,M4J1M1,Toronto,Muslim,-79.33607438,43.68041722
+1286,Trustees Of Estonian Mission,562 Jones Ave,M4J3H1,Toronto,Christian,-79.33981998,43.67848366
+1287,Toronto Formosan Presbyteria,31 Eastwood Rd,M4L2C4,Toronto,Christian,-79.31814379,43.67293284
+1288,The Salvation Army,236 Rhodes Ave,M4L 3A1,Toronto,Christian,-79.32028421,43.67156016
+1289,Faith Mosque,182 Rhodes Ave,M4L 3A1,Toronto,Muslim,-79.31970515,43.67029101
+1290,Islamic Foundation,182 Rhodes Ave,M4L 3A1,Toronto,Muslim,-79.31970515,43.67029101
+1291,Toronto Gospel Lighthouse,17 Rhodes Ave,M4L2Z8,Toronto,Christian,-79.31764339,43.66696073
+1292,The Living Room,1014 Queen St E,M4M1K1,Toronto,Christian,-79.33904649,43.66156243
+1293,Woodgreen United Church,875 Queen St E,M4M1J2,Toronto,Christian,-79.34307998,43.66013791
+1294,Shromani Sikh Society,267-269 Pape Ave,M4M2W6,Toronto,Sikh,-79.3393709,43.66640677
+1295,United Church Canada,1117 Gerrard St E,M4M1Z9,Toronto,Christian,-79.33348756,43.66946199
+1296,Canadian Turkish Islamic Cen,336 Pape Ave,M4M2W7,Toronto,Muslim,-79.34043775,43.66766709
+1297,Serbian Eastern,203 River St,M5A3P9,Toronto,Orthodox,-79.35913084,43.66393957
+1298,Toronto Chinese Alliance,200 Boulton Ave,,Toronto,Christian,-79.34927892,43.66494529
+1299,Toronto Christian Resource C,40 Oak St,M5A2C6,Toronto,Christian,-79.36519557,43.66121775
+1300,Masjid Omar Bin Al Khatta,240 Parliament St,M5A3A4,Toronto,Muslim,-79.36561277,43.65748329
+1301,Toronto Dominion Muslim Comm,242 Parliament St,M5A3A4,Toronto,Muslim,-79.36563419,43.65753826
+1302,Downtown Mosque,100 Bond St,M5B1X8,Toronto,Muslim,-79.37872386,43.65653
+1303,The Islamic Centre,98 Bond St,M5B1X8,Toronto,Muslim,-79.37863511,43.65652096
+1304,St Georges Greek Orthodox Ch,115 Bond St,M5B1Y2,Toronto,Orthodox,-79.37848359,43.65732415
+1305,Trustees Of St Lukes Church,355 Sherbourne St,,Toronto,Christian,-79.37262937,43.66303625
+1306,Urban Cornerstone Church,188 Carlton St,M5A2K8,Toronto,Christian,-79.3719803,43.66384039
+1307,Trinity Evangelical Lutheran,621 Sherbourne St,M4X1L7,Toronto,Christian,-79.37637684,43.67185314
+1308,Trinity Evangelical Lutheran,619 Sherbourne St,M4X1L7,Toronto,Christian,-79.37614319,43.67179735
+1309,United Church Canada,310 Danforth Ave,M4K1N6,Toronto,Christian,-79.35372904,43.67755914
+1310,Toronto Japanese Seventh Day,19 Mortimer Ave,M4K1Z9,Toronto,Christian,-79.35544633,43.68397204
+1311,The Salvation Army,2 Overlea Blvd,M4H1P4,Toronto,Christian,-79.35313232,43.70255914
+1312,Westminster Presbyterian Chu,152 Floyd Ave,M4K2B7,Toronto,Christian,-79.34926584,43.68752851
+1313,Bait-Ul-Haneef,63 Barker Ave,M4C2N5,Toronto,Muslim,-79.32189997,43.69285367
+1314,Don Mills Jamat Khanan,80 Overlea Blvd,M4H1C5,Toronto,Muslim,-79.34005814,43.70878551
+1315,Toronto Orthodox Academy,86 Overlea Blvd,M4H1C6,Toronto,Christian,-79.33955456,43.70893916
+1316,Masjid Dar Al Salam,4 Thorncliffe Park Dr,M4H1H1,Toronto,Muslim,-79.35091797,43.70618046
+1317,The Thorncliffe Mosque,4 Thorncliffe Park Dr,M4H1H1,Toronto,Muslim,-79.35091797,43.70618046
+1318,The Church Army,50 Gervais Dr,M3C1Z3,Toronto,Christian,-79.33831497,43.72533257
+1319,Masjid Al-Ansar,132 Railside Rd,M3A1A3,Toronto,Muslim,-79.32662802,43.73653801
+1320,Al-Hudu Islamic Centre,10 Codeco Crt,M3A1A2,Toronto,Muslim,-79.32973269,43.73614304
+1321,United Church Canada,230 The Donway W,M3B2V8,Toronto,Christian,-79.34738527,43.73886434
+1322,Sri Durga Hindu Temple,30 Carnforth Rd,M4A2K7,Toronto,Hindu,-79.31620748,43.73996855
+1323,Jews For Jesus,1315 Lawrence Ave E,M3A3R3,Toronto,Jewish,-79.32295905,43.74023364
+1324,Toronto Omang Korean Presbyt,81 Curlew Dr,M3A2P8,Toronto,Christian,-79.31639744,43.74215388
+1325,The Church Of Our Savior,1 Laurentide Dr,M3A3C6,Toronto,Christian,-79.33718465,43.75164099
+1326,Toronto Korean Church,67 Scarsdale Rd,M3B2R2,Toronto,Christian,-79.35367637,43.74906211
+1327,The Korean Open Door,139 Bond Ave,M3B1M1,Toronto,Christian,-79.34810211,43.74545126
+1328,Temple Emanuel,120 Old Colony Rd,M2L 2K2,Toronto,Jewish,-79.3742017,43.75993708
+1329,The Pentacosta Assemblies,220 Duncan Mill Rd,M3B 3J5,Toronto,Christian,-79.35280721,43.76226644
+1330,Toronto Chinese Pentecostal,220 Duncan Mill Rd,M3B 3J5,Toronto,Christian,-79.35280721,43.76226644
+1331,The Church Of The Torontonia,671 Sheppard Ave E,M2K1B6,Toronto,Christian,-79.37925791,43.76843774
+1332,Toronto Northwest Chinese,225 Consumers Rd,M2J4G9,Toronto,Christian,-79.33239027,43.77148372
+1333,The Garden Church,260 Yorkland Blvd,M2J1R7,Toronto,Christian,-79.33540067,43.77250114
+1334,Victoria Park Associated Pre,2712 Victoria Park Ave,M2J4A7,Toronto,Christian,-79.32784544,43.7841815
+1335,West Ellesmere United Church,14 Scotswood Rd,M1R3N2,Toronto,Christian,-79.30747608,43.75840289
+1336,The Church Of Pentecost,1355 Warden Ave,M1R2R9,Toronto,Christian,-79.2985719,43.75583379
+1337,The Church Assembly,1780 Birchmount Rd,M1P2H8,Toronto,Christian,-79.29205877,43.76491721
+1338,Trinity Divine Spiritual Bap,1520-1548 Warden Ave,M1R2S8,Toronto,Christian,-79.30150915,43.76318728
+1339,Warden Full Gospel Asembly,2210 Warden Ave,M1T1V6,Toronto,Christian,-79.30896895,43.77990093
+1340,Toronto Mandarin Chinese Com,2240 Birchmount Rd,M1T2M2,Toronto,Christian,-79.2977868,43.77997216
+1341,Toronto Swaton Baptist Churc,13X Gordon Ave,M1S1A6,Toronto,Christian,-79.28619042,43.78297091
+1342,The Church Of God Of Prphely,6 Donalda Cres,M1S1N6,Toronto,Christian,-79.27965127,43.78588928
+1343,Toronto Chinese Separate,2569 Midland Ave,M1S1R3,Toronto,Christian,-79.27848337,43.78607036
+1344,Vengadasalapathy Kovil,1240 Ellesmere Rd,M1P2X4,Toronto,Hindu,-79.26725934,43.76932405
+1345,Hindu Society Of Thru-Venk,1240 Ellesmere Rd,M1P2X4,Toronto,Hindu,-79.26725934,43.76932405
+1346,Valmiki Ashran,1720 Midland Ave,M1P3C8,Toronto,Hindu,-79.26977859,43.76030246
+1347,Jame Abu Bakr Siddi Que,2665 Lawrence Ave E,M1P2S2,Toronto,Muslim,-79.2621665,43.75146206
+1348,Scarborough Muslim Association Jame Abu Ba,2665 Lawrence Ave E,M1P2S2,Toronto,Muslim,-79.2621665,43.75146206
+1349,Zion Wexford United Church,2102 Lawrence Ave E,M1R2Z9,Toronto,Christian,-79.29046552,43.74670626
+1350,Wexford Presbyterian Church,5 Elinor Ave,,Toronto,Christian,-79.30043081,43.74459609
+1351,Wilmar Heights United Church,963-967 Pharmacy Ave,M1R2G5,Toronto,Christian,-79.30082885,43.73474403
+1352,Wilmar Heights Baptist Churc,1687 Victoria Park Ave,M1R1R7,Toronto,Christian,-79.30637659,43.73502805
+1353,Canada Kathasamy Kovil,733 Birchmount Rd,M1K1R5,Toronto,Hindu,-79.27476575,43.72441977
+1354,Canada Kandaswamy Temple,733 Birchmount Rd,M1K1R5,Toronto,Hindu,-79.27476575,43.72441977
+1355,Westminister Presbyterian Ch,841 Birchmount Rd,M1K1R8,Toronto,Christian,-79.27754713,43.72983925
+1356,Salaheddin Islamic Centre,741 Kennedy Rd,M1K2C6,Toronto,Muslim,-79.26600575,43.7308963
+1357,Church Of Spiritual Wisdom,674 Kennedy Rd,M1K2B5,Toronto,Other,-79.26588339,43.72639492
+1358,Headquarters Of The Spiritua,611-631 Kennedy Rd,M1K2B2,Toronto,Other,-79.26449377,43.72489739
+1359,The Church Of Jesus Christ,151 Brimley Rd,M1M3J1,Toronto,Christian,-79.24388288,43.72777637
+1360,Masjid Bilal,256 Markham Rd,M1J3C5,Toronto,Muslim,-79.22004287,43.74514556
+1361,Bilal Mosque,3208 Eglinton Ave E,M1J2H6,Toronto,Muslim,-79.21792077,43.74399079
+1362,Sri Sakthi Durga Devi Temple,750 Markham Rd,M1H2A9,Toronto,Hindu,-79.22769299,43.76519413
+1363,Periya Sivan Kovil,1960 Ellesmere Rd,M1H2V9,Toronto,Hindu,-79.23916544,43.77624376
+1364,The Salvation Army-Cedarbrae,2085 Ellesmere Rd,M1H2W6,Toronto,Christian,-79.23288385,43.77562129
+1365,Muslim Welfare Service,100 McLevin Ave,M1B5K1,Toronto,Muslim,-79.23657828,43.80156256
+1366,Muslim Welfare Service,100 McLevin Ave,M1B5K1,Toronto,Muslim,-79.23657828,43.80156256
+1367,Islamic Foundation Office,432 Nugget Ave,M1S4A4,Toronto,Muslim,-79.2420177,43.79876795
+1368,Islamic Foundation Office,432 Nugget Ave,M1S4A4,Toronto,Muslim,-79.2420177,43.79876795
+1369,Islamic Foundation Office,431 Nugget Ave,M1S4J5,Toronto,Muslim,-79.24305608,43.79776554
+1370,The Shirdi SAI Mandir,2721 Markham Rd,M1X1L5,Toronto,Hindu,-79.24362648,43.82109001
+1371,Sri Swamy Temple,5633-5639 Finch Ave E,M1B5L1,Toronto,Hindu,-79.23798269,43.81342223
+1372,Toronto Free Presbyterian Ch,5810 Finch Ave E,M1B4Y6,Toronto,Christian,-79.22886317,43.81646485
+1373,Usman Gousi Mosque,75 Kirkdene Dr,M1C2N8,Toronto,Muslim,-79.13850986,43.79457693
+1374,Shiva-Shakti Cultural Sabha Canada,8861 Sheppard Ave E,M1B5R7,Toronto,Hindu,-79.18255852,43.80551347
+1375,Sri Chandra Mouleeshwara Sivalayam,3011 Markham Rd,M1X1L7,Toronto,Hindu,-79.24851646,43.82864928
+1376,Shri Paramhans Advait Mat,260 Ingleton Blvd,M1V3R1,Toronto,Hindu,-79.26686045,43.8274084
+1377,GurSikh Sabha Canada,905 Middlefield Rd,M1V4X1,Toronto,Sikh,-79.26544696,43.82858147
+1378,York Region Chinese Church,80 Nashdene Rd,M1V5E4,Toronto,Christian,-79.25310961,43.81942064
+1379,Sri Ayyappa Samajam of Ontario,635 Middlefield Rd,M1V5B8,Toronto,Hindu,-79.25955037,43.81583533
+1380,Ayyappa Samajam,635 Middlefield Rd,M1V5B8,Toronto,Hindu,-79.25955037,43.81583533
+1381,Toronto Haristave Missionary,55 Nugget Ave,M1S3L1,Toronto,Christian,-79.25781124,43.79214712
+1382,Nallur Murugan Kovil,20 Nugget Ave,M1S3A7,Toronto,Hindu,-79.2591675,43.79286899
+1383,St Nicholas Greek Orthodox,3840 Finch Ave E,M1T3T4,Toronto,Orthodox,-79.30134517,43.8006237
+1384,Toronto Chnse Christian Ctr,3838 Midland Ave,M1V5K5,Toronto,Christian,-79.29474598,43.81941287
+1385,Toronto Chinese Adventist,3988 Midland Ave,M1V4S8,Toronto,Christian,-79.29543866,43.82094859
+1386,St Marks Coptic Orthodox Church,41 Glendinning Ave,M1W3E2,Toronto,Orthodox,-79.33256747,43.81183684
+1387,Willowdale Community Christi,700-780 Gordon Baker Rd,M2H3B4,Toronto,Christian,-79.34196757,43.81021531
+1388,Islamic Society Of Willowdale,1041 McNicoll Ave,M1W3W6,Toronto,Muslim,-79.33447712,43.8041601
+1389,Young-Nak Korean Church,650 McNicoll Ave,M2H2E1,Toronto,Christian,-79.33827315,43.80437703
+1390,Toronto Chinese Church,449-499 McNicoll Ave,M2H2C9,Toronto,Christian,-79.34109059,43.80335628
+1391,Mehraban Guiv Darbe Mehr,3590 Bayview Ave,M2M3S6,Toronto,Zoroastrian,-79.39627502,43.80210908
+1392,Willowdale Pentecostal Churc,282-288 Cummer Ave,M2M2E7,Toronto,Christian,-79.40364934,43.79030304
+1393,The Church Of St Luke,3200 Bayview Ave,M2M3R7,Toronto,Christian,-79.39266485,43.78577992
+1394,All Saints Greek Orthodox Ch,3125 Bayview Ave,M2K1G2,Toronto,Orthodox,-79.39063008,43.78161567
+1395,Beth Tikvah Synagogue,3080 Bayview Ave,M2N5L3,Toronto,Jewish,-79.39117366,43.779223
+1396,Willowdale United Church,349 Kenneth Ave,M2N4V9,Toronto,Christian,-79.40982546,43.77579691
+1397,Willowdale Christian Assembl,482 Kenneth Ave,M2N4W5,Toronto,Christian,-79.41209438,43.77926849
+1398,Toronto Christ'S Congregatio,217 Finch Ave E,M2N 4S1,Toronto,Christian,-79.39996409,43.78297431
+1399,Willowdale Evangelical Churc,236 Finch Ave E,M2N 4S2,Toronto,Christian,-79.39869379,43.78399993
+1400,Willowdale Christian Reforme,70 Hilda Ave,M2M1V5,Toronto,Christian,-79.42522161,43.78708251
+1401,Congregation B'Nai Torah,465 Patricia Ave,M2R2N1,Toronto,Jewish,-79.44401399,43.78409531
+1402,United Church Of Canada,255 Finch Ave W,M2R1M8,Toronto,Christian,-79.43759188,43.77441543
+1403,Yorkview Height Baptist Chur,98 Finch Ave W,M2N2H7,Toronto,Christian,-79.42392798,43.77837389
+1404,Willowdale Baptist Church,15 Olive Ave,M2N 4N4,Toronto,Christian,-79.41434606,43.77855004
+1405,Willowdale Presbyterian Chur,38 Ellerslie Ave,M2N1X8,Toronto,Christian,-79.41606857,43.77173595
+1406,Moriah Congregation,65 Waterloo Ave,M3H3Y1,Toronto,Jewish,-79.44270422,43.75875681
+1407,Lodzer Centre Congregation,12 Heaton St,M3H4Y6,Toronto,Jewish,-79.44054885,43.75735112

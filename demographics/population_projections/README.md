@@ -1,7 +1,7 @@
 # Population Projections
 
 ## Description
-Annual population projections, from 2017 to 2041.
+The Ministry of Finance owns these datasets, which are annual population projections, from 2017 to 2041.
 
 These population projections are organized among 4 different datasets:
 * projections for the whole province
@@ -9,9 +9,11 @@ These population projections are organized among 4 different datasets:
 * projections for each Local Health Integration Network (LHIN)
 * projections for each Ministry of Children and Youth Services’ Service Delivery Division (SDD) region
 
-Each dataset includes population projections by age and gender, and are in Excel (xlsx) format.
+Each dataset includes population projections by age and gender. These datasets were last modified on June 1, 2017.
 
-These datasets are owned by the Ministry of Finance, and were last modified on June 1, 2017. They can be found on the Government of Ontario's [Open Data Catalogue](https://www.ontario.ca/data/population-projections).
+**Format:** Excel workbook (xlsx)
+
+These datasets can be found on the Government of Ontario's [Open Data Catalogue](https://www.ontario.ca/data/population-projections).
 
 ## Relevance to the Vision Zero Challenge
 These projections can help inform where changes to population demographics are likely to occur, specifically those with ties to the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan.

@@ -3,11 +3,15 @@
 
 ## Description
 
-This data contains the information on the schools located in existing School Safety Zones in the City of Toronto. Information includes address and geographic coordinates, as well as the school population. The data is owned by the City of Toronto's Transportation Services Division, and is available in the form of a shapefile with the MTM 3 Degree Zone 10 NAD27 projection.
+This data lists the location of existing School Safety Zones in the City of Toronto. School Safety Zones are deployed at prioritized schools and include a variety of measures such as school zone pavement markings, "Watch Your Speed" driver feedback signs, zebar markings at crosswalks improved street lighting, reduced speed limits, leading pedestrian intervals, mid-block crossings, increased enforcement, improved pavement makings, flashing signage and/or public awareness campaigns, among other potential improvements.
+
+This dataset includes address and geographic coordinates, school population and an estimate of the percentage of students living within walking distance of the school. The data is maintained by the City of Toronto's Transportation Services Division.
+
+**Format:** ESRI Shapefile (MTM 3 Degree Zone 10 NAD27)
 
 ## Relevance to the Vision Zero Challenge
 
-School Children are one of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan, and as such are the focus of a number of existing and planned safety measures. School Safety Zones include a variety of measures such as lower speed limits, improved street lighting, leading pedestrian intervals, mid-block crossings, increased enforcement, improved pavement makings, flashing signage and/or public awareness campaigns, among other possible improvements.
+School Safety Zones are an important safety program targetted at improving the safety of school children. School children are one of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan.
 
 ## Data Dictionary
 

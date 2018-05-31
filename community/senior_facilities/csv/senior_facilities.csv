@@ -1,0 +1,158 @@
+ID,NAME,ADDRESS_OR_INTERSECTION,POSTAL_CODE,FORMER_MUNICIPALITY,GC_LONGITUDE,GC_LATITUDE,TYPE
+1,Garden Court Nursing Home,1 Sand Beach Rd,M8V 2W2,Etobicoke,-79.49690424,43.60194327,Long Term Care
+2,Fieldstone Commons Care Community,1000 Ellesmere Rd,M1P 5G2,Scarborough,-79.27774529,43.76715334,Long Term Care
+3,Craiglee Nursing Home,102 Craiglee Dr,M1N 2M7,Scarborough,-79.25307464,43.7069108,Long Term Care
+4,Tendercare Living Centre,1020 McNicoll Ave,M1W 2J6,Scarborough,-79.33601301,43.80577174,Both
+5,Heritage Nursing Home,1195 Queen St E,M4M 1L6,former Toronto,-79.33115923,43.66253091,Long Term Care
+6,Norwood Long Term Care Facility,122 Tyndall Ave,M6K 2E2,former Toronto,-79.42932661,43.63755174,Long Term Care
+7,Midland Gardens Care Community,130 Midland Ave,M1N 4B2,Scarborough,-79.24777312,43.70833698,Long Term Care
+8,Chartwell White Eagle Long Term Care Residence,138 Dowling Ave,M6K 3A6,former Toronto,-79.43921939,43.63718222,Long Term Care
+9,Fairview Nursing Home,14 Cross St,M6J 1S8,former Toronto,-79.42843845,43.64802897,Long Term Care
+10,Kennedy Lodge Nursing Home,1400 Kennedy Rd,M1P 4V6,Scarborough,-79.28063623,43.76267935,Long Term Care
+11,Lakeside Long-Term Care Centre University Health Network Toronto Rehabilitation Institute,150 Dunn Ave,M6K 2R6,former Toronto,-79.43297726,43.63580909,Long Term Care
+12,Salvation Army - Isabel and Arthur Meighen Manor,155 Millwood Rd,M4S 1J6,former Toronto,-79.3925394,43.69999242,Long Term Care
+13,Rekai Centres - Wellesley Central Place,160 Wellesley St E,M4Y 1J2,former Toronto,-79.37547648,43.66700894,Long Term Care
+14,Rose of Sharon - Korean Long Term Care Home,17 Maplewood Ave,M6C 4B3,York,-79.42165301,43.68583606,Long Term Care
+15,Fountain View Care Community,1800 O'Connor Dr,M4A 1W7,North York,-79.30486405,43.72047322,Long Term Care
+16,Harmony Hills Care Community,1800 O'Connor Dr,M4A 1W7,North York,-79.30486405,43.72047322,Long Term Care
+17,Wexford Residence (The),1860 Lawrence Ave E,M1R 5B1,Scarborough,-79.30308064,43.74407061,Long Term Care
+18,Seniors' Health Centre - Long Term Care Home North York General Hospital,2 Buchan Court,M2J 5A3,North York,-79.35945445,43.77307421,Long Term Care
+19,True Davidson Acres - Long-Term Care Home,200 Dawes Rd,M4C 5M8,East York,-79.2982691,43.69583663,Long Term Care
+20,Mon Sheong - Scarborough - Long-Term Care Centre,2030 McNicoll Ave,M1V 5P4,Scarborough,-79.30021093,43.81306824,Long Term Care
+21,Sunnybrook Veterans Centre Canada. Veterans Affairs Canada - Toronto-Sunnybrook Service Centre,2075 Bayview Ave,M4N 3M5,North York,-79.37787537,43.72193765,Long Term Care
+22,Hellenic Care for Seniors Toronto Hellenic Home for the Aged,215 Tyrrel Ave,M6G 4A9,former Toronto,-79.43033856,43.67678541,Long Term Care
+23,Kipling Acres,2233 Kipling Ave,M9W 4L3,Etobicoke,-79.57188977,43.72512809,Long Term Care
+24,St George Care Community,225 St George St,M5R 2M2,former Toronto,-79.40146212,43.6725377,Long Term Care
+25,Long-Term Care Home Yee Hong Centre for Geriatric Care - Scarborough-McNicoll,2311 McNicoll Ave,M1V 5L3,Scarborough,-79.29049398,43.81436799,Long Term Care
+26,Hellenic Home - Scarborough,2411 Lawrence Ave E,M1P 4X1,Scarborough,-79.27437183,43.74930098,Long Term Care
+27,Kensington Gardens,25 Brunswick Ave,M5S 2L9,former Toronto,-79.40394273,43.65808907,Long Term Care
+28,Long-Term Care Facility St Clair O'Connor Community,2701 St Clair Ave E,M4B 1M5,East York,-79.31185675,43.70544886,Long Term Care
+29,Maynard Nursing Home,28 Halton St,M6J 1R3,former Toronto,-79.41915073,43.64893837,Long Term Care
+30,Bendale Acres - Long-Term Care Home,2920 Lawrence Ave E,M1P 2T8,Scarborough,-79.25215917,43.75489511,Long Term Care
+31,Rockcliffe Care Community,3015 Lawrence Ave E,M1P 2V7,Scarborough,-79.24795157,43.75467523,Long Term Care
+32,Lakeshore Lodge - Long-Term Care Home,3197 Lake Shore Blvd W,M8V 3X5,Etobicoke,-79.51855744,43.59734568,Long Term Care
+33,Houses of Providence Providence Healthcare,3276 St Clair Ave E,M1L 1W1,Scarborough,-79.28519623,43.71395939,Long Term Care
+34,O'Neill Centre (The),33 Christie St,M6G 3B1,former Toronto,-79.41860115,43.66478654,Both
+35,Trilogy Long-Term Care Centre,340 McCowan Rd,M1J 3P4,Scarborough,-79.23866169,43.73822195,Long Term Care
+36,Rekai Centres - Sherbourne Place,345 Sherbourne St,M5A 2S3,former Toronto,-79.3724265,43.66270718,Long Term Care
+37,Elm Grove Living Centre,35 Elm Grove Ave,M6K 2J2,former Toronto,-79.43074751,43.64033384,Long Term Care
+38,Castleview Wychwood Towers - Long-Term Care Home,351 Christie St,M6G 3C3,former Toronto,-79.42116976,43.67338083,Long Term Care
+39,Chester Village,3555 Danforth Ave,M1L 1E3,Scarborough,-79.27473748,43.69378688,Long Term Care
+40,Apotex Centre - Jewish Home for the Aged Baycrest,3560 Bathurst St,M6A 2E1,North York,-79.43414656,43.7300642,Long Term Care
+41,Mon Sheong Foundation - Home for the Aged,36 D'Arcy St,M5T 1J7,former Toronto,-79.39335955,43.65525812,Long Term Care
+42,Shepherd Lodge Long Term Care Home Shepherd Village,3760 Sheppard Ave E,M1T 3K9,Scarborough,-79.29362333,43.78229723,Long Term Care
+43,Extendicare - Scarborough,3830 Lawrence Ave E,M1G 1R6,Scarborough,-79.21059186,43.76359033,Long Term Care
+44,Ina Grafton Gage Home,40 Bell Estate Rd,M1L 0E2,Scarborough,-79.2770757,43.70556801,Long Term Care
+45,Ehatare Nursing Home,40 Old Kingston Rd,M1E 3J5,Scarborough,-79.1831327,43.77554999,Both
+46,Wesburn Manor,400 The West Mall,M9C 5S1,Etobicoke,-79.56752671,43.64373537,Long Term Care
+47,Cedarvale Terrace Long Term Care Facility,429 Walmer Rd,M5P 2X9,York,-79.41237739,43.68545497,Long Term Care
+48,Fudger House - Long-Term Care Home,439 Sherbourne St,M4X 1K6,former Toronto,-79.37369472,43.66627962,Long Term Care
+49,Labdara Lithuanian Nursing Home,5 Resurrection Rd,M9A 5G1,Etobicoke,-79.53086641,43.64389791,Long Term Care
+50,Dom Lipa Nursing Home,52 Neilson Dr,M9C 1V7,Etobicoke,-79.56528016,43.62915569,Both
+51,Belmont House,55 Belmont St,M5R 1R1,former Toronto,-79.39096681,43.67467957,Both
+52,Toronto Long-Term Care Homes and Services,"55 John St, 11th Fl",M5V 3C6,former Toronto,-79.38893473,43.64616238,Long Term Care
+53,Extendicare - Rouge Valley,551 Conlins Rd,M1B 5S1,Scarborough,-79.18897889,43.80373894,Long Term Care
+54,Tony Stacey Centre for Veterans Care,59 Lawson Rd,M1C 2J1,Scarborough,-79.16331881,43.78331054,Long Term Care
+55,Extendicare - Guildwood,60 Guildwood Pkwy,M1E 1N9,Scarborough,-79.20314937,43.74690803,Long Term Care
+56,Long-Term Care Home Yee Hong Centre for Geriatric Care - Scarborough-Finch,60 Scottfield Dr,M1S 5T7,Scarborough,-79.25417061,43.809122,Long Term Care
+57,Copernicus Lodge,66 Roncesvalles Ave,M6R 3A7,former Toronto,-79.44730758,43.64019946,Long Term Care
+58,Deerwood Creek Care Community,70 Humberline Dr,M9W 7H3,Etobicoke,-79.61738524,43.7319366,Long Term Care
+59,Nisbet Lodge,740 Pape Ave,M4K 3S7,former Toronto,-79.34585906,43.68055107,Long Term Care
+60,Aboriginal Support Services Métis Nation of Ontario - Toronto Regional Office,"75 Sherbourne St, Suite 311",M5A 2P9,former Toronto,-79.36853623,43.65264626,Long Term Care
+61,Ivan Franko Home,767 Royal York Rd,M8Y 2T3,Etobicoke,-79.5070829,43.63768042,Long Term Care
+62,Main St Terrace,77 Main St,M4E 2V6,former Toronto,-79.29879056,43.68159723,Long Term Care
+63,Nursing Home Toronto Finnish Canadian Seniors Centre - Suomi-Koti Toronto,"795 Eglinton Ave E, 7th Fl",M4G 4E4,East York,-79.36618805,43.71301125,Long Term Care
+64,Long Term Care Centre West Park Healthcare Centre,82 Buttonwood Ave,M6M 2J5,York,-79.50896824,43.68929681,Long Term Care
+65,Seven Oaks - Long-Term Care Home,9 Neilson Rd,M1E 5E1,Scarborough,-79.2035789,43.78164671,Long Term Care
+66,Vermont Square Long Term Care Home,914 Bathurst St,M5R 3G5,former Toronto,-79.41280409,43.66831541,Long Term Care
+67,Altamont Care Community,92 Island Rd,M1C 2P5,Scarborough,-79.14003289,43.79885983,Long Term Care
+68,Humber Valley Terrace,95 Humber College Blvd,M9V 5B5,Etobicoke,-79.59659705,43.72721686,Long Term Care
+69,Ukrainian Canadian Care Centre - Long Term Care Facility St Demetrius Development Corporation,60 Richview Rd,M9A 5E4,Etobicoke,-79.51895535,43.6844972,Long Term Care
+70,Village of Humber Heights - Long-Term Care Home,2245 Lawrence Ave W,M9P 3W3,Etobicoke,-79.52596044,43.6971352,Both
+71,Cheltenham Care Community,5935 Bathurst St,M2R 1Y8,North York,-79.44452369,43.78190912,Long Term Care
+72,Chartwell Gibson Long Term Care Residence,1925 Steeles Ave E,M2H 2H3,North York,-79.37389059,43.80766418,Long Term Care
+73,Valleyview Residence,541 Finch Ave W,M2R 3Y3,North York,-79.44624745,43.77091405,Long Term Care
+74,Harold and Grace Baker Long Term Care,1 Northwestern Ave,M6M 2J7,York,-79.46978959,43.69794532,Both
+75,Weston Terrace Care Community - Toronto - 2005 Lawrence Ave W,2005 Lawrence Ave W,M9N 3V4,York,-79.5099126,43.70109996,Long Term Care
+76,Norfinch Care Community,22 Norfinch Dr,M3N 1X1,North York,-79.52617938,43.75681819,Long Term Care
+77,North Park Nursing Home,450 Rustic Rd,M6L 1W9,North York,-79.48222478,43.71760837,Long Term Care
+78,Long-Term Care Home Villa Colombo,40 Playfair Ave,M6B 2P9,North York,-79.45614386,43.71051076,Long Term Care
+79,Hawthorne Place Care Centre,2045 Finch Ave W,M3N 1M9,North York,-79.52142416,43.75607648,Long Term Care
+80,Carefree Lodge,306 Finch Ave E,M2N4S5,North York,-79.39403589,43.78502176,Long Term Care
+81,Cummer Lodge,205 Cummer Ave,M2M2E8,North York,-79.40751334,43.78825844,Long Term Care
+82,Better Living - Thompson,1 Overland Dr,M3C 2C3,North York,-79.3489571,43.7324815,Long Term Care
+83,Downsview Long Term Care Facility,3595 Keele St.,M3J 1M7,North York,-79.487781,43.7511756,Long Term Care
+84,Eatonville Care Centre,420 The East Mall,M9B 2Z9,Etobicoke,-79.560458,43.6475946,Long Term Care
+85,Chartwell Westbury Long Term Care Residence,495 The West Mall,M9C 5S3,Etobicoke,-79.550856,43.63121,Long Term Care
+86,McCall Centre,140 Sherway Dr,M9C 1A4,Etobicoke,-79.562134,43.610012,Long Term Care
+87,Westside Long Term Care,1145 Albion Rd,M9V 4J7,Etobicoke,-79.567764,43.737301,Long Term Care
+88,Chartwell Avondale Retirement Residence (Formerly Known as Avondale Retirement Residence),1238 Queen Street E.,M4L 1C3,Toronto,-79.32973903,43.66358053,Retirement Home
+89,Chartwell Gibson Retirement Residence (Formerly Known as Gibson Retirement Residence ),1955 Steeles Avenue  E.,M2H 3P1,Toronto,-79.37317021,43.80807916,Retirement Home
+90,Greenview Lodge,880 Lawrence Avenue E.,M3C 1P6,Toronto,-79.34876473,43.73637066,Retirement Home
+91,McCowan Retirement Residence,2881 Eglinton Avenue  E.,M1J 0A2,Toronto,-79.23961464,43.73806609,Retirement Home
+92,Shepherd Terrace Retirement Residence,3758 Sheppard Avenue E.,M1T 3K9,Toronto,-79.29465998,43.78205551,Retirement Home
+93,Advent Forestview Retirement Residence,537 Finch Avenue  W.,M2R 0A8,Toronto,-79.44538093,43.77012498,Retirement Home
+94,Chartwell Grenadier Retirement Residence,2100 Bloor Street W.,M6S 1M7,Toronto,-79.47099939,43.65261214,Retirement Home
+95,Kensington Place Retirement Residence,866 Sheppard Avenue W.,M3H 2T5,Toronto,-79.45369468,43.75255348,Retirement Home
+96,L'chaim Retirement Homes Inc.,718 Sheppard Avenue W.,M3H 2S6,Toronto,-79.44533533,43.75438161,Retirement Home
+97,New Horizons Tower,1140 Bloor Street  W.,M6H 4E6,Toronto,-79.4360228,43.65994327,Retirement Home
+98,St. Bernard's Residence,685 Finch Avenue W.,M2R 1P2,Toronto,-79.45688648,43.77052219,Retirement Home
+99,The Russell Hill Retirement Residence,262 St. Clair Avenue W.,M4V 1R8,Toronto,-79.40836133,43.68551444,Retirement Home
+100,Chartwell Scarlett Heights Retirement Residence (Formerly Known as Scarlett Heights Retirement Residence),4005 Eglinton Avenue W.,M9A 5H3,Etobicoke,-79.51974399,43.68267564,Retirement Home
+101,Delmanor Prince Edward,4180 Dundas Street W.,M8X 1X8,Etobicoke,-79.51005965,43.66120404,Retirement Home
+102,Elim Springs Retirement Residence,3838 Bloor Street W.,M9B 1L1,Etobicoke,-79.53889661,43.64135471,Retirement Home
+103,Kingsway,4251 Dundas Street  W.,M8X 2Z5,Etobicoke,-79.5144541,43.65888063,Retirement Home
+104,Tapestry at Village Gate West,15 Summerland Terrace,M9A 0B5,Toronto,-79.53227262,43.64404425,Retirement Home
+105,A Better Way Retirement Home Corp.,34 Middleport Crescent,M1B 4L1,Scarborough,-79.21706056,43.81549241,Retirement Home
+106,A Better Way Retirement Home Corp.,22 Purpledusk Trail,M1E 4C7,Scarborough,-79.2076128,43.7836522,Retirement Home
+107,Alexis Lodge Retirement Residence,705 - 707 Ellesmere Road,M1P 2W1,Scarborough,-79.28865691,43.7637446,Retirement Home
+108,Arul Oli Senior Centre,8 Snowy Owl Way,M1X 0B4,Scarborough,-79.23442339,43.83206342,Retirement Home
+109,Bethseda Home,67 Belgreen Avenue,M1S 1H5,Scarborough,-79.29034975,43.79522818,Retirement Home
+110,Bethseda Home,76 Silversted Drive,M1S 3A5,Scarborough,-79.26623084,43.80183841,Retirement Home
+111,Bethseda Home,4 Partridge Lane,M1T 3C6,Scarborough,-79.29919393,43.7990015,Retirement Home
+112,Birdsilver Gardens Senior Support Centre,16 Birdsilver Gardens,M1C 4M5,Scarborough,-79.13069326,43.79198959,Retirement Home
+113,Carefirst Transitional Care Centre,300 Silver Star Boulevard,M1V 5P1,Scarborough,-79.29556494,43.81237879,Retirement Home
+114,Cedarbrook Lodge Retirement Residence,520 Markham Road,M1H 3A1,Scarborough,-79.2249179,43.75487641,Retirement Home
+115,Scarborough Retirement Residence,148 Markham Road,M1M 2Z8,Scarborough,-79.21867517,43.74090614,Retirement Home
+116,Villa Karuna Home For Seniors,602 Brimley Road,M1J 1B5,Scarborough,-79.25084957,43.74165606,Retirement Home
+117,Centennial Park Place,25 Centennial Park Road,M9C 5H1,Etobicoke,-79.58205351,43.65325684,Retirement Home
+118,Leaside,10 -14 William Morgan Drive,M4H 1E7,East York,-79.342126,43.709365,Retirement Home
+119,Adeline's Lodge,379 Lake Promenade,M8W 1C1,Etobicoke,-79.53864959,43.58755684,Retirement Home
+120,Fairfield Residence,10 Fairfield Avenue,M8V 2H9,Etobicoke,-79.52349383,43.59792374,Retirement Home
+121,147 Elder Street Inc.,147 Elder Street,M3H 5G9,Toronto,-79.454018,43.76273144,Retirement Home
+122,Davenhill Senior Living (Formerly Known as Fellowship Towers),877 Yonge Street,M4W 3M2,Toronto,-79.38797583,43.67425754,Retirement Home
+123,St. Hilda's Towers,2339 Dufferin Street,M6E 4Z5,Toronto,-79.44949042,43.69476831,Retirement Home
+124,Terrace Gardens,3705 Bathurst Street,M6A 2E8,Toronto,-79.43313549,43.73531177,Retirement Home
+125,The Claremont,305 Balliol Street,M4S 3H5,Toronto,-79.38695093,43.69896923,Retirement Home
+126,V Care Retirement Home,8 Bridlington Street,M1H 2L5,Toronto,-79.23958393,43.77085054,Retirement Home
+127,Christie Gardens,600 Melita Crescent,M6G 3Z4,Toronto,-79.42269309,43.67318983,Retirement Home
+128,Delmanor Wynford,187 Wynford Drive,M3C 0C7,Toronto,-79.32582396,43.72473525,Retirement Home
+129,Weston Gardens Retirement Residence,303 Queens Drive,M6L 3C1,Toronto,-79.50217766,43.70749097,Retirement Home
+130,Amica at Bayview,15 Barberry Place,M2K 1G4,North York,-79.38404049,43.76641186,Retirement Home
+131,Amica at Bayview Gardens,19 Rean Drive,M2K 0A4,North York,-79.38239392,43.76716293,Retirement Home
+132,Canterbury Place Retirement Residence,1 Canterbury Place,M2N 0G7,North York,-79.4144927,43.77214459,Retirement Home
+133,Delmanor Northtown,5351 Yonge Street,M2N 7L5,North York,-79.41415909,43.77531339,Retirement Home
+134,Donway Place,8 The Donway E.,M3C 3R7,North York,-79.34045622,43.73472101,Retirement Home
+135,Amica at the Balmoral Club,155 Balmoral Avenue,M4V 1J5,Toronto,-79.40003934,43.68424578,Retirement Home
+136,Bill McMurray Residence,180 Sheridan Avenue,M6K 3C7,Toronto,-79.43469784,43.65162058,Retirement Home
+137,Cedarhurst Dementia Care Home (Formerly Known as Cedarhurst),2601 Bayview Avenue,M2L 1B5,Toronto,-79.3839757,43.75146436,Retirement Home
+138,Dowling Rest Home,124 Dowling Avenue,M6K 3A6,Toronto,-79.43899975,43.63690784,Retirement Home
+139,Forest Hill Place,645 Castlefield Avenue,M5N 3A5,Toronto,-79.42523784,43.70625327,Retirement Home
+140,Sts. Peter and Paul Residence,221 Milner Avenue,M1S 4P4,Toronto,-79.2401309,43.78834752,Retirement Home
+141,Terraces of Baycrest,55 Ameer Avenue,M6A 2Z1,Toronto,-79.44083783,43.72874629,Retirement Home
+142,The Dunfield Retirement Residence,77 Dunfield Avenue,M4S 2H3,Toronto,-79.39494483,43.70678056,Retirement Home
+143,The Teddington,4 Teddington Park Avenue,M4N 2C3,Toronto,-79.40391308,43.73346633,Retirement Home
+144,Atrium at Kew Beach,500 Kingston Road,M4L 1V3,Toronto,-79.30273739,43.67799467,Retirement Home
+145,Beach Arms Retirement Residence,505 Kingston Road,M4L 1V5,Toronto,-79.30233885,43.67725589,Retirement Home
+146,Bradgate Arms,54 Foxbar Road,M4V 2G6,Toronto,-79.40059159,43.6857479,Retirement Home
+147,Chartwell Lansing Retirement Residence (Formerly Known as Lansing Retirement Residence),10 Senlac Road,M2N 6P8,Toronto,-79.42340898,43.75945563,Retirement Home
+148,Hazelton Place Retirement Residence,111 Avenue Road,M5R 3J8,Toronto,-79.39548308,43.67320082,Retirement Home
+149,Living Life on The Avenue Retirement Residence,1066 Avenue Road,M5N 0A3,Toronto,-79.41013591,43.70578143,Retirement Home
+150,One Kenton Place,1-3 Kenton Road,M2R 2H6,Toronto,-79.443665,43.777946,Retirement Home
+151,Rayoak Place,1340 York Mills Road,M3A 3R1,Toronto,-79.32017619,43.76312119,Retirement Home
+152,Retirement Suites by the Lake,2121 Kingston Road,M1N 1T5,Toronto,-79.25411304,43.70066507,Retirement Home
+153,The Annex,123 Spadina Road,M5R 2T1,Toronto,-79.4055045,43.67175042,Retirement Home
+154,The Briton House,700 & 720 Mount Pleasant Road,M4S 2N4,Toronto,-79.383423,43.682064,Retirement Home
+155,The Millwood,921 Millwood Road,M4G 1X2,Toronto,-79.36362227,43.70293199,Retirement Home
+156,Senior Tamils Centre of Ontario,5200 Finch Ave E,M1S 4Z2,Scarborough,-79.256981,43.810407,Retirement Home
+157,Pine Villa Place,1035 Eglinton Ave W,M6C 2C8,York,-79.432274,43.699295,Retirement Home

@@ -1,10 +1,12 @@
 # Disability Centres
 
 ## Description
-This list provides the location of all the disability centres in Toronto along with their coordinates, and is available in comma seperated values (CSV) format. The dataset was sourced from the City of Toronto's Transportation Services Division and is current as of 2017.
+The City of Toronto's Transportation Services Division provides [this dataset](csv/disability_centres.csv) `disability_centres.csv` that lists all of the disability centres in Toronto and their geographic information. The data is current as of 2017. 
+
+**Format:** Comma Seperated Values (CSV)
 
 ## Relevance to the Vision Zero Challenge
-This dataset shows where services for persons with disabilities or those with limited mobility are located. These populations are often at higher risk of serious collisions with motorized vehicles. This dataset provides locations at which these populations may be located or are likely to visit.
+Disability centres host services for persons with disabilities or those with limited mobility. These persons are often at higher risk of vehicular incidents as pedestrians or of an older demographic. Pedestrians and older adults are two of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan, and are the focus of a number of existing and planned safety measures.
 
 ## Data Dictionary
 

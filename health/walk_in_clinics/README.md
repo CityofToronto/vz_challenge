@@ -1,10 +1,12 @@
 # Walk-In Clinics
 
 ## Description 
-This dataset provides the locations of all of the Walk-In Clinics in the City of Toronto. The data is available in Shapefile format with the MTM 3 Degree Zone 10 NAD27 projection, and is uploaded in this GitHub directory. The owner of the dataset is the City of Toronto's Transportation Services Division.
+The City of Toronto's Transportation Services Division provides [this dataset](shp/walk_in_clinics.zip) `walk_in_clinics.zip` of the locations of all of the Walk-In Clinics in the City of Toronto. The geospatial data is in the MTM 3 Degree Zone 10 NAD27 projection, and is current to 2017.
+
+**Format:** ESRI Shapefile
 
 ## Relevance to the Vision Zero Challenge 
-This dataset is relevant to the Vision Zero Challenge because walk-in clinics are used by many members of the community, including older adults and school-aged children. 
+Walk-In Clinics are often visited by older adults and other persons with medical needs. These populations are often at higher risk of serious collisions with motorized vehicles. This dataset provides locations at which these populations may be located or are likely to visit. Pedestrians and older adults are two of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan, and as such are the focus of a number of existing and planned safety measures.
 
 ## Data Dictionary 
 | Column Name | Type | Description |

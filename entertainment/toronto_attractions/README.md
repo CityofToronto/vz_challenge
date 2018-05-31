@@ -1,14 +1,14 @@
 # Places of Interest and Toronto Attractions
 
 ## Description 
-This dataset contains 180 major places of interest (POI) and tourist attractions in Toronto.
+The Economic Development & Culture Division of the City of Toronto own this dataset, which contains 180 major places of interest (POI) and tourist attractions in Toronto. The data is current to April 2016, the geospatial data is in MTM 3 Degree Zone 10 NAD27 or WGS84.
 
-The data is current as of April 2016, and is owned by the Economic Development & Culture Division of the City of Toronto. The data is
-available in the form of an Excel spreadsheet, and ESRI shapefiles in the MTM 3 Degree Zone 10 NAD27, WGS84 Latitude/Longitude
-projections.
+**Format:** Excel workbook (xlsx); ESRI Shapefile
+
+The dataset is available on the [City of Toronto Open Data Catalogue](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/culture-and-tourism/#7b9deecd-a51a-3485-5e3d-94f27cc8b7d4).
 
 ## Relevance to the Vision Zero Challenge
-These points of interest are places where members of the community gather, and there may be a lot of people using various forms of transportation in the general vicinity of these locations.
+Places of interest are places where members of the community gather, and are likely to experience heavier pedestrian traffic. Pedestrians are one of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan, and as such are the focus of a number of existing and planned safety measures.
 
 ## Data Dictionary 
 | Column Name | Type | Description |

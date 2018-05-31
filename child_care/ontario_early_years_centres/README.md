@@ -6,16 +6,20 @@ EarlyON Child and family centres offer free programs to parents/caregivers and t
 2) Support parent education, and
 3) Foster healthy child development.
 
-The dataset is owned by the City of Toronto's Child Services Division, and is current as of April 2018. The data is in the form of a JSON file. The file is available on the [Open Data Catalogue](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#89affade-9841-653f-8bbc-dfbb397b43ac). 
+The data was last updated April 2018.
+
+**Format:** JavaScript Object Notation (JSON)
+
+The dataset is owned by the City of Toronto's Child Services Division, and is available on the City of Toronto's [Open Data Catalogue](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#89affade-9841-653f-8bbc-dfbb397b43ac). 
 
 ## Revelance to the Vision Zero Challenge
-This dataset is relevant to the Vision Zero Challenge as there may be an increase in pedestrians and children near the Ontario Early Years Centres. 
+Ontario Early Years Centres are important neighbourhood destinations for families with young children. School Children are one of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan, and is the focus of a number of existing and planned safety measures. 
 
 ## Data Dictionary 
 | Column Name | Type | Description |
 |-------------|------|-------------|
-lat | Numeric | Latitude
-lon | Numeric | Longitude 
+lat | Numeric | Latitude, WGS84
+lon | Numeric | Longitude, WGS84
 program | Text | Name of the program 
-address | Text | Address 
-phone | Text | Telephone number
+address | Text | Street Address of the centre
+phone | Text | Telephone number of the centre
