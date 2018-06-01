@@ -21,9 +21,9 @@ Datasets in this category contain files detailing different boundaries and admin
 |Dataset|Description|GIS|
 |:-----|:-----|:-----|
 [City Wards](boundaries/city_wards)|Spatial file of the current and new 2018 ward boundaries.|Yes
-[Neighbourhoods](neighbourhoods/boundaries)|Boundaries of Toronto neighbourhoods.|Yes
+[Neighbourhoods](boundaries/neighbourhoods)|Boundaries of Toronto neighbourhoods.|Yes
 
-## [Child Care](/child_care)
+## [Child Care](child_care)
 
 Datasets in this category contain locations of centres providing services for child care and development.
 
@@ -38,12 +38,12 @@ Datasets in this category contain information about community, recreation, and c
 
 |Dataset|Description|GIS|
 |:-----|:-----|:-----|
-[Drop-In Locations](community_recreation/drop_in_locations)|Locations of all drop-in centres that are part of the Toronto Drop-In Network.|Yes
-[Parks](community_recreation/parks)|Locations of all parks and green spaces.|Yes
-[Places of Worship](community_recreation/places_of_worship)|Locations of all places of worship accross multiple faiths/denominations.|Yes
-[Refugee Services](community_recreation/refugee_services)|Locations of all organizations providing services catering to refugees.|Yes
-[Senior Facilities](community_recreation/senior_facilities)|Locations of all senior facilities, including long term care homes, retirement homes, and senior appartments.|Yes
-[Toronto Public Library Branch Locations](community_recreation/tpl_branch_locations)|Locations of all library branches.|Yes
+[Drop-In Locations](community/drop_in_locations)|Locations of all drop-in centres that are part of the Toronto Drop-In Network.|Yes
+[Parks](community/parks)|Locations of all parks and green spaces.|Yes
+[Places of Worship](community/places_of_worship)|Locations of all places of worship accross multiple faiths/denominations.|Yes
+[Refugee Services](community/refugee_services)|Locations of all organizations providing services catering to refugees.|Yes
+[Senior Facilities](community/senior_facilities)|Locations of all senior facilities, including long term care homes, retirement homes, and senior appartments.|Yes
+[Toronto Public Library Branch Locations](community/tpl_branch_locations)|Locations of all library branches.|Yes
 
 ## [Demographic Data](demographics)
 
@@ -96,9 +96,9 @@ Datasets in this category provide information on social housing, shelters, and o
 |Dataset|Description|GIS|
 |:-----|:-----|:-----|
 [Daily Shelter Occupancy](housing/daily_shelter_occupancy)|Daily occupancies of known homeless shelters.|No
-[Homeless Shelter Locations](community_recreation/homeless_shelters)|Locations of all homeless shelters registered with City of Toronto Hostel Services.|Yes
-[Homeless Shelter (211)](community_recreation/homeless_shelters/211)|Locations of all homeless shelters registered on the Toronto 211 Database, and not already on the Hostel Services dataset.|Yes
-[Toronto Community Housing](community_recreation/toronto_community_housing)|Locations of all Toronto Community Housing developments along with the number of subsidised and market units.|Yes
+[Homeless Shelter Locations](housing/homeless_shelters)|Locations of all homeless shelters registered with City of Toronto Hostel Services.|Yes
+[Homeless Shelter (211)](housing/homeless_shelters/211)|Locations of all homeless shelters registered on the Toronto 211 Database, and not already on the Hostel Services dataset.|Yes
+[Toronto Community Housing](housing/toronto_community_housing)|Locations of all Toronto Community Housing developments along with the number of subsidised and market units.|Yes
 
 ## [Neighbourhood Characteristics](neighbourhoods)
 
@@ -120,7 +120,7 @@ Datasets in this category contain locations where various types of safety progra
 
 |Dataset|Description|GIS|
 |:-----|:-----|:-----|
-[School Crossing Guards](education/crossing_guards)|Locations of all intersections with a school crossing guard, and the schools the crossing guards are serving.|Yes
+[School Crossing Guards](safety_programs/crossing_guards)|Locations of all intersections with a school crossing guard, and the schools the crossing guards are serving.|Yes
 [Leading Pedestrian Interval](safety_programs/leading_pedestrian_interval)|Intersections where pedestrian are given an advance signal and additional time to cross.|Yes
 [Red Light Camera Locations](safety_programs/red_light_cameras)|Locations of all red light cameras.|Yes
 [School Safety Zones](safety_programs/school_safety_zones)|Areas where additional safety measures are implemented to protect schoolchildren.|Yes
@@ -134,14 +134,13 @@ Datasets in this category provide information about transportation infrastructur
 |Dataset|Description|GIS|
 |:-----|:-----|:-----|
 [Bikeways](transportation/bikeways)|Locations of all cyclist infrastructure or cyclist friendly infrastructure.|Yes
-Bluetooth <br>**_Coming Soon_**|Travel times of different trips across Toronto.|No
-Collision (Events) <br>**_Coming Soon_** |Dates and locations of reported collisions. The dataset also contains the impact type of each collision.|No
-Collision (Involved) <br>**_Coming Soon_**|Supplement to the Collision (Events) dataset with additional details about the accident for each individual involved.|No
+Bluetooth Travel Times <br>**_Coming Soon_**|Disaggregate vehicular travel times on pre-defined routes, primarily covering the City's expressways and major downtown arterials.|No
+Collisions <br>**_Coming Soon_** |The locations and details of all reported collisions from 2008 to 2017.|No
 [Dooring](transportation/collisions/dooring)|Date and locations of each dooring incident.|Yes
 Posted Speed Limits <br>**_Coming Soon_**|Posted speed limits of all roads.|Yes
-[Probe Speed Data](transportation/probe_speeds)|Aggregate speed metrics by time period, and travel times.|No
+[Probe Speed Data](transportation/probe_speeds)|Aggregate percentile speed metrics, by hour, across all streets in the City of Toronto|No
 [Sidewalks](transportation/sidewalks)|Information and locations of all sidewalks.|Yes
-Speed-Volumes Counts <br>**_Coming Soon_**|Speeds at different collection points matched to the centreline dataset. Includes volumes for each speed bin.|No
+Speed-Volumes Counts <br>**_Coming Soon_**|Short-term historical speed distribution counts on streets across the City of Toronto|No
 [Street furniture: transit shelters and bins, and benches](transportation/transit_shelters)|Locations of all TTC surface transit shelters.|Yes
 [Toronto Centreline File](transportation/toronto_centreline)|Linear features representing all streets, roads, boundaries, paths, rivers, and railways. Each feature identified with a centreline ID referenced in other datasets.|Yes
 [Traffic Signals](transportation/traffic_signals)|Locations and additional details of all traffic signals.|Yes
