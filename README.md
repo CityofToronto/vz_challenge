@@ -135,15 +135,16 @@ Datasets in this category provide information about transportation infrastructur
 |:-----|:-----|:-----|
 [Bikeways](transportation/bikeways)|Locations of all cyclist infrastructure or cyclist friendly infrastructure.|Yes
 Bluetooth Travel Times <br>**_Coming Soon_**|Disaggregate vehicular travel times on pre-defined routes, primarily covering the City's expressways and major downtown arterials.|No
-Collisions <br>**_Coming Soon_** |The locations and details of all reported collisions from 2008 to 2017.|No
-[Dooring](transportation/collisions/dooring)|Date and locations of each dooring incident.|Yes
+[Collisions](transportation/collisions)|The locations and details of all reported collisions from 2008 to 2017.|No
+[Dooring](transportation/dooring)|Date and locations of each dooring incident.|Yes
 Posted Speed Limits <br>**_Coming Soon_**|Posted speed limits of all roads.|Yes
 [Probe Speed Data](transportation/probe_speeds)|Aggregate percentile speed metrics, by hour, across all streets in the City of Toronto|No
 [Sidewalks](transportation/sidewalks)|Information and locations of all sidewalks.|Yes
-Speed-Volumes Counts <br>**_Coming Soon_**|Short-term historical speed distribution counts on streets across the City of Toronto|No
-[Street furniture: transit shelters and bins, and benches](transportation/transit_shelters)|Locations of all TTC surface transit shelters.|Yes
+[Speed-Volume Counts](transportation/speed_volumes)|Short-term historical speed distribution counts on streets across the City of Toronto|No
+[Transit Shelters](transportation/transit_shelters)|Locations of all TTC surface transit shelters.|Yes
 [Toronto Centreline File](transportation/toronto_centreline)|Linear features representing all streets, roads, boundaries, paths, rivers, and railways. Each feature identified with a centreline ID referenced in other datasets.|Yes
 [Traffic Signals](transportation/traffic_signals)|Locations and additional details of all traffic signals.|Yes
-TTC Stops <br>**_Coming Soon_**|Locations of all TTC surface transit stops.|No
-TTC Ridership <br>**_Coming Soon_**|Ridership, boardings, and disembarkings of TTC surface transit routes at each stop.|No 
+[Traffic Volumes](transportation/traffic_volumes)|Disaggregate turning movement and segment traffic volumes across the City of Toronto.|No
+[TTC Stops](transportation/ttc_stops)|Locations of all TTC surface transit stops.|No
+[TTC Ridership](transportation/ttc_ridership)|Ridership, boardings, and disembarkings of TTC surface transit routes at each stop.|No 
 [Turn Restrictions](transportation/turn_restrictions)|Turn restrictions and the locations of dedicated turn lanes in the City of Toronto.|Yes
