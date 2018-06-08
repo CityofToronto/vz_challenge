@@ -8,13 +8,13 @@ The City of Toronto's Social Development, Finance & Administration Division main
 The data is available through the City of Toronto's [Open Data Catalogue](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#8bbd0a4c-ccf0-c705-4023-e2faf078aeb4).
 
 ## Relevance to the Vision Zero Challenge 
-The services provided by Aboriginal Service Organizations are accessed by members of the community who could be at a higher risk of vehicular incidents. Pedestrians are one of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan, and is the focus of a number of existing and planned safety measures. 
+The services provided by Aboriginal Service Organizations may have linkages to populations at higher risk of involvement in a serious collision, and may also represent areas of higher pedestrian activity. Pedestrians are one of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan, and is the focus of a number of existing and planned safety measures. 
 
 ## Data Dictionary 
 | Column Name | Type | Description |
 |-------------|------|-------------|
 LocationName | Text | Aboriginal Service Organization Name
-Address | Text | Organization Address
-Suite | Text | Suite number/code
-City | Text | City
-Postcode | Text | Postal code
+Address | Text | Location of organization, street address
+Suite | Text | Location of organization, suite number/code
+City | Text | Location of organization, city
+Postcode | Text | Location of organization, postal code

@@ -123,6 +123,9 @@ Datasets in this category contain locations where various types of safety progra
 [School Crossing Guards](safety_programs/crossing_guards)|Locations of all intersections with a school crossing guard, and the schools the crossing guards are serving.|Yes
 [Leading Pedestrian Interval](safety_programs/leading_pedestrian_interval)|Intersections where pedestrian are given an advance signal and additional time to cross.|Yes
 [Red Light Camera Locations](safety_programs/red_light_cameras)|Locations of all red light cameras.|Yes
+[Red Light Camera Locations](safety_programs/red_light_cameras/infractions)|Aggregate number of infractions for each red light camera.|No
+[Road Safety Audit](safety_programs/road_safety_audit/)|Location and length of road safety audits conducted in 2017.|Yes
+[School Flex-Post Road Signs](safety_programs/school_flex_post_signs)|Locations of the flex-post school **safety zone signs** installed in 2017|Yes
 [School Safety Zones](safety_programs/school_safety_zones)|Areas where additional safety measures are implemented to protect schoolchildren.|Yes
 [School Watch Your Speed (WYS) Signs](safety_programs/school_wysp)|Locations of Watch Your Speed (WYS) signs in school zones.|Yes
 [Senior Safety Zones](safety_programs/senior_safety_zones)|Areas where additional safety measures are implemented to protect seniors.|Yes

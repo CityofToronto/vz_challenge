@@ -6,7 +6,9 @@ The City of Toronto [purchases](https://360.here.com/2017/05/11/here-helps-toron
 
 The speeds are aggregated on a per-probe basis, not a per-vehicle basis, in order to capture greater variability in speeds along a link. This means that some observations can be affected by traffic signals or stop signs. This does also mean that some amount of speeding along any link can be captured.
 
-**Format:** Comma Separated Values (CSV); ESRI Shapefile
+**Format:** Zipped Comma Separated Values (CSV); ESRI Shapefile (`streets_geography.zip`)
+
+The dataset is available for download on [an external site](https://drive.google.com/file/d/14WouNI0578-1rAsn5Cy5kIMqGgiryOfh/view?usp=sharing).
 
 ### Relevance to the Vision Zero Challenge
 
