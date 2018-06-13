@@ -2,7 +2,7 @@
 
 ## Description
 
-The Toronto Police Service maintains a dataset including all traffic collisions events where a person was either Killed or Seriously Injured (KSI) from 2007 – 2017. For more information about Killed or Seriously Injured (KSI) statistics click [here](http://data.torontopolice.on.ca/pages/ksi).
+The Toronto Police Service maintains a dataset including all traffic collisions events where a person was either Killed or Seriously Injured (KSI) from 2007 – 2017. Each row represents on individual involved in a KSI collision, even if they were not killed or seriously injured. For more information about Killed or Seriously Injured (KSI) statistics click [here](http://data.torontopolice.on.ca/pages/ksi).
 
 A collision is defined as the contact resulting from the motion of a motorized vehicle or a streetcar or its load, that produces property damage, injury, or death. For the purposes of this dataset, a collision indicates that the initial point of contact involves at least one motor vehicle or streetcar.
 
