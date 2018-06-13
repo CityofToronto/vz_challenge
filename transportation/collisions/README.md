@@ -1,12 +1,24 @@
 # Collisions
 
+This folder contains three different datasets:
+
+- [Motor Vehicle Collisions (described below)](#Description)
+- [KSI Motor Vehicle Collisions](ksi_collisions)
+- [Doorings](dooring)
+
+For the purpose of the first two datasets:
+>A collision is defined as the contact resulting from the motion of a motorized vehicle or a streetcar or its load, that produces property damage, injury, or death. For the purposes of this dataset, a collision indicates that the initial point of contact involves at least one motor vehicle or streetcar.
+
+Thus dooring collisions, where a cyclist collides with (or is struck by) the open door of a motor vehicle, are a separate dataset for the purposes of collision reporting.
+
+The KSI Motor Vehicle Collisions dataset is available on the Toronto Police Open Data portal and is a subset of [Motor Vehicle Collisions (described below)](#Description) where the injury was deemed fatal or major. The KSI dataset also includes 2007 whereas the below collision dataset starts in 2008. Also the collision dataset contains more KSI records for 2017. The collision dataset is separated into two tables **Events** describing the details of the collision and **Involved** describing the individuals involved and their injuries (if any). The KSI dataset is a join of these two tables, so details of the event are repeated for different individuals involved in a given collision (`ACCNUM`).
+
 ## Description
+
 The Toronto Police Service maintains a database of collisions involving motorized vehicles, cyclists, and pedetrians. These datasets contain information on all recorded collisions between 2008 and 2017.
 
-A collision is defined as the contact resulting from the motion of a motorized vehicle or a streetcar or its load, that produces property damage, injury, or death. For the purposes of this dataset, a collision indicates that the initial point of contact involves at least one motor vehicle or streetcar. 
-
-* The **Events** dataset details unique collisions (or **events**) between vehicles, vehicles and cyclists, vehicles and pedestrians, or vehicles and pedestrians and cyclists. Each record corresponds to a single collision.
-* The **Involved** dataset details all individuals involved in the collision, including vehicles, cyclists, and pedestrians. Each record corresponds to a unique individual involved in the collision, with one or more **involved** linked to a specific **event**. This dataset is intended to be used with the **Events** dataset in a one-to-many relationship. 
+- The **Events** dataset details unique collisions (or **events**) between vehicles, vehicles and cyclists, vehicles and pedestrians, or vehicles and pedestrians and cyclists. Each record corresponds to a single collision.
+- The **Involved** dataset details all individuals involved in the collision, including vehicles, cyclists, and pedestrians. Each record corresponds to a unique individual involved in the collision, with one or more **involved** linked to a specific **event**. This dataset is intended to be used with the **Events** dataset in a one-to-many relationship.
 
 The datasets are available on an external site:
 
@@ -17,10 +29,12 @@ The datasets are available on an external site:
 **Format:** Comma Separated Values (CSV) - semicolon delimited
 
 ## Relevance to the Vision Zero Challenge
+
 The datasets show _where_ and _when_ all collisions involving vehicles and other vehicles, cyclists, and pedestrians took place, and includes geographic information and many other collision attributes. This dataset includes collisions involving those that are killed or seriously injured (KSI), the elimination of which is the primary focus of the Vision Zero Road Safety Plan.
 
 ## Data Dictionary
-**Collisions - Events**
+
+### Collisions - Events
 
 |Column Name|Type|Description|
 |-----|-----|-----|
@@ -48,7 +62,7 @@ road_surface_cond|Text|Condition of the road surface at the time and location of
 longitude|Numeric|Longitude.
 latitude|Numeric|Latitude.
 
-**Collisions - Involved**
+### Collisions - Involved
 
 |Column Name|Type|Description|
 |-----|-----|-----|
@@ -76,4 +90,10 @@ posted_speed|Text|Posted speed limit of the road, in kilometers per hour.
 
 ## Limitations
 
-The latitudes and longitudes are generally more reliable than the street fields detailing the intersection that the collision took place. The accuracy of the latitude and longitude, however, is dependent on the user entering the data, and may vary from record to record.
+This dataset only includes collisions for which police filed a Motor Vehicle Collision Report, there may be about 20,000 more collisions for which the involved parties reported at a Collision Reporting Centre.
+
+**Causes are what an officer on scene reported and are not what may have been proven in court.** Details may emerge afterwards about fault and causes.
+
+Not all MVCRs are validated: all KSI collisions are validated (`involved_injury_class IN ('FATAL','MAJOR')`) and collisions for particular data requests (e.g.: a given area/intersection and range of years) are validated. For validated collisions the textual address fields and the latitute and longitude should concur. Generally speaking, the latitudes and longitudes are more reliable than the street fields detailing the intersection that the collision took place. The accuracy of the latitude and longitude, however, is dependent on the officer entering the data, and may vary from record to record.
+
+A small number of `collision_events` have the same ID but different dates, and possibly different locations. These are not major collisions.

@@ -109,7 +109,7 @@ Datasets in this category provide neighbourhood-level information on education, 
 [Aboriginal Service Organizations](neighbourhoods/aboriginal_service_organizations)|Locations of all organizations providing services to the Aboriginal Community.|Yes
 [Civics & Equity Indicators](neighbourhoods/civic_and_equity_indicators)|Civis and equity indicator scores, including city grants funding, Salvation Army donors, City Beautification, water main breaks, voter turnout, walk score, neighbourhood equity score and diversity index for all Toronto neighbourhoods.|No
 [Demographic Indicators](neighbourhoods/demographic_indicators)|Demographic indicator scores of all Toronto neighbourhoods.|No
-[Education Indicators](neighbourhoods/education)|Education indicator scores, including grade 9 graduation rate, university applications, library attendance etc. for all Toronto neighbourhoods.|No
+[Education Indicators](neighbourhoods/education_indicators)|Education indicator scores, including grade 9 graduation rate, university applications, library attendance etc. for all Toronto neighbourhoods.|No
 [Neighbourhood Improvement Areas](neighbourhoods/neighbourhood_improvement_areas)|Designated neighbourhoods that have inequities on multiple indicators.|Yes
 [Transportation Indicators](neighbourhoods/transportation_indicators)|Number of TTC stops, TTC overcrowded routes, collisions, road volume, and road kilometers for all Toronto neighbourhoods.|No
 [Youth Services](neighbourhoods/youth_services)|Locations of organizations providing youth services.|Yes
@@ -122,7 +122,7 @@ Datasets in this category contain locations where various types of safety progra
 |:-----|:-----|:-----|
 [School Crossing Guards](safety_programs/crossing_guards)|Locations of all intersections with a school crossing guard, and the schools the crossing guards are serving.|Yes
 [Red Light Camera Locations](safety_programs/red_light_cameras)|Locations of all red light cameras.|Yes
-[Red Light Camera Locations](safety_programs/red_light_cameras/infractions)|Aggregate number of infractions for each red light camera.|No
+[Red Light Camera Infractions](safety_programs/red_light_cameras/infractions)|Aggregate number of infractions for each red light camera.|No
 [Road Safety Audit](safety_programs/road_safety_audit/)|Location and length of road safety audits conducted in 2017.|Yes
 [School Flex-Post Road Signs](safety_programs/school_flex_post_signs)|Locations of the flex-post school **safety zone signs** installed in 2017|Yes
 [School Safety Zones](safety_programs/school_safety_zones)|Areas where additional safety measures are implemented to protect schoolchildren.|Yes
@@ -138,9 +138,11 @@ Datasets in this category provide information about transportation infrastructur
 [Bikeways](transportation/bikeways)|Locations of all cyclist infrastructure or cyclist friendly infrastructure.|Yes
 Bluetooth Travel Times <br>**_Coming Soon_**|Disaggregate vehicular travel times on pre-defined routes, primarily covering the City's expressways and major downtown arterials.|No
 [Collisions](transportation/collisions)|The locations and details of all reported collisions from 2008 to 2017.|No
-[Dooring](transportation/dooring)|Date and locations of each dooring incident.|Yes
+[KSI Collisions](transportation/collisions/ksi_collisions)|The locations and details of all collisions where someone was Killed or Seriously Injured from 2008 to 2017.|Yes
+[Dooring](transportation/collisions/dooring)|Date and locations of each dooring incident.|Yes
 Posted Speed Limits <br>**_Coming Soon_**|Posted speed limits of all roads.|Yes
 [Probe Speed Data](transportation/probe_speeds)|Aggregate percentile speed metrics, by hour, across all streets in the City of Toronto|No
+[Road Restrictions](transportation/road_restrictions)|Current road restrictions/closures and Road Emergency Services Communication Unit (RESCU) incidents in the City of Toronto.|No
 [Sidewalks](transportation/sidewalks)|Information and locations of all sidewalks.|Yes
 [Speed-Volume Counts](transportation/speed_volumes)|Short-term historical speed distribution counts on streets across the City of Toronto|No
 [Transit Shelters](transportation/transit_shelters)|Locations of all TTC surface transit shelters.|Yes
