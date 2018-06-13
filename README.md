@@ -136,7 +136,7 @@ Datasets in this category provide information about transportation infrastructur
 |Dataset|Description|GIS|
 |:-----|:-----|:-----|
 [Bikeways](transportation/bikeways)|Locations of all cyclist infrastructure or cyclist friendly infrastructure.|Yes
-Bluetooth Travel Times <br>**_Coming Soon_**|Disaggregate vehicular travel times on pre-defined routes, primarily covering the City's expressways and major downtown arterials.|No
+[Bluetooth Travel Times](transportation/bluetooth) |Disaggregate vehicular travel times on pre-defined routes, primarily covering the City's expressways and major downtown arterials.|No
 [Collisions](transportation/collisions)|The locations and details of all reported collisions from 2008 to 2017.|No
 [KSI Collisions](transportation/collisions/ksi_collisions)|The locations and details of all collisions where someone was Killed or Seriously Injured from 2008 to 2017.|Yes
 [Dooring](transportation/collisions/dooring)|Date and locations of each dooring incident.|Yes
