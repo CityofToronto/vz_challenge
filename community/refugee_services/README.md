@@ -3,7 +3,7 @@
 ## Description
 211 Toronto owns [this dataset](refugee_services_211.csv) `refugee_services_211.csv`, which contains a list of all the centres that provide services to refugees and immigrants, and includes a wide range of services and communities listed. The dataset was last updated in April 2018.
 
-**Format:** Comma Separated Values (CSV)
+**Format:** Comma Separated Values (CSV); also available as [GeoJSON](refugee_services_211.geojson) and [ESRI Shapefile](refugee_services_211.zip)
 
 ## Relevance to the Vision Zero Challenge
 These centres provide services to newcomers, which may have linkages to populations that are at higher risk of being involved in a serious collision.

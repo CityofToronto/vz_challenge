@@ -1,9 +1,9 @@
 # Disability Centres
 
 ## Description
-The City of Toronto's Transportation Services Division provides [this dataset](csv/disability_centres.csv) `disability_centres.csv` that lists all of the disability centres in Toronto and their geographic information. The data is current as of 2017. 
+The City of Toronto's Transportation Services Division provides [this dataset](disability_centres.csv) `disability_centres.csv` that lists all of the disability centres in Toronto and their geographic information. The data is current as of 2017. 
 
-**Format:** Comma Seperated Values (CSV)
+**Format:** Comma Seperated Values (CSV); also available as [GeoJSON](disability_centres.geojson) and [ESRI Shapefile](disability_centres.zip)
 
 ## Relevance to the Vision Zero Challenge
 Disability centres host services for persons with disabilities or those with limited mobility. These persons are often at higher risk of vehicular incidents as pedestrians or of an older demographic. Pedestrians and older adults are two of the six emphasis areas defined under the City of Toronto's Vision Zero Road Safety Plan, and are the focus of a number of existing and planned safety measures.

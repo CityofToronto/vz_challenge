@@ -1,9 +1,9 @@
 # Senior Facilities
 
 ## Description
-The Transportation Services Division of the City of Toronto compiled [this dataset](csv/senior_facilities.csv) `senior_facilities.csv` for the Vision Zero Challenge, using multiple sources described below.
+The Transportation Services Division of the City of Toronto compiled [this dataset](senior_facilities.csv) `senior_facilities.csv` for the Vision Zero Challenge, using multiple sources described below.
 
-**Format:** Comma Separated Values (CSV)
+**Format:** Comma Separated Values (CSV); also available as [GeoJSON](senior_facilities.geojson) and [ESRI Shapefile](senior_facilities.zip)
 
 This is the master dataset of all senior facilities in Toronto. There are two types of facilities listed in this dataset: 
 - **Long-term care facilities** are funded by the province and are for seniors that need care at all times. 

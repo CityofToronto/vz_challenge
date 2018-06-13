@@ -1,7 +1,9 @@
 # Red Light Cameras
 
 ## Description
-This dataset provides a list of all locations where Red Light Cameras (RLCs) are currently installed. RLCs automatically photograph vehicles that run red lights and the resulting photo is used as evidence to issue a ticket to the owner of the vehicle. They are used to help enforce traffic laws, and have been shown to effectively reduce red light running and as a result improve safety at locations where they are installed. This dataset is owned and maintained by the City of Toronto's Transportation Services Division, and is current as of January 2018. 
+[This dataset](rlc_locations.csv) provides a list of all locations where Red Light Cameras (RLCs) are currently installed. RLCs automatically photograph vehicles that run red lights and the resulting photo is used as evidence to issue a ticket to the owner of the vehicle. They are used to help enforce traffic laws, and have been shown to effectively reduce red light running and as a result improve safety at locations where they are installed. This dataset is owned and maintained by the City of Toronto's Transportation Services Division, and is current as of January 2018. 
+
+**Format:** Comma Seperated Values (CSV); also available as [GeoJSON](rlc_locations.geojson) and [ESRI Shapefile](rlc_locations.zip)
 
 ## Relevance to the Vision Zero Challenge
 Red Light Cameras are an effective safety program that improve compliance with traffic laws and reduces collisions at intersections.
