@@ -135,6 +135,7 @@ Datasets in this category provide information about transportation infrastructur
 
 |Dataset|Description|GIS|
 |:-----|:-----|:-----|
+[311 Service Requests](transportation/311_requests)|Customer initiated service requests received by 311 Toronto.|No
 [Bikeways](transportation/bikeways)|Locations of all cyclist infrastructure or cyclist friendly infrastructure.|Yes
 [Bluetooth Travel Times](transportation/bluetooth) |Disaggregate vehicular travel times on pre-defined routes, primarily covering the City's expressways and major downtown arterials.|No
 [Collisions](transportation/collisions)|The locations and details of all reported collisions from 2008 to 2017.|No
