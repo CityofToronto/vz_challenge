@@ -2,7 +2,7 @@
 
 ## Description
 
-The City of Toronto Transportation Services maintains [this dataset](tcl_posted_speeds.zip) `tcl_posted_speeds.zip` which contains the posted speed limits on all of the centreline segments from the March 2013 Toronto Centreline. The speed limits are current as of May  2018.
+The City of Toronto Transportation Services maintains [this dataset](posted_speed_limits.zip) `posted_speed_limits.zip` which contains the posted speed limits on all of the centreline segments from the March 2013 Toronto Centreline. The speed limits are current as of May 2018.
 
 **Format:** ESRI Shapefile
 
