@@ -141,7 +141,7 @@ Datasets in this category provide information about transportation infrastructur
 [Collisions](transportation/collisions)|The locations and details of all reported collisions from 2008 to 2017.|No
 [KSI Collisions](transportation/collisions/ksi_collisions)|The locations and details of all collisions where someone was Killed or Seriously Injured from 2008 to 2017.|Yes
 [Dooring](transportation/collisions/dooring)|Date and locations of each dooring incident.|Yes
-Posted Speed Limits|Posted speed limits for City streets and roads.|Yes
+[Posted Speed Limits](transportation/posted_speed_limits)|Posted speed limits for City streets and roads.|Yes
 [Probe Speed Data](transportation/probe_speeds)|Aggregate percentile speed metrics, by hour, across all streets in the City of Toronto|No
 [Road Restrictions](transportation/road_restrictions)|Current road restrictions/closures and Road Emergency Services Communication Unit (RESCU) incidents in the City of Toronto.|No
 [Sidewalks](transportation/sidewalks)|Information and locations of all sidewalks.|Yes
