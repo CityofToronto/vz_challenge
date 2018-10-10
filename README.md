@@ -1,6 +1,8 @@
 # Vision Zero Challenge Datasets
 
-Welcome to the [Vision Zero Challenge](http://www.visionzerotochallenge.ca/) Datasets collection. These datasets provide information on the many different factors that impact safety on Toronto roads including historical collision records, traffic data, demographic data and locations of neighbourhood amenities. The datasets are organized into the following 11 categories: 
+Welcome to the [Vision Zero Challenge](http://www.visionzerotochallenge.ca/) Datasets collection. These datasets provide information on the many different factors that impact safety on Toronto roads including historical collision records, traffic data, demographic data and locations of neighbourhood amenities. **Now that the challenge has ended, this repository is archived. Some of the datasets were hosted external to this repository for this challenge only, and have been removed (but their documentation remains in this repository).**
+
+The datasets are organized into the following 11 categories: 
 
 1. [Boundaries](#boundaries)
 2. [Child Care](#child-care)
